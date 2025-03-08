@@ -1,0 +1,556 @@
+﻿S0011,Skill in conducting information searches
+S0015,Skill in conducting test events
+S0028,Skill in developing data dictionaries
+S0029,Skill in developing data models
+S0035,Skill in establishing a routing schema
+S0045,Skill in optimizing database performance
+S0048,Skill in systems integration testing
+S0066,Skill in identifying gaps in technical capabilities
+S0077,Skill in securing network communications
+S0080,Skill in performing damage assessments
+S0097,Skill in applying security controls
+S0109,Skill in identifying hidden patterns or relationships
+S0111,Skill in interfacing with customers
+S0114,Skill in performing sensitivity analysis
+S0118,Skill in developing machine understandable semantic ontologies
+S0136,"Skill in network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools"
+S0141,Skill in assessing security systems designs
+S0156,Skill in performing packet-level analysis
+S0172,Skill in applying secure coding techniques
+S0175,Skill in performing root cause analysis
+S0177,Skill in performing network analysis on targets
+S0182,Skill in analyzing target communications internals and externals collected from wireless LANs
+S0186,Skill in applying crisis planning procedures
+S0194,Skill in conducting non-attributable research
+S0208,Skill in determining the physical location of network devices
+S0214,Skill in evaluating accesses for intelligence value
+S0221,Skill in extracting information from packet captures
+S0248,Skill in performing target system analysis
+S0252,Skill in processing collected data for follow-on analysis
+S0283,Skill in transcribing target language communications
+S0310,Skill in applying analytical standards during intelligence product evaluation
+S0335,Skill in identify intelligence gaps
+S0375,Skill in developing information requirements
+S0378,Skill in decrypting information
+S0379,Skill in verifying participation in a security awareness program
+S0380,Skill in facilitating cybersecurity awareness briefings
+S0381,Skill in developing training programs
+S0382,Skill in tailoring code analysis
+S0383,Skill in analyzing an organization's enterprise information technology architecture
+S0384,Skill in applying standards
+S0385,Skill in communicating complex concepts
+S0386,Skill in communicating verbally
+S0387,Skill in communicating in writing
+S0388,Skill in facilitating small group discussions
+S0389,Skill in facilitating group discussions
+S0390,Skill in assessing learner comprehension
+S0391,Skill in creating technical documentation
+S0392,Skill in providing training and education feedback to learners
+S0393,Skill in developing assessments
+S0394,Skill in developing security assessments
+S0395,Skill in developing instructional materials
+S0396,Skill in forecasting requirements
+S0397,Skill in assessing requirements
+S0398,Skill in analyzing organizational objectives
+S0399,Skill in creating complex data structures
+S0400,Skill in creating programming languages
+S0401,Skill in collecting data
+S0402,Skill in verifying data
+S0403,Skill in validating data
+S0404,Skill in conducting market research
+S0405,Skill in pricing products
+S0406,Skill in developing policy plans
+S0407,Skill in developing standard operating procedures (SOPs)
+S0408,Skill in maintaining standard operating procedures (SOPs)
+S0409,Skill in deriving evaluative conclusions from data
+S0410,Skill in creating career path definitions
+S0411,Skill in developing career paths
+S0412,Skill in analyzing supplier trustworthiness
+S0413,Skill in determining supplier trustworthiness
+S0414,Skill in evaluating laws
+S0415,Skill in evaluating regulations
+S0416,Skill in evaluating policies
+S0417,Skill in deploying software securely
+S0418,Skill in applying secure network architectures
+S0419,Skill in designing systems
+S0420,Skill in integrating multiple technologies
+S0421,Skill in operating network equipment
+S0422,Skill in evaluating workforce trends
+S0423,Skill in analyzing processes to ensure conformance with procedural requirements
+S0424,Skill in executing command line tools
+S0425,Skill in operating network systems
+S0426,Skill in building architectures
+S0427,Skill in building frameworks
+S0428,Skill in designing architectures
+S0429,Skill in designing frameworks
+S0430,Skill in collaborating with others
+S0431,Skill in applying critical thinking
+S0432,Skill in coordinating cybersecurity operations across an organization
+S0433,Skill in creating analytics
+S0434,Skill in extrapolating from incomplete data sets
+S0435,Skill in analyzing large data sets
+S0436,Skill in creating target intelligence products
+S0437,Skill in identifying targets of interest
+S0438,"Skill in functioning effectively in a dynamic, fast-paced environment"
+S0439,Skill in identifying external partners
+S0440,Skill in identifying target vulnerabilities
+S0441,Skill in describing target vulnerabilities
+S0442,Skill in collecting network data
+S0443,Skill in mitigating cognitive biases
+S0444,Skill in mitigating deception in reporting and analysis
+S0446,Skill in mimicking threat actors
+S0447,Skill in aligning privacy and cybersecurity objectives
+S0448,Skill in creating automated security control systems
+S0449,Skill in maintaining automated security control systems
+S0450,Skill in authoring privacy disclosure statements
+S0451,Skill in deploying continuous monitoring technologies
+S0452,Skill in creating a risk management program
+S0453,Skill in creating a risk management strategy
+S0454,Skill in creating an internal information sharing program
+S0455,Skill in integrating authorizations with requirements
+S0456,Skill in integrating security plans and authorizations
+S0457,Skill in determining system authorization status
+S0458,Skill in coordinating efforts between stakeholders
+S0459,Skill in creating security assessment reports
+S0460,Skill in verifying contractor compliance with contracts
+S0461,Skill in integrating security requirements and contracts
+S0462,Skill in integrating information security requirements in the acquisitions process
+S0463,Skill in implementing software quality control processes
+S0464,Skill in applying stakeholder management within a system development life cycle
+S0465,Skill in identifying critical infrastructure systems
+S0466,Skill in identifying systems designed without security considerations
+S0467,Skill in conducting an education needs assessment
+S0468,Skill in conducting a training needs assessment
+S0469,Skill in navigating the dark web
+S0470,Skill in using the TOR network
+S0471,Skill in examining digital media
+S0472,Skill in developing virtual machines
+S0473,Skill in maintaining virtual machines
+S0474,Skill in finding system files
+S0475,Skill in recognizing digital forensics data
+S0476,Skill in identifying filename extension abuse
+S0477,Skill in identifying anomalous activity
+S0478,Skill in providing customer support
+S0479,Skill in evaluating supplier trustworthiness
+S0480,Skill in evaluating product trustworthiness
+S0481,Skill in identifying forensic digital footprints
+S0482,Skill in performing forensic data analysis
+S0483,Skill in identifying software communications vulnerabilities
+S0484,Skill in developing user credential management systems
+S0485,Skill in implementing user credential management systems
+S0486,Skill in implementing enterprise key escrow systems
+S0487,Skill in operating IT systems
+S0488,Skill in maintaining IT systems
+S0489,Skill in implementing countermeasures
+S0490,Skill in recreating network topologies
+S0491,Skill in processing digital forensic data
+S0492,Skill in performing threat environment analysis
+S0493,Skill in determining intelligence support requirements
+S0494,Skill in performing operational environment analysis
+S0495,"Skill in determining asset availability, capabilities, and limitations"
+S0496,Skill in assessing intelligence collection tasking
+S0497,Skill in developing client organization profiles
+S0498,Skill in managing an intelligence collection plan
+S0499,Skill in performing intelligence collection analysis
+S0500,Skill in creating intelligence collection strategies
+S0501,Skill in developing crisis action plans
+S0502,Skill in evaluating intelligence collection products
+S0503,Skill in selecting targets
+S0504,Skill in identifying vulnerabilities
+S0505,Skill in performing intrusion data analysis
+S0506,Skill in identifying customer information needs
+S0507,Skill in collecting terminal or environment data
+S0508,Skill in managing enterprise-wide information
+S0509,Skill in evaluating security products
+S0511,Skill in establishing priorities
+S0512,Skill in extracting metadata
+S0513,Skill in determining intelligence employment requirements
+S0514,Skill in preparing operational environments
+S0515,Skill in identifying partner capabilities
+S0516,Skill in performing threat emulation tactics
+S0517,Skill in anticipating threats
+S0518,Skill in assessing threat actors
+S0519,Skill in detecting exploitation activities
+S0520,Skill in determining intelligence collection asset posture and availability
+S0521,Skill in integrating information
+S0522,Skill in summarizing information
+S0523,Skill in constructing networks
+S0524,Skill in implementing network security
+S0525,Skill in managing operations
+S0526,Skill in initiating planning activities
+S0527,Skill in developing crisis action timelines
+S0528,Skill in identifying priority information
+S0529,Skill in identifying production exploitation needs
+S0530,Skill in conducting research
+S0531,Skill in assessing security hardware and software
+S0532,Skill in analyzing software configurations
+S0533,Skill in developing target communication profiles
+S0534,Skill in developing target lists
+S0535,Skill in performing threat factor analysis
+S0536,Skill in applying target templates
+S0537,Skill in designing wireless communications systems
+S0538,Skill in managing sensors
+S0539,Skill in developing transcripts
+S0540,Skill in identifying network threats
+S0541,Skill in providing software updates
+S0542,Skill in developing access control lists
+S0543,Skill in scanning for vulnerabilities
+S0544,Skill in recognizing vulnerabilities
+S0545,Skill in designing data storage solutions
+S0546,Skill in implementing data storage solutions
+S0547,Skill in identifying malware
+S0548,Skill in capturing malware
+S0549,Skill in containing malware
+S0550,Skill in reporting malware
+S0551,Skill in applying information technologies into proposed solutions
+S0552,Skill in applying host access controls
+S0553,Skill in applying network access controls
+S0554,Skill in performing systems analysis
+S0555,Skill in performing capabilities analysis
+S0556,Skill in performing requirements analysis
+S0557,Skill in creating knowledge maps
+S0558,Skill in developing algorithms
+S0559,Skill in performing data structure analysis
+S0560,Skill in debugging software
+S0561,Skill in configuring software
+S0562,Skill in creating mathematical models
+S0563,Skill in creating statistical models
+S0564,Skill in creating system security policies
+S0565,Skill in implementing input validation
+S0566,Skill in developing signatures
+S0567,Skill in deploying signatures
+S0568,Skill in designing data analysis structures
+S0569,Skill in designing security controls
+S0570,Skill in designing the integration of hardware solutions
+S0571,Skill in designing the integration of software solutions
+S0572,Skill in detecting host- and network-based intrusions
+S0573,Skill in developing testing scenarios
+S0574,Skill in developing security system controls
+S0575,Skill in developing network infrastructure contingency and recovery plans
+S0576,Skill in testing network infrastructure contingency and recovery plans
+S0577,Skill in troubleshooting computer networks
+S0578,Skill in evaluating security designs
+S0579,Skill in preparing reports
+S0580,Skill in monitoring system performance
+S0581,Skill in configuring systems for performance enhancement
+S0582,Skill in troubleshooting system performance
+S0583,Skill in implementing established network security practices
+S0584,Skill in configuring network devices
+S0585,Skill in installing network devices
+S0586,Skill in administering databases
+S0587,Skill in maintaining directory services
+S0588,Skill in performing threat modeling
+S0589,Skill in preserving digital evidence integrity
+S0590,Skill in building use cases
+S0591,Skill in performing social engineering
+S0592,Skill in tuning network sensors
+S0593,Skill in handling incidents
+S0594,Skill in repairing hardware
+S0595,Skill in repairing system peripherals
+S0596,Skill in encrypting network communications
+S0597,Skill in writing code in a currently supported programming language
+S0598,Skill in creating test plans
+S0599,Skill in performing memory dump analysis
+S0600,Skill in collecting relevant data from a variety of sources
+S0601,Skill in developing curricula
+S0602,Skill in teaching training programs
+S0603,Skill in identifying forensics data in diverse media
+S0604,Skill in extracting forensics data in diverse media
+S0605,Skill in storing digital evidence
+S0606,Skill in manipulating operating system components
+S0607,Skill in collecting digital evidence
+S0608,Skill in processing digital evidence
+S0609,Skill in transporting digital evidence
+S0610,Skill in communicating effectively
+S0611,Skill in disassembling Personal Computers (PCs)
+S0612,Skill in performing digital forensics analysis
+S0613,Skill in configuring software-based computer protection tools
+S0614,Skill in categorizing types of vulnerabilities
+S0615,Skill in protecting a network against malware
+S0616,Skill in applying black-box software testing
+S0617,Skill in interpreting signatures
+S0618,Skill in configuring network protection components
+S0619,Skill in auditing technical systems
+S0620,Skill in evaluating the trustworthiness of a supply chain
+S0621,Skill in performing binary analysis
+S0622,Skill in implementing one-way hash functions
+S0623,Skill in performing source code analysis
+S0624,Skill in performing volatile data analysis
+S0625,Skill in interpreting debugger results
+S0626,Skill in identifying common encoding techniques
+S0627,Skill in reading signatures
+S0628,Skill in developing learning activities
+S0629,Skill in applying technologies for instructional purposes
+S0630,Skill in conducting Test Readiness Reviews (TRR)
+S0631,Skill in performing data preprocessing
+S0632,Skill in designing Test and Evaluation Strategies (TES)
+S0633,Skill in developing position qualification requirements
+S0634,Skill in identifying Test and Evaluation Strategies (TES) infrastructure requirements
+S0635,Skill in managing test assets
+S0636,Skill in performing format conversions
+S0637,Skill in designing multi-level security solutions
+S0638,Skill in designing cross-domain solutions
+S0639,Skill in providing test and evaluation resource estimates
+S0640,Skill in performing regression analysis
+S0641,Skill in reviewing logs
+S0642,Skill in identifying evidence of past intrusions
+S0643,Skill in applying hardening techniques
+S0644,Skill in performing transformation analytics
+S0645,Skill in troubleshooting cyber defense infrastructure anomalies
+S0646,Skill in applying descriptive statistics
+S0647,Skill in managing a workforce
+S0648,Skill in detecting anomalies
+S0649,Skill in removing outliers
+S0650,Skill in writing scripts
+S0651,Skill in performing malware analysis
+S0652,Skill in performing bit-level analysis
+S0653,Skill in creating digital evidence copies
+S0654,Skill in conducting system reviews
+S0655,Skill in designing secure test plans
+S0656,Skill in assessing application vulnerabilities
+S0657,Skill in implementing Public Key Infrastructure (PKI) encryption
+S0658,Skill in implementing digital signatures
+S0659,Skill in applying security models
+S0660,Skill in performing systems engineering
+S0661,Skill in troubleshooting client-level problems
+S0662,Skill in managing servers
+S0663,Skill in managing workstations
+S0664,Skill in applying policies that meet system security objectives
+S0665,Skill in creating policies
+S0666,Skill in defining performance objectives
+S0667,Skill in assessing security controls
+S0668,Skill in designing technology processes and solutions
+S0669,Skill in integrating technology processes and solutions
+S0670,Skill in implementing error handling in applications
+S0671,Skill in implementing network infrastructure contingency and recovery plans
+S0672,Skill in troubleshooting failed system components
+S0673,Skill in translating operational requirements into security controls
+S0674,Skill in installing system and component upgrades
+S0675,Skill in optimizing system performance
+S0677,Skill in recovering failed systems
+S0678,Skill in administering operating systems
+S0679,Skill in configuring network workstations and peripherals
+S0680,Skill in validating network workstations and peripherals
+S0681,Skill in performing design modeling
+S0682,Skill in applying subnet techniques
+S0683,Skill in implementing network segregation
+S0685,Skill in configuring computer protection components
+S0686,Skill in performing risk assessments
+S0687,Skill in performing administrative planning activities
+S0688,Skill in performing network data analysis
+S0689,Skill in performing language processing tool analysis
+S0690,Skill in performing midpoint collection data analysis
+S0692,Skill in developing target assessments
+S0693,Skill in assessing effects generated during and after cyber operations
+S0694,Skill in auditing network devices
+S0695,Skill in performing Open Source Intelligence (OSINT) research
+S0696,Skill in conducting deep web research
+S0697,Skill in analyzing social networks
+S0698,Skill in creating intelligence collection requirements
+S0699,Skill in creating plans in support of remote operations
+S0700,Skill in mining data
+S0701,Skill in performing data mining analysis
+S0702,Skill in defining an operational environment
+S0703,Skill in depicting data on a network map
+S0704,Skill in performing target analysis
+S0705,Skill in installing patches
+S0706,Skill in identifying patch signatures
+S0707,Skill in developing comprehensive cyber operations assessment programs
+S0708,Skill in executing comprehensive cyber operations assessment programs
+S0709,Skill in developing analytics
+S0710,Skill in evaluating metadata
+S0711,Skill in interpreting metadata
+S0712,Skill in evaluating data source quality
+S0713,Skill in evaluating information quality
+S0714,Skill in performing fusion analysis
+S0715,Skill in generating operation plans
+S0716,Skill in identifying target communications networks
+S0717,Skill in identifying target network characteristics
+S0718,Skill in identifying cybersecurity threats
+S0719,Skill in identifying intelligence gaps
+S0720,Skill in identifying regional languages and dialects
+S0721,Skill in prioritizing information
+S0722,Skill in interpreting traceroute results
+S0723,Skill in interpreting vulnerability scanner results
+S0724,Skill in managing client relationships
+S0725,Skill in performing network visualization
+S0726,Skill in performing data normalization
+S0727,Skill in performing data fusion
+S0728,Skill in preparing briefings
+S0729,Skill in preparing plans
+S0731,Skill in producing after-action reports
+S0732,Skill in recognizing malicious network activity in traffic
+S0733,Skill in interpreting malicious network activity in traffic
+S0734,Skill in identifying technical information
+S0735,Skill in programming
+S0736,Skill in researching software vulnerabilities
+S0737,Skill in researching software exploits
+S0738,Skill in performing reverse engineering of software
+S0739,Skill in analyzing intelligence products
+S0740,Skill in creating target materials
+S0741,Skill in administering servers
+S0743,Skill in identifying network anomalies
+S0744,Skill in performing technical writing
+S0745,Skill in testing tools for implementation
+S0746,Skill in evaluating tools for implementation
+S0747,Skill in translating languages
+S0748,Skill in querying data
+S0749,Skill in determining relevant information
+S0750,Skill in applying geospatial resources
+S0751,Skill in conducting open-source searches
+S0752,Skill in evading network detection
+S0753,Skill in reconstructing target networks
+S0754,Skill in establishing persistence
+S0755,Skill in reconstructing a network
+S0756,Skill in incorporating feedback
+S0757,Skill in verifying the integrity of files
+S0758,Skill in performing wireless network analysis
+S0759,Skill in identifying requirements
+S0760,Skill in navigating databases
+S0761,Skill in performing strategic guidance analysis
+S0762,Skill in integrating organization objectives
+S0763,Skill in assessing cyber operations
+S0764,Skill in comparing indicators with requirements
+S0765,Skill in converting intelligence requirements into intelligence production tasks
+S0766,Skill in coordinating product development
+S0767,Skill in developing tailored intelligence products
+S0768,Skill in allocating resources
+S0769,Skill in defining progress indicators
+S0770,Skill in defining success indicators
+S0771,Skill in creating planning documents
+S0772,Skill in maintaining planning documents
+S0773,Skill in tracking services
+S0774,Skill in evaluating feasibility of intelligence collection sources
+S0775,Skill in developing intelligence collection plans
+S0776,Skill in distinguishing between notional and actual resources
+S0777,Skill in developing collection strategies
+S0778,Skill in evaluating operational environments
+S0779,Skill in determining information requirements
+S0780,Skill in fulfilling information requests
+S0781,Skill in evaluating collection capabilities
+S0782,Skill in determining capability estimates
+S0783,Skill in creating decision support materials
+S0784,Skill in implementing established procedures
+S0785,Skill in interpreting planning guidance
+S0786,Skill in interpreting readiness reporting
+S0787,Skill in monitoring threat effects to partner capabilities
+S0788,Skill in orchestrating planning teams
+S0789,Skill in coordinating collection support
+S0790,Skill in monitoring status
+S0791,Skill in presenting to an audience
+S0792,Skill in resolving conflicting intelligence collection requirements
+S0793,Skill in analyzing performance specifications
+S0794,Skill in establishing timelines
+S0795,Skill in tracking intelligence collection requirements
+S0796,Skill in creating privacy policies
+S0797,Skill in negotiating vendor agreements
+S0798,Skill in evaluating vendor privacy practices
+S0799,Skill in anticipating new security threats
+S0800,Skill in analyzing organizational patterns and relationships
+S0801,Skill in assessing partner operations capabilities
+S0802,Skill in assessing partner intelligence processes
+S0803,Skill in performing partner analysis
+S0804,Skill in assessing an organization's threat environment
+S0805,Skill in designing incident responses
+S0806,Skill in performing incident responses
+S0807,Skill in solving problems
+S0808,Skill in assessing an organization’s data assets
+S0809,Skill in utilizing cyber defense service provider information
+S0810,Skill in responding to threat reports
+S0811,Skill in managing intelligence collection requirements
+S0812,Skill in performing supply chain analysis
+S0813,Skill in identifying cybersecurity issues in external connections
+S0814,Skill in identifying privacy issues in partner interconnections
+S0815,Skill in troubleshooting network equipment
+S0816,Skill in developing curriculum standards
+S0817,Skill in building internal and external relationships
+S0818,Skill in building internal and external stakeholder relationships
+S0819,Skill in caching data
+S0820,Skill in cataloging data
+S0821,Skill in collaborating with internal and external stakeholders
+S0822,Skill in collaborating with stakeholders
+S0824,Skill in communicating with customers
+S0825,Skill in communicating with engineering staff
+S0826,Skill in communicating with external organizations
+S0827,Skill in communicating with internal and external stakeholders
+S0828,Skill in compiling data
+S0829,Skill in conducting customer interviews
+S0830,Skill in conducting feasability studies
+S0831,Skill in configuring hardware
+S0832,Skill in cooperating with internal and external stakeholders
+S0833,Skill in correlating incident data
+S0834,Skill in developing technical reports
+S0835,Skill in distributing data
+S0836,Skill in encrypting data
+S0837,Skill in executing computer scripts to automate tasks
+S0838,Skill in identifying anomalous activities
+S0839,Skill in identifying exploited system weaknesses
+S0840,Skill in identifying misuse activities
+S0841,Skill in identifying possible security violations
+S0842,Skill in interpeting test results
+S0843,Skill in maintaining data
+S0844,Skill in managing account access rights
+S0845,Skill in mapping networks
+S0846,Skill in monitoring system activity
+S0847,Skill in performing all-source intelligence analysis
+S0848,Skill in performing behavioral analysis
+S0850,Skill in performing cost/benefit analysis
+S0851,Skill in performing cultural analysis
+S0852,Skill in performing cyber defense trend analysis
+S0853,Skill in performing cybersecurity architecture analysis
+S0854,Skill in performing data analysis
+S0855,Skill in performing data requirement analysis
+S0856,Skill in performing digital evidence analysis
+S0857,Skill in performing dynamic analysis
+S0858,Skill in performing economic analysis
+S0859,Skill in performing event correlation
+S0860,Skill in performing file system forensic analysis
+S0861,Skill in performing gap analysis
+S0862,Skill in performing geospatial analysis
+S0863,Skill in performing incident analysis
+S0864,Skill in performing intercept related information (IRI) analysis
+S0865,Skill in performing language analysis
+S0866,Skill in performing log file analysis
+S0867,Skill in performing malicious activity analysis
+S0868,Skill in performing market analysis
+S0869,Skill in performing metadata analysis
+S0870,Skill in performing needs analysis
+S0871,Skill in performing network analysis
+S0872,Skill in performing network data flow analysis
+S0873,Skill in performing network trafffic analysis
+S0874,Skill in performing network traffic analysis
+S0875,Skill in performing network traffic packet analysis
+S0876,Skill in performing nodal analysis
+S0877,Skill in performing quantitative analysis
+S0878,Skill in performing risk analysis
+S0879,Skill in performing scientific analysis
+S0880,Skill in performing security architecture analysis
+S0881,Skill in performing social network analysis
+S0882,Skill in performing static analysis
+S0883,Skill in performing static code analysis
+S0884,Skill in performing static malware analysis
+S0885,Skill in performing system activity analysis
+S0886,Skill in performing system analysis
+S0888,Skill in performing target communications analysis
+S0889,Skill in performing test result analysis
+S0890,Skill in performing threat analysis
+S0891,Skill in performing trade-off analysis
+S0892,Skill in performing trend analysis
+S0893,Skill in performing user needs analysis
+S0896,Skill in recognizing behavioral patterns
+S0897,Skill in retrieving data
+S0898,Skill in testing hardware
+S0899,Skill in testing interfaces
+S0900,Skill in analyzing information from multiple sources
+S0902,Skill in building relationships remotely and in person
+S0904,Skill in correlating data from multiple tools
+S0905,Skill in determining what information may helpful to a specific audience
+S0906,Skill in identifying insider risk security gaps
+S0907,Skill in identifying insider threats
+S0908,Skill in determining the importance of assets
+S0909,Skill in integrating information from multiple sources
+S0910,Skill in performing cyberintelligence data analysis
+S0911,Skill in performing data queries
+S0912,Skill in performing human behavioral analysis
+S0913,Skill in performing link analysis
+S0916,Skill in recognizing recurring threat incidents

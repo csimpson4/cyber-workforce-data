@@ -1,0 +1,2562 @@
+[
+  {
+    "_id": "K0018",
+    "description": "Knowledge of encryption algorithms"
+  },
+  {
+    "_id": "K0055",
+    "description": "Knowledge of microprocessors"
+  },
+  {
+    "_id": "K0064",
+    "description": "Knowledge of performance tuning tools and techniques"
+  },
+  {
+    "_id": "K0068",
+    "description": "Knowledge of programming language structures and logic"
+  },
+  {
+    "_id": "K0092",
+    "description": "Knowledge of technology integration processes"
+  },
+  {
+    "_id": "K0159",
+    "description": "Knowledge of Voice over IP (VoIP)"
+  },
+  {
+    "_id": "K0176",
+    "description": "Knowledge of Extensible Markup Language (XML) schemas"
+  },
+  {
+    "_id": "K0359",
+    "description": "Knowledge of approved intelligence dissemination processes"
+  },
+  {
+    "_id": "K0375",
+    "description": "Knowledge of wireless applications vulnerabilities"
+  },
+  {
+    "_id": "K0470",
+    "description": "Knowledge of Internet and routing protocols"
+  },
+  {
+    "_id": "K0476",
+    "description": "Knowledge of language processing tools and techniques"
+  },
+  {
+    "_id": "K0480",
+    "description": "Knowledge of malware"
+  },
+  {
+    "_id": "K0498",
+    "description": "Knowledge of operational planning processes"
+  },
+  {
+    "_id": "K0540",
+    "description": "Knowledge of target communication tools and techniques"
+  },
+  {
+    "_id": "K0551",
+    "description": "Knowledge of targeting cycles"
+  },
+  {
+    "_id": "K0635",
+    "description": "Knowledge of decryption"
+  },
+  {
+    "_id": "K0636",
+    "description": "Knowledge of decryption tools and techniques"
+  },
+  {
+    "_id": "K0637",
+    "description": "Knowledge of data repositories"
+  },
+  {
+    "_id": "K0638",
+    "description": "Knowledge of security awareness programs"
+  },
+  {
+    "_id": "K0639",
+    "description": "Knowledge of code tailoring tools and techniques"
+  },
+  {
+    "_id": "K0640",
+    "description": "Knowledge of the organizational cybersecurity workforce"
+  },
+  {
+    "_id": "K0641",
+    "description": "Knowledge of market research tools and techniques"
+  },
+  {
+    "_id": "K0642",
+    "description": "Knowledge of pricing structures"
+  },
+  {
+    "_id": "K0643",
+    "description": "Knowledge of virtual learning environments"
+  },
+  {
+    "_id": "K0644",
+    "description": "Knowledge of cybersecurity operation policies and procedures"
+  },
+  {
+    "_id": "K0645",
+    "description": "Knowledge of standard operating procedures (SOPs)"
+  },
+  {
+    "_id": "K0646",
+    "description": "Knowledge of system optimization techniques"
+  },
+  {
+    "_id": "K0647",
+    "description": "Knowledge of data visualization tools and techniques"
+  },
+  {
+    "_id": "K0648",
+    "description": "Knowledge of career paths"
+  },
+  {
+    "_id": "K0649",
+    "description": "Knowledge of organizational career progressions"
+  },
+  {
+    "_id": "K0650",
+    "description": "Knowledge of supplier assessment criteria"
+  },
+  {
+    "_id": "K0651",
+    "description": "Knowledge of trustworthiness principles"
+  },
+  {
+    "_id": "K0652",
+    "description": "Knowledge of workforce trends"
+  },
+  {
+    "_id": "K0653",
+    "description": "Knowledge of cybersecurity practices in the acquisition process"
+  },
+  {
+    "_id": "K0654",
+    "description": "Knowledge of target audience requirements"
+  },
+  {
+    "_id": "K0655",
+    "description": "Knowledge of intelligence fusion"
+  },
+  {
+    "_id": "K0656",
+    "description": "Knowledge of network collection tools and techniques"
+  },
+  {
+    "_id": "K0657",
+    "description": "Knowledge of network collection policies and procedures"
+  },
+  {
+    "_id": "K0658",
+    "description": "Knowledge of cognitive biases"
+  },
+  {
+    "_id": "K0659",
+    "description": "Knowledge of information privacy technologies"
+  },
+  {
+    "_id": "K0660",
+    "description": "Knowledge of appropriate use policies and procedures"
+  },
+  {
+    "_id": "K0661",
+    "description": "Knowledge of reauthorization processes"
+  },
+  {
+    "_id": "K0662",
+    "description": "Knowledge of systems security engineering"
+  },
+  {
+    "_id": "K0663",
+    "description": "Knowledge of industry standards and best practices"
+  },
+  {
+    "_id": "K0664",
+    "description": "Knowledge of stakeholder management"
+  },
+  {
+    "_id": "K0666",
+    "description": "Knowledge of system security plans"
+  },
+  {
+    "_id": "K0667",
+    "description": "Knowledge of contracts"
+  },
+  {
+    "_id": "K0668",
+    "description": "Knowledge of contract management"
+  },
+  {
+    "_id": "K0669",
+    "description": "Knowledge of contractor management"
+  },
+  {
+    "_id": "K0670",
+    "description": "Knowledge of life cycle development milestones"
+  },
+  {
+    "_id": "K0671",
+    "description": "Knowledge of Communications Security (COMSEC) policies and procedures"
+  },
+  {
+    "_id": "K0672",
+    "description": "Knowledge of the Communications Security (COMSEC) Material Control System (CMCS)"
+  },
+  {
+    "_id": "K0673",
+    "description": "Knowledge of types of Communications Security (COMSEC) incidents"
+  },
+  {
+    "_id": "K0674",
+    "description": "Knowledge of computer networking protocols"
+  },
+  {
+    "_id": "K0675",
+    "description": "Knowledge of risk management processes"
+  },
+  {
+    "_id": "K0676",
+    "description": "Knowledge of cybersecurity laws and regulations"
+  },
+  {
+    "_id": "K0677",
+    "description": "Knowledge of cybersecurity policies and procedures"
+  },
+  {
+    "_id": "K0678",
+    "description": "Knowledge of privacy laws and regulations"
+  },
+  {
+    "_id": "K0679",
+    "description": "Knowledge of privacy policies and procedures"
+  },
+  {
+    "_id": "K0680",
+    "description": "Knowledge of cybersecurity principles and practices"
+  },
+  {
+    "_id": "K0681",
+    "description": "Knowledge of privacy principles and practices"
+  },
+  {
+    "_id": "K0682",
+    "description": "Knowledge of cybersecurity threats"
+  },
+  {
+    "_id": "K0683",
+    "description": "Knowledge of cybersecurity vulnerabilities"
+  },
+  {
+    "_id": "K0684",
+    "description": "Knowledge of cybersecurity threat characteristics"
+  },
+  {
+    "_id": "K0685",
+    "description": "Knowledge of access control principles and practices"
+  },
+  {
+    "_id": "K0686",
+    "description": "Knowledge of authentication and authorization tools and techniques"
+  },
+  {
+    "_id": "K0687",
+    "description": "Knowledge of business operations standards and best practices"
+  },
+  {
+    "_id": "K0688",
+    "description": "Knowledge of common application vulnerabilities"
+  },
+  {
+    "_id": "K0689",
+    "description": "Knowledge of network infrastructure principles and practices"
+  },
+  {
+    "_id": "K0690",
+    "description": "Knowledge of requirements analysis principles and practices"
+  },
+  {
+    "_id": "K0691",
+    "description": "Knowledge of cyber defense tools and techniques"
+  },
+  {
+    "_id": "K0692",
+    "description": "Knowledge of vulnerability assessment tools and techniques"
+  },
+  {
+    "_id": "K0693",
+    "description": "Knowledge of complex data structure capabilities and applications"
+  },
+  {
+    "_id": "K0694",
+    "description": "Knowledge of computer algorithm capabilities and applications"
+  },
+  {
+    "_id": "K0695",
+    "description": "Knowledge of programming principles and practices"
+  },
+  {
+    "_id": "K0696",
+    "description": "Knowledge of digital forensic data principles and practices"
+  },
+  {
+    "_id": "K0697",
+    "description": "Knowledge of encryption algorithm capabilities and applications"
+  },
+  {
+    "_id": "K0698",
+    "description": "Knowledge of cryptographic key management principles and practices"
+  },
+  {
+    "_id": "K0699",
+    "description": "Knowledge of data administration policies and procedures"
+  },
+  {
+    "_id": "K0700",
+    "description": "Knowledge of data standardization policies and procedures"
+  },
+  {
+    "_id": "K0701",
+    "description": "Knowledge of data backup and recovery policies and procedures"
+  },
+  {
+    "_id": "K0702",
+    "description": "Knowledge of data warehousing principles and practices"
+  },
+  {
+    "_id": "K0703",
+    "description": "Knowledge of data mining principles and practices"
+  },
+  {
+    "_id": "K0704",
+    "description": "Knowledge of database management system (DBMS) principles and practices"
+  },
+  {
+    "_id": "K0705",
+    "description": "Knowledge of database query language capabilities and applications"
+  },
+  {
+    "_id": "K0706",
+    "description": "Knowledge of database schema capabilities and applications"
+  },
+  {
+    "_id": "K0707",
+    "description": "Knowledge of database systems and software"
+  },
+  {
+    "_id": "K0708",
+    "description": "Knowledge of digital rights management (DRM) tools and techniques"
+  },
+  {
+    "_id": "K0709",
+    "description": "Knowledge of business continuity and disaster recovery (BCDR) policies and procedures"
+  },
+  {
+    "_id": "K0710",
+    "description": "Knowledge of enterprise cybersecurity architecture principles and practices"
+  },
+  {
+    "_id": "K0711",
+    "description": "Knowledge of evaluation and validation principles and practices"
+  },
+  {
+    "_id": "K0712",
+    "description": "Knowledge of Local Area Networks (LAN)"
+  },
+  {
+    "_id": "K0713",
+    "description": "Knowledge of Wide Area Networks (WAN)"
+  },
+  {
+    "_id": "K0714",
+    "description": "Knowledge of electrical engineering principles and practices"
+  },
+  {
+    "_id": "K0715",
+    "description": "Knowledge of resiliency and redundancy principles and practices"
+  },
+  {
+    "_id": "K0716",
+    "description": "Knowledge of host access control (HAC) systems and software"
+  },
+  {
+    "_id": "K0717",
+    "description": "Knowledge of network access control (NAC) systems and software"
+  },
+  {
+    "_id": "K0718",
+    "description": "Knowledge of network communications principles and practices"
+  },
+  {
+    "_id": "K0719",
+    "description": "Knowledge of human-computer interaction (HCI) principles and practices"
+  },
+  {
+    "_id": "K0720",
+    "description": "Knowledge of Security Assessment and Authorization (SA&A) processes"
+  },
+  {
+    "_id": "K0721",
+    "description": "Knowledge of risk management principles and practices"
+  },
+  {
+    "_id": "K0722",
+    "description": "Knowledge of software development principles and practices"
+  },
+  {
+    "_id": "K0723",
+    "description": "Knowledge of vulnerability data sources"
+  },
+  {
+    "_id": "K0724",
+    "description": "Knowledge of incident response principles and practices"
+  },
+  {
+    "_id": "K0725",
+    "description": "Knowledge of incident response tools and techniques"
+  },
+  {
+    "_id": "K0726",
+    "description": "Knowledge of incident handling tools and techniques"
+  },
+  {
+    "_id": "K0727",
+    "description": "Knowledge of analysis standards and best practices"
+  },
+  {
+    "_id": "K0728",
+    "description": "Knowledge of Confidentiality, Integrity and Availability (CIA) principles and practices"
+  },
+  {
+    "_id": "K0729",
+    "description": "Knowledge of non-repudiation principles and practices"
+  },
+  {
+    "_id": "K0730",
+    "description": "Knowledge of cyber safety principles and practices"
+  },
+  {
+    "_id": "K0731",
+    "description": "Knowledge of systems security engineering (SSE) principles and practices"
+  },
+  {
+    "_id": "K0732",
+    "description": "Knowledge of intrusion detection tools and techniques"
+  },
+  {
+    "_id": "K0733",
+    "description": "Knowledge of information technology (IT) architecture models and frameworks"
+  },
+  {
+    "_id": "K0734",
+    "description": "Knowledge of Risk Management Framework (RMF) requirements"
+  },
+  {
+    "_id": "K0735",
+    "description": "Knowledge of risk management models and frameworks"
+  },
+  {
+    "_id": "K0736",
+    "description": "Knowledge of information technology (IT) security principles and practices"
+  },
+  {
+    "_id": "K0737",
+    "description": "Knowledge of bandwidth management tools and techniques"
+  },
+  {
+    "_id": "K0738",
+    "description": "Knowledge of low-level programming languages"
+  },
+  {
+    "_id": "K0739",
+    "description": "Knowledge of mathematics principles and practices"
+  },
+  {
+    "_id": "K0740",
+    "description": "Knowledge of system performance indicators"
+  },
+  {
+    "_id": "K0741",
+    "description": "Knowledge of system availability measures"
+  },
+  {
+    "_id": "K0742",
+    "description": "Knowledge of identity and access management (IAM) principles and practices"
+  },
+  {
+    "_id": "K0743",
+    "description": "Knowledge of new and emerging technologies"
+  },
+  {
+    "_id": "K0744",
+    "description": "Knowledge of operating system (OS) systems and software"
+  },
+  {
+    "_id": "K0745",
+    "description": "Knowledge of parallel and distributed computing principles and practices"
+  },
+  {
+    "_id": "K0746",
+    "description": "Knowledge of policy-based access controls"
+  },
+  {
+    "_id": "K0747",
+    "description": "Knowledge of Risk Adaptive (Adaptable) Access Controls (RAdAC)"
+  },
+  {
+    "_id": "K0748",
+    "description": "Knowledge of Privacy Impact Assessment (PIA) principles and practices"
+  },
+  {
+    "_id": "K0749",
+    "description": "Knowledge of process engineering principles and practices"
+  },
+  {
+    "_id": "K0750",
+    "description": "Knowledge of query languages"
+  },
+  {
+    "_id": "K0751",
+    "description": "Knowledge of system threats"
+  },
+  {
+    "_id": "K0752",
+    "description": "Knowledge of system vulnerabilities"
+  },
+  {
+    "_id": "K0753",
+    "description": "Knowledge of remote access principles and practices"
+  },
+  {
+    "_id": "K0754",
+    "description": "Knowledge of resource management principles and practices"
+  },
+  {
+    "_id": "K0755",
+    "description": "Knowledge of configuration management (CM) tools and techniques"
+  },
+  {
+    "_id": "K0756",
+    "description": "Knowledge of security management principles and practices"
+  },
+  {
+    "_id": "K0757",
+    "description": "Knowledge of system design tools and techniques"
+  },
+  {
+    "_id": "K0758",
+    "description": "Knowledge of server administration principles and practices"
+  },
+  {
+    "_id": "K0759",
+    "description": "Knowledge of client and server architecture"
+  },
+  {
+    "_id": "K0760",
+    "description": "Knowledge of server diagnostic tools and techniques"
+  },
+  {
+    "_id": "K0761",
+    "description": "Knowledge of Fault Detection and Diagnostics (FDD) tools and techniques"
+  },
+  {
+    "_id": "K0762",
+    "description": "Knowledge of software debugging principles and practices"
+  },
+  {
+    "_id": "K0763",
+    "description": "Knowledge of software design tools and techniques"
+  },
+  {
+    "_id": "K0764",
+    "description": "Knowledge of software development models and frameworks"
+  },
+  {
+    "_id": "K0765",
+    "description": "Knowledge of software engineering principles and practices"
+  },
+  {
+    "_id": "K0766",
+    "description": "Knowledge of data asset management principles and practices"
+  },
+  {
+    "_id": "K0767",
+    "description": "Knowledge of structured analysis principles and practices"
+  },
+  {
+    "_id": "K0768",
+    "description": "Knowledge of automated systems analysis tools and techniques"
+  },
+  {
+    "_id": "K0769",
+    "description": "Knowledge of system design standards and best practices"
+  },
+  {
+    "_id": "K0770",
+    "description": "Knowledge of system administration principles and practices"
+  },
+  {
+    "_id": "K0771",
+    "description": "Knowledge of system life cycle management principles and practices"
+  },
+  {
+    "_id": "K0772",
+    "description": "Knowledge of systems testing and evaluation tools and techniques"
+  },
+  {
+    "_id": "K0773",
+    "description": "Knowledge of telecommunications principles and practices"
+  },
+  {
+    "_id": "K0774",
+    "description": "Knowledge of content creation tools and techniques"
+  },
+  {
+    "_id": "K0775",
+    "description": "Knowledge of information management tools and techniques"
+  },
+  {
+    "_id": "K0776",
+    "description": "Knowledge of collaboration tools and techniques"
+  },
+  {
+    "_id": "K0777",
+    "description": "Knowledge of data storage media characteristics"
+  },
+  {
+    "_id": "K0778",
+    "description": "Knowledge of enterprise information technology (IT) architecture principles and practices"
+  },
+  {
+    "_id": "K0779",
+    "description": "Knowledge of systems engineering processes"
+  },
+  {
+    "_id": "K0780",
+    "description": "Knowledge of hardware maintenance policies and procedures"
+  },
+  {
+    "_id": "K0781",
+    "description": "Knowledge of virtual private network (VPN) systems and software"
+  },
+  {
+    "_id": "K0782",
+    "description": "Knowledge of web service protocols"
+  },
+  {
+    "_id": "K0783",
+    "description": "Knowledge of network attack characteristics"
+  },
+  {
+    "_id": "K0784",
+    "description": "Knowledge of insider threat laws and regulations"
+  },
+  {
+    "_id": "K0785",
+    "description": "Knowledge of insider threat tools and techniques"
+  },
+  {
+    "_id": "K0786",
+    "description": "Knowledge of physical computer components"
+  },
+  {
+    "_id": "K0787",
+    "description": "Knowledge of computer peripherals"
+  },
+  {
+    "_id": "K0788",
+    "description": "Knowledge of adversarial tactics principles and practices"
+  },
+  {
+    "_id": "K0789",
+    "description": "Knowledge of adversarial tactics tools and techniques"
+  },
+  {
+    "_id": "K0790",
+    "description": "Knowledge of adversarial tactics policies and procedures"
+  },
+  {
+    "_id": "K0791",
+    "description": "Knowledge of defense-in-depth principles and practices"
+  },
+  {
+    "_id": "K0792",
+    "description": "Knowledge of network configurations"
+  },
+  {
+    "_id": "K0793",
+    "description": "Knowledge of file extensions"
+  },
+  {
+    "_id": "K0794",
+    "description": "Knowledge of file system implementation principles and practices"
+  },
+  {
+    "_id": "K0795",
+    "description": "Knowledge of digital evidence seizure policies and procedures"
+  },
+  {
+    "_id": "K0796",
+    "description": "Knowledge of digital evidence preservation policies and procedures"
+  },
+  {
+    "_id": "K0797",
+    "description": "Knowledge of ethical hacking tools and techniques"
+  },
+  {
+    "_id": "K0798",
+    "description": "Knowledge of program management principles and practices"
+  },
+  {
+    "_id": "K0799",
+    "description": "Knowledge of project management principles and practices"
+  },
+  {
+    "_id": "K0800",
+    "description": "Knowledge of evidence admissibility laws and regulations"
+  },
+  {
+    "_id": "K0801",
+    "description": "Knowledge of cognitive domain models and frameworks"
+  },
+  {
+    "_id": "K0802",
+    "description": "Knowledge of chain of custody policies and procedures"
+  },
+  {
+    "_id": "K0803",
+    "description": "Knowledge of supply chain risk management principles and practices"
+  },
+  {
+    "_id": "K0804",
+    "description": "Knowledge of persistent data principles and practices"
+  },
+  {
+    "_id": "K0805",
+    "description": "Knowledge of command-line tools and techniques"
+  },
+  {
+    "_id": "K0806",
+    "description": "Knowledge of machine virtualization tools and techniques"
+  },
+  {
+    "_id": "K0807",
+    "description": "Knowledge of web mail tools and techniques"
+  },
+  {
+    "_id": "K0808",
+    "description": "Knowledge of system file characteristics"
+  },
+  {
+    "_id": "K0809",
+    "description": "Knowledge of digital forensics data characteristics"
+  },
+  {
+    "_id": "K0810",
+    "description": "Knowledge of deployable forensics principles and practices"
+  },
+  {
+    "_id": "K0811",
+    "description": "Knowledge of web filtering systems and software"
+  },
+  {
+    "_id": "K0812",
+    "description": "Knowledge of digital communication systems and software"
+  },
+  {
+    "_id": "K0813",
+    "description": "Knowledge of interpreted and compiled programming language characteristics"
+  },
+  {
+    "_id": "K0814",
+    "description": "Knowledge of secure coding tools and techniques"
+  },
+  {
+    "_id": "K0815",
+    "description": "Knowledge of intelligence collection management processes"
+  },
+  {
+    "_id": "K0816",
+    "description": "Knowledge of front-end intelligence collection systems and software"
+  },
+  {
+    "_id": "K0817",
+    "description": "Knowledge of event correlation tools and techniques"
+  },
+  {
+    "_id": "K0818",
+    "description": "Knowledge of new and emerging cybersecurity risks"
+  },
+  {
+    "_id": "K0819",
+    "description": "Knowledge of import and export control laws and regulations"
+  },
+  {
+    "_id": "K0820",
+    "description": "Knowledge of supply chain risks"
+  },
+  {
+    "_id": "K0821",
+    "description": "Knowledge of federal agency roles and responsibilities"
+  },
+  {
+    "_id": "K0822",
+    "description": "Knowledge of risk tolerance principles and practices"
+  },
+  {
+    "_id": "K0823",
+    "description": "Knowledge of incident response policies and procedures"
+  },
+  {
+    "_id": "K0824",
+    "description": "Knowledge of incident response roles and responsibilities"
+  },
+  {
+    "_id": "K0825",
+    "description": "Knowledge of threat vector characteristics"
+  },
+  {
+    "_id": "K0826",
+    "description": "Knowledge of software security principles and practices"
+  },
+  {
+    "_id": "K0827",
+    "description": "Knowledge of software quality assurance (SQA) principles and practices"
+  },
+  {
+    "_id": "K0828",
+    "description": "Knowledge of supply chain risk management standards and best practices"
+  },
+  {
+    "_id": "K0829",
+    "description": "Knowledge of account creation policies and procedures"
+  },
+  {
+    "_id": "K0830",
+    "description": "Knowledge of password policies and procedures"
+  },
+  {
+    "_id": "K0831",
+    "description": "Knowledge of network attack vectors"
+  },
+  {
+    "_id": "K0832",
+    "description": "Knowledge of cyberattack characteristics"
+  },
+  {
+    "_id": "K0833",
+    "description": "Knowledge of cyberattack actor characteristics"
+  },
+  {
+    "_id": "K0834",
+    "description": "Knowledge of technology procurement principles and practices"
+  },
+  {
+    "_id": "K0835",
+    "description": "Knowledge of risk assessment principles and practices"
+  },
+  {
+    "_id": "K0836",
+    "description": "Knowledge of threat assessment principles and practices"
+  },
+  {
+    "_id": "K0837",
+    "description": "Knowledge of hardening tools and techniques"
+  },
+  {
+    "_id": "K0838",
+    "description": "Knowledge of supply chain risk management policies and procedures"
+  },
+  {
+    "_id": "K0839",
+    "description": "Knowledge of critical infrastructure systems and software"
+  },
+  {
+    "_id": "K0840",
+    "description": "Knowledge of hardware reverse engineering tools and techniques"
+  },
+  {
+    "_id": "K0841",
+    "description": "Knowledge of middleware software capabilities and applications"
+  },
+  {
+    "_id": "K0842",
+    "description": "Knowledge of software reverse engineering tools and techniques"
+  },
+  {
+    "_id": "K0844",
+    "description": "Knowledge of cyber attack stages"
+  },
+  {
+    "_id": "K0845",
+    "description": "Knowledge of cyber intrusion activity phases"
+  },
+  {
+    "_id": "K0846",
+    "description": "Knowledge of secure software deployment principles and practices"
+  },
+  {
+    "_id": "K0847",
+    "description": "Knowledge of secure software deployment tools and techniques"
+  },
+  {
+    "_id": "K0848",
+    "description": "Knowledge of network systems management principles and practices"
+  },
+  {
+    "_id": "K0849",
+    "description": "Knowledge of network systems management tools and techniques"
+  },
+  {
+    "_id": "K0850",
+    "description": "Knowledge of data carving tools and techniques"
+  },
+  {
+    "_id": "K0851",
+    "description": "Knowledge of reverse engineering principles and practices"
+  },
+  {
+    "_id": "K0852",
+    "description": "Knowledge of anti-forensics tools and techniques"
+  },
+  {
+    "_id": "K0853",
+    "description": "Knowledge of forensics lab design principles and practices"
+  },
+  {
+    "_id": "K0854",
+    "description": "Knowledge of forensics lab design systems and software"
+  },
+  {
+    "_id": "K0855",
+    "description": "Knowledge of debugging tools and techniques"
+  },
+  {
+    "_id": "K0856",
+    "description": "Knowledge of filename extension abuse"
+  },
+  {
+    "_id": "K0857",
+    "description": "Knowledge of malware analysis tools and techniques"
+  },
+  {
+    "_id": "K0858",
+    "description": "Knowledge of virtual machine detection tools and techniques"
+  },
+  {
+    "_id": "K0859",
+    "description": "Knowledge of encryption tools and techniques"
+  },
+  {
+    "_id": "K0860",
+    "description": "Knowledge of malware signature principles and practices"
+  },
+  {
+    "_id": "K0861",
+    "description": "Knowledge of network port capabilities and applications"
+  },
+  {
+    "_id": "K0862",
+    "description": "Knowledge of data remediation tools and techniques"
+  },
+  {
+    "_id": "K0863",
+    "description": "Knowledge of cloud computing principles and practices"
+  },
+  {
+    "_id": "K0864",
+    "description": "Knowledge of knowledge management principles and practices"
+  },
+  {
+    "_id": "K0865",
+    "description": "Knowledge of data classification standards and best practices"
+  },
+  {
+    "_id": "K0866",
+    "description": "Knowledge of data classification tools and techniques"
+  },
+  {
+    "_id": "K0867",
+    "description": "Knowledge of database application programming interfaces (APIs)"
+  },
+  {
+    "_id": "K0868",
+    "description": "Knowledge of process improvement principles and practices"
+  },
+  {
+    "_id": "K0869",
+    "description": "Knowledge of process maturity models and frameworks"
+  },
+  {
+    "_id": "K0870",
+    "description": "Knowledge of enterprise architecture (EA) reference models and frameworks"
+  },
+  {
+    "_id": "K0871",
+    "description": "Knowledge of enterprise architecture (EA) principles and practices"
+  },
+  {
+    "_id": "K0872",
+    "description": "Knowledge of service management principles and practices"
+  },
+  {
+    "_id": "K0873",
+    "description": "Knowledge of service management standards and best practices"
+  },
+  {
+    "_id": "K0874",
+    "description": "Knowledge of key management service (KMS) principles and practices"
+  },
+  {
+    "_id": "K0875",
+    "description": "Knowledge of symmetric encryption principles and practices"
+  },
+  {
+    "_id": "K0876",
+    "description": "Knowledge of key management service (KMS) key rotation policies and procedures"
+  },
+  {
+    "_id": "K0877",
+    "description": "Knowledge of application firewall principles and practices"
+  },
+  {
+    "_id": "K0878",
+    "description": "Knowledge of network firewall principles and practices"
+  },
+  {
+    "_id": "K0879",
+    "description": "Knowledge of industry cybersecurity models and frameworks"
+  },
+  {
+    "_id": "K0880",
+    "description": "Knowledge of access control models and frameworks"
+  },
+  {
+    "_id": "K0881",
+    "description": "Knowledge of learning assessment tools and techniques"
+  },
+  {
+    "_id": "K0882",
+    "description": "Knowledge of ethical hacking principles and practices"
+  },
+  {
+    "_id": "K0883",
+    "description": "Knowledge of circuit analysis tools and techniques"
+  },
+  {
+    "_id": "K0884",
+    "description": "Knowledge of covert communication tools and techniques"
+  },
+  {
+    "_id": "K0885",
+    "description": "Knowledge of instructional design principles and practices"
+  },
+  {
+    "_id": "K0886",
+    "description": "Knowledge of instructional design models and frameworks"
+  },
+  {
+    "_id": "K0887",
+    "description": "Knowledge of training policies and procedures"
+  },
+  {
+    "_id": "K0888",
+    "description": "Knowledge of Bloom's Taxonomy learning levels"
+  },
+  {
+    "_id": "K0889",
+    "description": "Knowledge of learning management system (LMS) systems and software"
+  },
+  {
+    "_id": "K0890",
+    "description": "Knowledge of learning modes"
+  },
+  {
+    "_id": "K0891",
+    "description": "Knowledge of the Open Systems Interconnect (OSI) reference model"
+  },
+  {
+    "_id": "K0892",
+    "description": "Knowledge of cyber defense laws and regulations"
+  },
+  {
+    "_id": "K0893",
+    "description": "Knowledge of training systems and software"
+  },
+  {
+    "_id": "K0894",
+    "description": "Knowledge of computer architecture principles and practices"
+  },
+  {
+    "_id": "K0895",
+    "description": "Knowledge of taxonomy models and frameworks"
+  },
+  {
+    "_id": "K0896",
+    "description": "Knowledge of semantic ontology models and frameworks"
+  },
+  {
+    "_id": "K0897",
+    "description": "Knowledge of logging tools and technologies"
+  },
+  {
+    "_id": "K0898",
+    "description": "Knowledge of cloud service models and frameworks"
+  },
+  {
+    "_id": "K0899",
+    "description": "Knowledge of crisis management protocols"
+  },
+  {
+    "_id": "K0900",
+    "description": "Knowledge of crisis management processes"
+  },
+  {
+    "_id": "K0901",
+    "description": "Knowledge of crisis management tools and techniques"
+  },
+  {
+    "_id": "K0902",
+    "description": "Knowledge of the NIST Workforce Framework for Cybersecurity (NICE Framework)"
+  },
+  {
+    "_id": "K0903",
+    "description": "Knowledge of service desk principles and practices"
+  },
+  {
+    "_id": "K0904",
+    "description": "Knowledge of machine learning principles and practices"
+  },
+  {
+    "_id": "K0905",
+    "description": "Knowledge of media production tool and techniques"
+  },
+  {
+    "_id": "K0906",
+    "description": "Knowledge of multi-level security (MLS) systems and software"
+  },
+  {
+    "_id": "K0907",
+    "description": "Knowledge of cross-domain solutions"
+  },
+  {
+    "_id": "K0908",
+    "description": "Knowledge of human resources policies and procedures"
+  },
+  {
+    "_id": "K0909",
+    "description": "Knowledge of abnormal physical and physiological behaviors"
+  },
+  {
+    "_id": "K0910",
+    "description": "Knowledge of needs assessment principles and practices"
+  },
+  {
+    "_id": "K0911",
+    "description": "Knowledge of remote access tools and techniques"
+  },
+  {
+    "_id": "K0912",
+    "description": "Knowledge of sustainment principles and practices"
+  },
+  {
+    "_id": "K0913",
+    "description": "Knowledge of sustainment processes"
+  },
+  {
+    "_id": "K0914",
+    "description": "Knowledge of binary analysis tools and techniques"
+  },
+  {
+    "_id": "K0915",
+    "description": "Knowledge of network architecture principles and practices"
+  },
+  {
+    "_id": "K0916",
+    "description": "Knowledge of malware analysis principles and practices"
+  },
+  {
+    "_id": "K0917",
+    "description": "Knowledge of Personally Identifiable Information (PII) data security standards and best practices"
+  },
+  {
+    "_id": "K0918",
+    "description": "Knowledge of Payment Card Industry (PCI) data security standards and best practices"
+  },
+  {
+    "_id": "K0919",
+    "description": "Knowledge of Personal Health Information (PHI) data security standards and best practices"
+  },
+  {
+    "_id": "K0920",
+    "description": "Knowledge of risk management policies and procedures"
+  },
+  {
+    "_id": "K0921",
+    "description": "Knowledge of program protection plan (PPP) principles and practices"
+  },
+  {
+    "_id": "K0922",
+    "description": "Knowledge of the acquisition life cycle models and frameworks"
+  },
+  {
+    "_id": "K0923",
+    "description": "Knowledge of operating system structures and internals"
+  },
+  {
+    "_id": "K0924",
+    "description": "Knowledge of network analysis tools and techniques"
+  },
+  {
+    "_id": "K0925",
+    "description": "Knowledge of wireless communication tools and techniques"
+  },
+  {
+    "_id": "K0926",
+    "description": "Knowledge of signal jamming tools and techniques"
+  },
+  {
+    "_id": "K0927",
+    "description": "Knowledge of configuration management tools and techniques"
+  },
+  {
+    "_id": "K0928",
+    "description": "Knowledge of systems engineering principles and practices"
+  },
+  {
+    "_id": "K0929",
+    "description": "Knowledge of content synchronization tools and techniques"
+  },
+  {
+    "_id": "K0930",
+    "description": "Knowledge of credential management systems and software"
+  },
+  {
+    "_id": "K0931",
+    "description": "Knowledge of data-at-rest encryption (DARE) standards and best practices"
+  },
+  {
+    "_id": "K0932",
+    "description": "Knowledge of cryptographic key storage systems and software"
+  },
+  {
+    "_id": "K0933",
+    "description": "Knowledge of N-tier architecture principles and practices"
+  },
+  {
+    "_id": "K0934",
+    "description": "Knowledge of data classification policies and procedures"
+  },
+  {
+    "_id": "K0935",
+    "description": "Knowledge of incident, event, and problem management policies and procedures"
+  },
+  {
+    "_id": "K0936",
+    "description": "Knowledge of network hardware threats and vulnerabilities"
+  },
+  {
+    "_id": "K0937",
+    "description": "Knowledge of countermeasure design principles and practices"
+  },
+  {
+    "_id": "K0938",
+    "description": "Knowledge of network mapping principles and practices"
+  },
+  {
+    "_id": "K0939",
+    "description": "Knowledge of packet-level analysis tools and techniques"
+  },
+  {
+    "_id": "K0940",
+    "description": "Knowledge of subnet tools and techniques"
+  },
+  {
+    "_id": "K0941",
+    "description": "Knowledge of data concealment tools and techniques"
+  },
+  {
+    "_id": "K0942",
+    "description": "Knowledge of cryptology principles and practices"
+  },
+  {
+    "_id": "K0943",
+    "description": "Knowledge of industry indicators"
+  },
+  {
+    "_id": "K0944",
+    "description": "Knowledge of intelligence data gathering principles and practices"
+  },
+  {
+    "_id": "K0945",
+    "description": "Knowledge of intelligence data gathering policies and procedures"
+  },
+  {
+    "_id": "K0946",
+    "description": "Knowledge of incident reporting policies and procedures"
+  },
+  {
+    "_id": "K0947",
+    "description": "Knowledge of computer engineering principles and practices"
+  },
+  {
+    "_id": "K0948",
+    "description": "Knowledge of embedded systems and software"
+  },
+  {
+    "_id": "K0949",
+    "description": "Knowledge of fault tolerance tools and techniques"
+  },
+  {
+    "_id": "K0950",
+    "description": "Knowledge of Intrusion Detection System (IDS) tools and techniques"
+  },
+  {
+    "_id": "K0951",
+    "description": "Knowledge of Intrusion Prevention System (IPS) tools and techniques"
+  },
+  {
+    "_id": "K0952",
+    "description": "Knowledge of information theory principles and practices"
+  },
+  {
+    "_id": "K0953",
+    "description": "Knowledge of data mining tools and techniques"
+  },
+  {
+    "_id": "K0954",
+    "description": "Knowledge of foreign disclosure policies and procedures"
+  },
+  {
+    "_id": "K0955",
+    "description": "Knowledge of penetration testing principles and practices"
+  },
+  {
+    "_id": "K0956",
+    "description": "Knowledge of penetration testing tools and techniques"
+  },
+  {
+    "_id": "K0957",
+    "description": "Knowledge of root cause analysis tools and techniques"
+  },
+  {
+    "_id": "K0958",
+    "description": "Knowledge of system integration principles and practices"
+  },
+  {
+    "_id": "K0959",
+    "description": "Knowledge of operational design principles and practices"
+  },
+  {
+    "_id": "K0960",
+    "description": "Knowledge of content management system (CMS) capabilities and applications"
+  },
+  {
+    "_id": "K0961",
+    "description": "Knowledge of planning systems and software"
+  },
+  {
+    "_id": "K0962",
+    "description": "Knowledge of targeting laws and regulations"
+  },
+  {
+    "_id": "K0963",
+    "description": "Knowledge of exploitation laws and regulations"
+  },
+  {
+    "_id": "K0964",
+    "description": "Knowledge of all-source intelligence reporting policies and procedures"
+  },
+  {
+    "_id": "K0965",
+    "description": "Knowledge of language analysis tools and techniques"
+  },
+  {
+    "_id": "K0966",
+    "description": "Knowledge of voice analysis tools and techniques"
+  },
+  {
+    "_id": "K0967",
+    "description": "Knowledge of graphic materials analysis tools and techniques"
+  },
+  {
+    "_id": "K0968",
+    "description": "Knowledge of analytic standards and frameworks Skill in assigning analytical confidence ratings"
+  },
+  {
+    "_id": "K0969",
+    "description": "Knowledge of cyber-attack tools and techniques"
+  },
+  {
+    "_id": "K0970",
+    "description": "Knowledge of auditing policies and procedures"
+  },
+  {
+    "_id": "K0971",
+    "description": "Knowledge of logging policies and procedures"
+  },
+  {
+    "_id": "K0972",
+    "description": "Knowledge of intelligence collection tasking tools and techniques"
+  },
+  {
+    "_id": "K0973",
+    "description": "Knowledge of system persistence tools and techniques"
+  },
+  {
+    "_id": "K0974",
+    "description": "Knowledge of intelligence collection development processes"
+  },
+  {
+    "_id": "K0975",
+    "description": "Knowledge of software application vulnerabilities"
+  },
+  {
+    "_id": "K0976",
+    "description": "Knowledge of intelligence collection principles and practices"
+  },
+  {
+    "_id": "K0977",
+    "description": "Knowledge of intelligence collection management tools and techniques"
+  },
+  {
+    "_id": "K0978",
+    "description": "Knowledge of intelligence collection planning processes"
+  },
+  {
+    "_id": "K0979",
+    "description": "Knowledge of information searching tools and techniques"
+  },
+  {
+    "_id": "K0980",
+    "description": "Knowledge of intelligence collection sources"
+  },
+  {
+    "_id": "K0981",
+    "description": "Knowledge of intelligence collection systems and software"
+  },
+  {
+    "_id": "K0983",
+    "description": "Knowledge of computer networking principles and practices"
+  },
+  {
+    "_id": "K0984",
+    "description": "Knowledge of web security principles and practices"
+  },
+  {
+    "_id": "K0985",
+    "description": "Knowledge of crisis action plan models and frameworks"
+  },
+  {
+    "_id": "K0986",
+    "description": "Knowledge of target selection criticality factors"
+  },
+  {
+    "_id": "K0987",
+    "description": "Knowledge of target selection vulnerability factors"
+  },
+  {
+    "_id": "K0988",
+    "description": "Knowledge of active defense tools and techniques"
+  },
+  {
+    "_id": "K0989",
+    "description": "Knowledge of intelligence information repositories"
+  },
+  {
+    "_id": "K0990",
+    "description": "Knowledge of cyber operations principles and practices"
+  },
+  {
+    "_id": "K0991",
+    "description": "Knowledge of database administration principles and practices"
+  },
+  {
+    "_id": "K0992",
+    "description": "Knowledge of database maintenance principles and practices"
+  },
+  {
+    "_id": "K0993",
+    "description": "Knowledge of deconfliction processes"
+  },
+  {
+    "_id": "K0994",
+    "description": "Knowledge of denial and deception tools and techniques"
+  },
+  {
+    "_id": "K0995",
+    "description": "Knowledge of dynamic targeting principles and practices"
+  },
+  {
+    "_id": "K0996",
+    "description": "Knowledge of deliberate targeting principles and practices"
+  },
+  {
+    "_id": "K0998",
+    "description": "Knowledge of Wireless Local Area Network (WLAN) tools and techniques"
+  },
+  {
+    "_id": "K0999",
+    "description": "Knowledge of information management principles and practices"
+  },
+  {
+    "_id": "K1000",
+    "description": "Knowledge of evasion principles and practices"
+  },
+  {
+    "_id": "K1001",
+    "description": "Knowledge of evasion tools and techniques"
+  },
+  {
+    "_id": "K1002",
+    "description": "Knowledge of supervisory control and data acquisition (SCADA) systems and software"
+  },
+  {
+    "_id": "K1003",
+    "description": "Knowledge of targeting governing authorities"
+  },
+  {
+    "_id": "K1004",
+    "description": "Knowledge of reporting policies and procedures"
+  },
+  {
+    "_id": "K1005",
+    "description": "Knowledge of intelligence collection capabilities and applications"
+  },
+  {
+    "_id": "K1006",
+    "description": "Knowledge of intelligence cycle principles and practices"
+  },
+  {
+    "_id": "K1007",
+    "description": "Knowledge of intelligence requirements tasking systems and software"
+  },
+  {
+    "_id": "K1008",
+    "description": "Knowledge of intelligence support activities"
+  },
+  {
+    "_id": "K1009",
+    "description": "Knowledge of threat intelligence principles and practices"
+  },
+  {
+    "_id": "K1010",
+    "description": "Knowledge of intelligence policies and procedures"
+  },
+  {
+    "_id": "K1011",
+    "description": "Knowledge of network addressing principles and practices"
+  },
+  {
+    "_id": "K1012",
+    "description": "Knowledge of malware characteristics"
+  },
+  {
+    "_id": "K1013",
+    "description": "Knowledge of midpoint collection principles and practices"
+  },
+  {
+    "_id": "K1014",
+    "description": "Knowledge of network security principles and practices"
+  },
+  {
+    "_id": "K1015",
+    "description": "Knowledge of network topology principles and practices"
+  },
+  {
+    "_id": "K1016",
+    "description": "Knowledge of code obfuscation tools and techniques"
+  },
+  {
+    "_id": "K1017",
+    "description": "Knowledge of operational effectiveness assessment principles and practices"
+  },
+  {
+    "_id": "K1019",
+    "description": "Knowledge of operations security (OPSEC) principles and practices"
+  },
+  {
+    "_id": "K1020",
+    "description": "Knowledge of organization decision support tools and techniques"
+  },
+  {
+    "_id": "K1021",
+    "description": "Knowledge of resource and asset readiness reporting policies and procedures"
+  },
+  {
+    "_id": "K1023",
+    "description": "Knowledge of network exploitation tools and techniques"
+  },
+  {
+    "_id": "K1024",
+    "description": "Knowledge of partnership policies and procedures"
+  },
+  {
+    "_id": "K1025",
+    "description": "Knowledge of decision-making policies and procedures"
+  },
+  {
+    "_id": "K1026",
+    "description": "Knowledge of requirements submission processes"
+  },
+  {
+    "_id": "K1027",
+    "description": "Knowledge of post implementation review (PIR) processes"
+  },
+  {
+    "_id": "K1028",
+    "description": "Knowledge of target development principles and practices"
+  },
+  {
+    "_id": "K1029",
+    "description": "Knowledge of production exploitation principles and practices"
+  },
+  {
+    "_id": "K1030",
+    "description": "Knowledge of operational planning tools and techniques"
+  },
+  {
+    "_id": "K1031",
+    "description": "Knowledge of risk mitigation tools and techniques"
+  },
+  {
+    "_id": "K1032",
+    "description": "Knowledge of satellite-based communication systems and software"
+  },
+  {
+    "_id": "K1033",
+    "description": "Knowledge of scripting principles and practices"
+  },
+  {
+    "_id": "K1034",
+    "description": "Knowledge of target language"
+  },
+  {
+    "_id": "K1035",
+    "description": "Knowledge of target research tools and techniques"
+  },
+  {
+    "_id": "K1036",
+    "description": "Knowledge of target organization structures"
+  },
+  {
+    "_id": "K1037",
+    "description": "Knowledge of target critical capabilities"
+  },
+  {
+    "_id": "K1038",
+    "description": "Knowledge of target critical vulnerabilities"
+  },
+  {
+    "_id": "K1039",
+    "description": "Knowledge of target cultural references"
+  },
+  {
+    "_id": "K1040",
+    "description": "Knowledge of target estimated recovery times"
+  },
+  {
+    "_id": "K1041",
+    "description": "Knowledge of target intelligence gathering tools and techniques"
+  },
+  {
+    "_id": "K1042",
+    "description": "Knowledge of target selection policies and procedures"
+  },
+  {
+    "_id": "K1043",
+    "description": "Knowledge of target characteristics"
+  },
+  {
+    "_id": "K1045",
+    "description": "Knowledge of tasking processes"
+  },
+  {
+    "_id": "K1046",
+    "description": "Knowledge of terminal collection"
+  },
+  {
+    "_id": "K1047",
+    "description": "Knowledge of environmental collection"
+  },
+  {
+    "_id": "K1048",
+    "description": "Knowledge of intelligence collection requirements tools and techniques"
+  },
+  {
+    "_id": "K1049",
+    "description": "Knowledge of routing protocols"
+  },
+  {
+    "_id": "K1050",
+    "description": "Knowledge of critical information requirements"
+  },
+  {
+    "_id": "K1051",
+    "description": "Knowledge of collection data flow from origin into repositories and tools"
+  },
+  {
+    "_id": "K1052",
+    "description": "Knowledge of the Tasking, Collection, Processing, Exploitation and Dissemination (TCPED) process"
+  },
+  {
+    "_id": "K1053",
+    "description": "Knowledge of the collection process feedback cycle"
+  },
+  {
+    "_id": "K1054",
+    "description": "Knowledge of red team functions and capabilities"
+  },
+  {
+    "_id": "K1055",
+    "description": "Knowledge of digital forensics principles and practices"
+  },
+  {
+    "_id": "K1056",
+    "description": "Knowledge of language analysis principles and practices"
+  },
+  {
+    "_id": "K1057",
+    "description": "Knowledge of Interactive On-Net (ION) operator roles and responsibilities"
+  },
+  {
+    "_id": "K1058",
+    "description": "Knowledge of intelligence processes"
+  },
+  {
+    "_id": "K1059",
+    "description": "Knowledge of request for information processes"
+  },
+  {
+    "_id": "K1060",
+    "description": "Knowledge of intelligence collection authority policies and procedures"
+  },
+  {
+    "_id": "K1061",
+    "description": "Knowledge of environment preparation tools and techniques"
+  },
+  {
+    "_id": "K1062",
+    "description": "Knowledge of surveillance tools and techniques"
+  },
+  {
+    "_id": "K1063",
+    "description": "Knowledge of operation assessment processes"
+  },
+  {
+    "_id": "K1064",
+    "description": "Knowledge of Request For Information (RFI) processes"
+  },
+  {
+    "_id": "K1065",
+    "description": "Knowledge of network operations principles and practices"
+  },
+  {
+    "_id": "K1066",
+    "description": "Knowledge of threat behaviors"
+  },
+  {
+    "_id": "K1067",
+    "description": "Knowledge of target behaviors"
+  },
+  {
+    "_id": "K1068",
+    "description": "Knowledge of threat systems and software"
+  },
+  {
+    "_id": "K1069",
+    "description": "Knowledge of virtual machine tools and technologies"
+  },
+  {
+    "_id": "K1070",
+    "description": "Knowledge of privacy disclosure statement laws and regulations"
+  },
+  {
+    "_id": "K1071",
+    "description": "Knowledge of continuous monitoring processes"
+  },
+  {
+    "_id": "K1072",
+    "description": "Knowledge of automated security control testing tools and techniques"
+  },
+  {
+    "_id": "K1073",
+    "description": "Knowledge of hardware asset management principles and practices"
+  },
+  {
+    "_id": "K1074",
+    "description": "Knowledge of software asset management principles and practices"
+  },
+  {
+    "_id": "K1076",
+    "description": "Knowledge of risk scoring principles and practices"
+  },
+  {
+    "_id": "K1077",
+    "description": "Knowledge of data security controls"
+  },
+  {
+    "_id": "K1078",
+    "description": "Knowledge of risk assessment tools and techniques"
+  },
+  {
+    "_id": "K1079",
+    "description": "Knowledge of web application security risks"
+  },
+  {
+    "_id": "K1080",
+    "description": "Knowledge of secure software update principles and practices"
+  },
+  {
+    "_id": "K1081",
+    "description": "Knowledge of secure firmware update principles and practices"
+  },
+  {
+    "_id": "K1082",
+    "description": "Knowledge of ingress filtering tools and techniques"
+  },
+  {
+    "_id": "K1083",
+    "description": "Knowledge of cybersecurity competitions"
+  },
+  {
+    "_id": "K1084",
+    "description": "Knowledge of data privacy controls"
+  },
+  {
+    "_id": "K1085",
+    "description": "Knowledge of exploitation tools and techniques"
+  },
+  {
+    "_id": "K1086",
+    "description": "Knowledge of design modeling"
+  },
+  {
+    "_id": "K1087",
+    "description": "Knowledge of social engineering tools and techniques"
+  },
+  {
+    "_id": "K1088",
+    "description": "Knowledge of knowledge management tools and techniques"
+  },
+  {
+    "_id": "K1089",
+    "description": "Knowledge of protocol analyzer tools and techniques"
+  },
+  {
+    "_id": "K1090",
+    "description": "Knowledge of software, hardware, and peripheral equipment repair tools and techniques"
+  },
+  {
+    "_id": "K1091",
+    "description": "Knowledge of media forensics"
+  },
+  {
+    "_id": "K1092",
+    "description": "Knowledge of digital forensics tools and techniques"
+  },
+  {
+    "_id": "K1093",
+    "description": "Knowledge of black-box software testing"
+  },
+  {
+    "_id": "K1094",
+    "description": "Knowledge of hexadecimal data"
+  },
+  {
+    "_id": "K1095",
+    "description": "Knowledge of design methods"
+  },
+  {
+    "_id": "K1096",
+    "description": "Knowledge of data analysis tools and techniques"
+  },
+  {
+    "_id": "K1097",
+    "description": "Knowledge of data mapping tools and techniques"
+  },
+  {
+    "_id": "K1098",
+    "description": "Knowledge of personnel systems and software"
+  },
+  {
+    "_id": "K1099",
+    "description": "Knowledge of code analysis tools and techniques"
+  },
+  {
+    "_id": "K1100",
+    "description": "Knowledge of analytical tools and techniques"
+  },
+  {
+    "_id": "K1101",
+    "description": "Knowledge of analytics"
+  },
+  {
+    "_id": "K1102",
+    "description": "Knowledge of remote command line tools and techniques"
+  },
+  {
+    "_id": "K1103",
+    "description": "Knowledge of Graphic User Interface (GUI) tools and techniques"
+  },
+  {
+    "_id": "K1104",
+    "description": "Knowledge of geospatial data analysis tools and techniques"
+  },
+  {
+    "_id": "K1105",
+    "description": "Knowledge of non-attributable networks"
+  },
+  {
+    "_id": "K1106",
+    "description": "Knowledge of targeting databases"
+  },
+  {
+    "_id": "K1107",
+    "description": "Knowledge of targeting systems and software"
+  },
+  {
+    "_id": "K1108",
+    "description": "Knowledge of traceroute tools and techniques"
+  },
+  {
+    "_id": "K1109",
+    "description": "Knowledge of virtual collaborative workspace tools and techniques"
+  },
+  {
+    "_id": "K1110",
+    "description": "Knowledge of acquisition cybersecurity requirements"
+  },
+  {
+    "_id": "K1111",
+    "description": "Knowledge of application security design principles and practices"
+  },
+  {
+    "_id": "K1112",
+    "description": "Knowledge of asset management policies and procedures"
+  },
+  {
+    "_id": "K1113",
+    "description": "Knowledge of blue force tracking"
+  },
+  {
+    "_id": "K1114",
+    "description": "Knowledge of capacity management"
+  },
+  {
+    "_id": "K1115",
+    "description": "Knowledge of Chain of Custody (CoC) processes and procedures"
+  },
+  {
+    "_id": "K1116",
+    "description": "Knowledge of classification guidelines"
+  },
+  {
+    "_id": "K1117",
+    "description": "Knowledge of coding and testing standards"
+  },
+  {
+    "_id": "K1118",
+    "description": "Knowledge of completion criteria"
+  },
+  {
+    "_id": "K1119",
+    "description": "Knowledge of component and interface specifications"
+  },
+  {
+    "_id": "K1120",
+    "description": "Knowledge of Confidentiality, Integrity, Availability, Authenticity, and Non-repudiation (CIAAN) principles and practices"
+  },
+  {
+    "_id": "K1121",
+    "description": "Knowledge of configuration management"
+  },
+  {
+    "_id": "K1122",
+    "description": "Knowledge of configuration management principles and practices"
+  },
+  {
+    "_id": "K1123",
+    "description": "Knowledge of continuous monitoring principles and practices"
+  },
+  {
+    "_id": "K1124",
+    "description": "Knowledge of continuous monitoring scoring and grading metrics"
+  },
+  {
+    "_id": "K1125",
+    "description": "Knowledge of continuous monitoring tools and techniques"
+  },
+  {
+    "_id": "K1126",
+    "description": "Knowledge of cost constraints"
+  },
+  {
+    "_id": "K1127",
+    "description": "Knowledge of customer experience principles and practices"
+  },
+  {
+    "_id": "K1128",
+    "description": "Knowledge of customer requirements"
+  },
+  {
+    "_id": "K1129",
+    "description": "Knowledge of cyber defense auditing laws and regulations"
+  },
+  {
+    "_id": "K1130",
+    "description": "Knowledge of cyber defense auditing policies and practices"
+  },
+  {
+    "_id": "K1131",
+    "description": "Knowledge of cyber defense monitoring tools"
+  },
+  {
+    "_id": "K1132",
+    "description": "Knowledge of cyber defense system analysis tools"
+  },
+  {
+    "_id": "K1133",
+    "description": "Knowledge of cybersecurity engineering"
+  },
+  {
+    "_id": "K1135",
+    "description": "Knowledge of cybersecurity objectives"
+  },
+  {
+    "_id": "K1137",
+    "description": "Knowledge of cybersecurity requirements"
+  },
+  {
+    "_id": "K1138",
+    "description": "Knowledge of cybersecurity standards and best practices"
+  },
+  {
+    "_id": "K1139",
+    "description": "Knowledge of cybersecurity threats and vulnerabilities"
+  },
+  {
+    "_id": "K1140",
+    "description": "Knowledge of cybersecurity workforce policies and procedures"
+  },
+  {
+    "_id": "K1143",
+    "description": "Knowledge of data classification levels"
+  },
+  {
+    "_id": "K1144",
+    "description": "Knowledge of data correlation tools and techniques"
+  },
+  {
+    "_id": "K1145",
+    "description": "Knowledge of data encryption practices and principles"
+  },
+  {
+    "_id": "K1146",
+    "description": "Knowledge of data gathering tools and techniques"
+  },
+  {
+    "_id": "K1147",
+    "description": "Knowledge of data integrity principles and practices"
+  },
+  {
+    "_id": "K1148",
+    "description": "Knowledge of data manipulation principles and practices"
+  },
+  {
+    "_id": "K1149",
+    "description": "Knowledge of data retrieval principles and practices"
+  },
+  {
+    "_id": "K1150",
+    "description": "Knowledge of data storage principles and practices"
+  },
+  {
+    "_id": "K1151",
+    "description": "Knowledge of digital evidence cataloging tools and techniques"
+  },
+  {
+    "_id": "K1152",
+    "description": "Knowledge of digital evidence extraction tools and techniques"
+  },
+  {
+    "_id": "K1153",
+    "description": "Knowledge of digital evidence handling principles and practices"
+  },
+  {
+    "_id": "K1154",
+    "description": "Knowledge of digital evidence packaging tools and techniques"
+  },
+  {
+    "_id": "K1155",
+    "description": "Knowledge of digital evidence preservation tools and techniques"
+  },
+  {
+    "_id": "K1156",
+    "description": "Knowledge of enterprise cybersecurity architecture"
+  },
+  {
+    "_id": "K1157",
+    "description": "Knowledge of enterprise-wide version control systems"
+  },
+  {
+    "_id": "K1158",
+    "description": "Knowledge of evaluation and validation requirements"
+  },
+  {
+    "_id": "K1159",
+    "description": "Knowledge of fail-over or alternate site requirements"
+  },
+  {
+    "_id": "K1160",
+    "description": "Knowledge of federal and state accreditation standards"
+  },
+  {
+    "_id": "K1161",
+    "description": "Knowledge of financial management"
+  },
+  {
+    "_id": "K1162",
+    "description": "Knowledge of foreign languages and dialects"
+  },
+  {
+    "_id": "K1163",
+    "description": "Knowledge of forensic image processing tools and techniques"
+  },
+  {
+    "_id": "K1164",
+    "description": "Knowledge of hardware design principles and practices"
+  },
+  {
+    "_id": "K1165",
+    "description": "Knowledge of independent testing methods"
+  },
+  {
+    "_id": "K1166",
+    "description": "Knowledge of information architecture principles and practices"
+  },
+  {
+    "_id": "K1167",
+    "description": "Knowledge of information sanitization methods"
+  },
+  {
+    "_id": "K1168",
+    "description": "Knowledge of intrusion set tools and techniques"
+  },
+  {
+    "_id": "K1169",
+    "description": "Knowledge of material supportability requirements"
+  },
+  {
+    "_id": "K1170",
+    "description": "Knowledge of mathematical models"
+  },
+  {
+    "_id": "K1171",
+    "description": "Knowledge of mission assurance practices and principles"
+  },
+  {
+    "_id": "K1172",
+    "description": "Knowledge of mission requirements"
+  },
+  {
+    "_id": "K1173",
+    "description": "Knowledge of multilevel security requirements"
+  },
+  {
+    "_id": "K1174",
+    "description": "Knowledge of network components"
+  },
+  {
+    "_id": "K1175",
+    "description": "Knowledge of network monitoring tools and techniques"
+  },
+  {
+    "_id": "K1176",
+    "description": "Knowledge of network topologies"
+  },
+  {
+    "_id": "K1177",
+    "description": "Knowledge of NIST Risk Management Framework authorization requirements"
+  },
+  {
+    "_id": "K1178",
+    "description": "Knowledge of operational environment risks"
+  },
+  {
+    "_id": "K1179",
+    "description": "Knowledge of organization's security strategy"
+  },
+  {
+    "_id": "K1180",
+    "description": "Knowledge of organizational cybersecurity goals and objectives"
+  },
+  {
+    "_id": "K1181",
+    "description": "Knowledge of organizational cybersecurity incident response plans"
+  },
+  {
+    "_id": "K1182",
+    "description": "Knowledge of organizational cybersecurity policies and configurations"
+  },
+  {
+    "_id": "K1183",
+    "description": "Knowledge of organizational cybersecurity policies and procedures"
+  },
+  {
+    "_id": "K1184",
+    "description": "Knowledge of organizational cybersecurity workforce requirements"
+  },
+  {
+    "_id": "K1185",
+    "description": "Knowledge of organizational evaluation and validation requirements"
+  },
+  {
+    "_id": "K1186",
+    "description": "Knowledge of organizational human resource (HR) policies and procedures"
+  },
+  {
+    "_id": "K1187",
+    "description": "Knowledge of organizational objectives"
+  },
+  {
+    "_id": "K1188",
+    "description": "Knowledge of organizational policies and procedures"
+  },
+  {
+    "_id": "K1189",
+    "description": "Knowledge of organizational policy and procedures"
+  },
+  {
+    "_id": "K1190",
+    "description": "Knowledge of organizational risk levels"
+  },
+  {
+    "_id": "K1191",
+    "description": "Knowledge of organizational security posture"
+  },
+  {
+    "_id": "K1192",
+    "description": "Knowledge of organzational privacy policies and procedures"
+  },
+  {
+    "_id": "K1193",
+    "description": "Knowledge of packet analysis tools and techniques"
+  },
+  {
+    "_id": "K1194",
+    "description": "Knowledge of Personally Identifiable Information (PII) attributes"
+  },
+  {
+    "_id": "K1195",
+    "description": "Knowledge of priority information requirements"
+  },
+  {
+    "_id": "K1196",
+    "description": "Knowledge of priority intelligence collection requirements"
+  },
+  {
+    "_id": "K1197",
+    "description": "Knowledge of priority intelligence requirements"
+  },
+  {
+    "_id": "K1198",
+    "description": "Knowledge of privacy and data security regulators"
+  },
+  {
+    "_id": "K1200",
+    "description": "Knowledge of privacy technologies"
+  },
+  {
+    "_id": "K1201",
+    "description": "Knowledge of programming languages"
+  },
+  {
+    "_id": "K1202",
+    "description": "Knowledge of project plans and schedules"
+  },
+  {
+    "_id": "K1203",
+    "description": "Knowledge of Public Key Infrastructure (PKI) libraries"
+  },
+  {
+    "_id": "K1205",
+    "description": "Knowledge of required reporting formats"
+  },
+  {
+    "_id": "K1206",
+    "description": "Knowledge of research and design processes and procedures"
+  },
+  {
+    "_id": "K1207",
+    "description": "Knowledge of reverse engineering tools and techniques"
+  },
+  {
+    "_id": "K1208",
+    "description": "Knowledge of risk acceptance and documentation"
+  },
+  {
+    "_id": "K1209",
+    "description": "Knowledge of risk mitigation principles and practices"
+  },
+  {
+    "_id": "K1210",
+    "description": "Knowledge of secure programming tools and techniques"
+  },
+  {
+    "_id": "K1211",
+    "description": "Knowledge of security assessment authorization requirements"
+  },
+  {
+    "_id": "K1212",
+    "description": "Knowledge of security controls"
+  },
+  {
+    "_id": "K1213",
+    "description": "Knowledge of security requirements"
+  },
+  {
+    "_id": "K1214",
+    "description": "Knowledge of security restrictions"
+  },
+  {
+    "_id": "K1215",
+    "description": "Knowledge of security testing tools and techniques"
+  },
+  {
+    "_id": "K1216",
+    "description": "Knowledge of service-oriented security architecture practices and principles"
+  },
+  {
+    "_id": "K1217",
+    "description": "Knowledge of software and sytems engineering life cycle standards"
+  },
+  {
+    "_id": "K1218",
+    "description": "Knowledge of software application, system, and network requirements"
+  },
+  {
+    "_id": "K1219",
+    "description": "Knowledge of statistical processes"
+  },
+  {
+    "_id": "K1220",
+    "description": "Knowledge of steganography practices and principles"
+  },
+  {
+    "_id": "K1221",
+    "description": "Knowledge of supply chain risk management practices"
+  },
+  {
+    "_id": "K1222",
+    "description": "Knowledge of system availability requirements"
+  },
+  {
+    "_id": "K1223",
+    "description": "Knowledge of system backup requirements"
+  },
+  {
+    "_id": "K1224",
+    "description": "Knowledge of system characteristics"
+  },
+  {
+    "_id": "K1225",
+    "description": "Knowledge of system life cycles"
+  },
+  {
+    "_id": "K1226",
+    "description": "Knowledge of systems administration standard operating policies and procedures"
+  },
+  {
+    "_id": "K1227",
+    "description": "Knowledge of systems architecture"
+  },
+  {
+    "_id": "K1228",
+    "description": "Knowledge of systems development"
+  },
+  {
+    "_id": "K1229",
+    "description": "Knowledge of target communication network characteristics"
+  },
+  {
+    "_id": "K1230",
+    "description": "Knowledge of target communications tools and techniques"
+  },
+  {
+    "_id": "K1231",
+    "description": "Knowledge of target requirements"
+  },
+  {
+    "_id": "K1232",
+    "description": "Knowledge of targeting products"
+  },
+  {
+    "_id": "K1233",
+    "description": "Knowledge of UNIX scripts"
+  },
+  {
+    "_id": "K1234",
+    "description": "Knowledge of user interfaces"
+  },
+  {
+    "_id": "K1235",
+    "description": "Knowledge of user needs and requirements"
+  },
+  {
+    "_id": "K1236",
+    "description": "Knowledge of user requirements"
+  },
+  {
+    "_id": "K1237",
+    "description": "Knowledge of Virtual Private Network (VPN) devices"
+  },
+  {
+    "_id": "K1238",
+    "description": "Knowledge of Windows scripts"
+  },
+  {
+    "_id": "K1239",
+    "description": "Knowlege of certificate management principles and practices"
+  },
+  {
+    "_id": "K1240",
+    "description": "Knowlege of privacy laws and regulations"
+  },
+  {
+    "_id": "K1241",
+    "description": "Knowledge of cultural, political, and organizational assets"
+  },
+  {
+    "_id": "K1242",
+    "description": "Knowledge of cybersecurity review processes and procedures"
+  },
+  {
+    "_id": "K1243",
+    "description": "Knowledge of cybersecurity threat remediation principles and practices"
+  },
+  {
+    "_id": "K1244",
+    "description": "Knowledge of cybersecurity tools and techniques"
+  },
+  {
+    "_id": "K1245",
+    "description": "Knowledge of data exfiltration tools and techniques"
+  },
+  {
+    "_id": "K1246",
+    "description": "Knowledge of data handling tools and techniques"
+  },
+  {
+    "_id": "K1247",
+    "description": "Knowledge of data monitoring tools and techniques"
+  },
+  {
+    "_id": "K1248",
+    "description": "Knowledge of digital and physical security vulnerabilities"
+  },
+  {
+    "_id": "K1249",
+    "description": "Knowledge of digital and physical security vulnerability remediation principles and practices"
+  },
+  {
+    "_id": "K1250",
+    "description": "Knowledge of external organization roles and responsibilities"
+  },
+  {
+    "_id": "K1251",
+    "description": "Knowledge of external referrals policies and procedures"
+  },
+  {
+    "_id": "K1252",
+    "description": "Knowledge of high value asset characteristics"
+  },
+  {
+    "_id": "K1253",
+    "description": "Knowledge of information collection tools and techniques"
+  },
+  {
+    "_id": "K1254",
+    "description": "Knowledge of insider threat hub policies and procedures"
+  },
+  {
+    "_id": "K1255",
+    "description": "Knowledge of insider threat hub operations"
+  },
+  {
+    "_id": "K1256",
+    "description": "Knowledge of insider threat operational indicators"
+  },
+  {
+    "_id": "K1257",
+    "description": "Knowledge of insider threat policies and procedures"
+  },
+  {
+    "_id": "K1258",
+    "description": "Knowledge of insider threat tactics"
+  },
+  {
+    "_id": "K1259",
+    "description": "Knowledge of insider threat targets"
+  },
+  {
+    "_id": "K1260",
+    "description": "Knowledge of intelligence laws and regulations"
+  },
+  {
+    "_id": "K1261",
+    "description": "Knowledge of known insider attacks"
+  },
+  {
+    "_id": "K1262",
+    "description": "Knowledge of network endpoints"
+  },
+  {
+    "_id": "K1263",
+    "description": "Knowledge of notification policies and procedures"
+  },
+  {
+    "_id": "K1265",
+    "description": "Knowledge of organizational objectives, resources, and capabilities"
+  },
+  {
+    "_id": "K1267",
+    "description": "Knowledge of previously referred potential insider threats"
+  },
+  {
+    "_id": "K1268",
+    "description": "Knowledge of risk reduction metrics"
+  },
+  {
+    "_id": "K1269",
+    "description": "Knowledge of security information and event management (SIEM) tools and techniques"
+  },
+  {
+    "_id": "K1270",
+    "description": "Knowledge of suspicious activity response processes"
+  },
+  {
+    "_id": "K1271",
+    "description": "Knowledge of system alert policies and procedures"
+  },
+  {
+    "_id": "K1272",
+    "description": "Knowledge of system components"
+  },
+  {
+    "_id": "K1273",
+    "description": "Knowledge of threat investigation policies and procedures"
+  },
+  {
+    "_id": "K1274",
+    "description": "Knowledge of threat modeling tools and techniques"
+  },
+  {
+    "_id": "K1275",
+    "description": "Knowledge of User Activity Monitoring (UAM) tools and techniques"
+  }
+]

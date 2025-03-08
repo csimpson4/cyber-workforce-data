@@ -1,0 +1,4338 @@
+[
+  {
+    "_id": "T0006",
+    "description": "Advocate organization's official position in legal and legislative proceedings"
+  },
+  {
+    "_id": "T0020",
+    "description": "Develop content for cyber defense tools"
+  },
+  {
+    "_id": "T0067",
+    "description": "Develop architectures or system components consistent with technical specifications"
+  },
+  {
+    "_id": "T0068",
+    "description": "Develop data standards, policies, and procedures"
+  },
+  {
+    "_id": "T0077",
+    "description": "Develop secure code and error handling"
+  },
+  {
+    "_id": "T0080",
+    "description": "Develop test plans to address specifications and requirements"
+  },
+  {
+    "_id": "T0081",
+    "description": "Diagnose network connectivity problems"
+  },
+  {
+    "_id": "T0084",
+    "description": "Employ secure configuration management processes"
+  },
+  {
+    "_id": "T0101",
+    "description": "Evaluate the effectiveness and comprehensiveness of existing training programs"
+  },
+  {
+    "_id": "T0116",
+    "description": "Identify organizational policy stakeholders"
+  },
+  {
+    "_id": "T0122",
+    "description": "Implement security designs for new or existing systems"
+  },
+  {
+    "_id": "T0124",
+    "description": "Incorporate cybersecurity vulnerability solutions into system designs (e.g., Cybersecurity Vulnerability Alerts)"
+  },
+  {
+    "_id": "T0126",
+    "description": "Install or replace network hubs, routers, and switches"
+  },
+  {
+    "_id": "T0129",
+    "description": "Integrate new systems into existing network architecture"
+  },
+  {
+    "_id": "T0137",
+    "description": "Maintain database management systems software"
+  },
+  {
+    "_id": "T0141",
+    "description": "Maintain information systems assurance and accreditation materials"
+  },
+  {
+    "_id": "T0153",
+    "description": "Monitor network capacity and performance"
+  },
+  {
+    "_id": "T0164",
+    "description": "Perform cyber defense trend analysis and reporting"
+  },
+  {
+    "_id": "T0167",
+    "description": "Perform file signature analysis"
+  },
+  {
+    "_id": "T0168",
+    "description": "Perform data comparison against established database"
+  },
+  {
+    "_id": "T0172",
+    "description": "Perform real-time forensic analysis (e.g., using Helix in conjunction with LiveView)"
+  },
+  {
+    "_id": "T0173",
+    "description": "Perform timeline analysis"
+  },
+  {
+    "_id": "T0179",
+    "description": "Perform static media analysis"
+  },
+  {
+    "_id": "T0182",
+    "description": "Perform tier 1, 2, and 3 malware analysis"
+  },
+  {
+    "_id": "T0193",
+    "description": "Process crime scenes"
+  },
+  {
+    "_id": "T0220",
+    "description": "Resolve conflicts in laws, regulations, policies, standards, or procedures"
+  },
+  {
+    "_id": "T0226",
+    "description": "Serve on agency and interagency policy boards"
+  },
+  {
+    "_id": "T0235",
+    "description": "Translate functional requirements into technical solutions"
+  },
+  {
+    "_id": "T0237",
+    "description": "Troubleshoot system hardware and software"
+  },
+  {
+    "_id": "T0262",
+    "description": "Employ approved defense-in-depth principles and practices (e.g., defense-in-multiple places, layered defenses, security robustness)"
+  },
+  {
+    "_id": "T0271",
+    "description": "Develop cybersecurity designs to meet specific operational needs and environmental factors (e.g., access controls, automated applications, networked operations, high integrity and availability requirements, multilevel security/processing of multiple classification levels, and processing Sensitive Compartmented Information)"
+  },
+  {
+    "_id": "T0274",
+    "description": "Create auditable evidence of security measures"
+  },
+  {
+    "_id": "T0292",
+    "description": "Recommend computing environment vulnerability corrections"
+  },
+  {
+    "_id": "T0299",
+    "description": "Identify network mapping and operating system (OS) fingerprinting activities"
+  },
+  {
+    "_id": "T0309",
+    "description": "Assess the effectiveness of security controls"
+  },
+  {
+    "_id": "T0311",
+    "description": "Consult with customers about software system design and maintenance"
+  },
+  {
+    "_id": "T0330",
+    "description": "Maintain assured message delivery systems"
+  },
+  {
+    "_id": "T0349",
+    "description": "Collect metrics and trending data"
+  },
+  {
+    "_id": "T0383",
+    "description": "Program custom algorithms"
+  },
+  {
+    "_id": "T0397",
+    "description": "Perform Windows registry analysis"
+  },
+  {
+    "_id": "T0412",
+    "description": "Conduct import/export reviews for acquiring systems and software"
+  },
+  {
+    "_id": "T0422",
+    "description": "Implement data management standards, requirements, and specifications"
+  },
+  {
+    "_id": "T0431",
+    "description": "Check system hardware availability, functionality, integrity, and efficiency"
+  },
+  {
+    "_id": "T0437",
+    "description": "Correlate training and learning to business or mission requirements"
+  },
+  {
+    "_id": "T0459",
+    "description": "Implement data mining and data warehousing applications"
+  },
+  {
+    "_id": "T0460",
+    "description": "Develop and implement data mining and data warehousing programs"
+  },
+  {
+    "_id": "T0495",
+    "description": "Manage Accreditation Packages (e.g., ISO/IEC 15026-2)"
+  },
+  {
+    "_id": "T0510",
+    "description": "Coordinate incident response functions"
+  },
+  {
+    "_id": "T0512",
+    "description": "Perform interoperability testing on systems exchanging electronic information with other systems"
+  },
+  {
+    "_id": "T0513",
+    "description": "Perform operational testing"
+  },
+  {
+    "_id": "T0531",
+    "description": "Troubleshoot hardware/software interface and interoperability problems"
+  },
+  {
+    "_id": "T0542",
+    "description": "Translate proposed capabilities into technical requirements"
+  },
+  {
+    "_id": "T0565",
+    "description": "Analyze incoming collection requests"
+  },
+  {
+    "_id": "T0569",
+    "description": "Answer requests for information"
+  },
+  {
+    "_id": "T0577",
+    "description": "Assess efficiency of existing information exchange and management systems"
+  },
+  {
+    "_id": "T0578",
+    "description": "Assess performance of collection assets against prescribed specifications"
+  },
+  {
+    "_id": "T0591",
+    "description": "Perform analysis for target infrastructure exploitation activities"
+  },
+  {
+    "_id": "T0611",
+    "description": "Conduct end-of-operations assessments"
+  },
+  {
+    "_id": "T0624",
+    "description": "Conduct target research and analysis"
+  },
+  {
+    "_id": "T0630",
+    "description": "Incorporate intelligence equities into the overall design of cyber operations plans"
+  },
+  {
+    "_id": "T0645",
+    "description": "Determine course of action for addressing changes to objectives, guidance, and operational environment"
+  },
+  {
+    "_id": "T0650",
+    "description": "Determine what technologies are used by a given target"
+  },
+  {
+    "_id": "T0684",
+    "description": "Estimate operational effects generated through cyber activities"
+  },
+  {
+    "_id": "T0685",
+    "description": "Evaluate threat decision-making processes"
+  },
+  {
+    "_id": "T0686",
+    "description": "Identify threat vulnerabilities"
+  },
+  {
+    "_id": "T0698",
+    "description": "Facilitate continuously updated intelligence, surveillance, and visualization input to common operational picture managers"
+  },
+  {
+    "_id": "T0704",
+    "description": "Incorporate cyber operations and communications security support plans into organization objectives"
+  },
+  {
+    "_id": "T0707",
+    "description": "Generate requests for information"
+  },
+  {
+    "_id": "T0717",
+    "description": "Identify critical target elements"
+  },
+  {
+    "_id": "T0718",
+    "description": "Identify intelligence gaps and shortfalls"
+  },
+  {
+    "_id": "T0723",
+    "description": "Identify potential collection disciplines for application against priority information requirements"
+  },
+  {
+    "_id": "T0729",
+    "description": "Inform external partners of the potential effects of new or revised policy and guidance on cyber operations partnering activities"
+  },
+  {
+    "_id": "T0734",
+    "description": "Issue requests for information"
+  },
+  {
+    "_id": "T0737",
+    "description": "Link priority collection requirements to optimal assets and resources"
+  },
+  {
+    "_id": "T0741",
+    "description": "Maintain situational awareness of cyber-related intelligence requirements and associated tasking"
+  },
+  {
+    "_id": "T0742",
+    "description": "Maintain situational awareness of partner capabilities and activities"
+  },
+  {
+    "_id": "T0744",
+    "description": "Maintain target lists (i.e., RTL, JTL, CTL, etc.)"
+  },
+  {
+    "_id": "T0751",
+    "description": "Monitor open source websites for hostile content directed towards organizational or partner interests"
+  },
+  {
+    "_id": "T0769",
+    "description": "Perform targeting automation activities"
+  },
+  {
+    "_id": "T0775",
+    "description": "Produce network reconstructions"
+  },
+  {
+    "_id": "T0776",
+    "description": "Produce target system analysis products"
+  },
+  {
+    "_id": "T0778",
+    "description": "Profile targets and their activities"
+  },
+  {
+    "_id": "T0796",
+    "description": "Provide real-time actionable geolocation information"
+  },
+  {
+    "_id": "T0818",
+    "description": "Serve as a liaison with external partners"
+  },
+  {
+    "_id": "T0845",
+    "description": "Identify cyber threat tactics and methodologies"
+  },
+  {
+    "_id": "T0858",
+    "description": "Identify foreign language terminology within computer programs (e.g., comments, variable names)"
+  },
+  {
+    "_id": "T0898",
+    "description": "Establish an internal privacy audit program"
+  },
+  {
+    "_id": "T0934",
+    "description": "Identify stakeholder assets that require protection"
+  },
+  {
+    "_id": "T0937",
+    "description": "Determine the placement of a system within the enterprise architecture"
+  },
+  {
+    "_id": "T0942",
+    "description": "Identify the types of information to be processed, stored, or transmitted by a system"
+  },
+  {
+    "_id": "T0960",
+    "description": "Monitor changes to a system and its environment of operation"
+  },
+  {
+    "_id": "T1008",
+    "description": "Prepare and deliver education and awareness briefings"
+  },
+  {
+    "_id": "T1009",
+    "description": "Create a cybersecurity awareness program"
+  },
+  {
+    "_id": "T1010",
+    "description": "Communicate enterprise information technology architecture"
+  },
+  {
+    "_id": "T1011",
+    "description": "Apply standards to identify safety risk and protect cyber-physical functions"
+  },
+  {
+    "_id": "T1012",
+    "description": "Expand network access"
+  },
+  {
+    "_id": "T1013",
+    "description": "Conduct technical exploitation of a target"
+  },
+  {
+    "_id": "T1014",
+    "description": "Determine if security incidents require legal action"
+  },
+  {
+    "_id": "T1015",
+    "description": "Identify roles and responsibilities for appointed Communications Security (COMSEC) personnel"
+  },
+  {
+    "_id": "T1016",
+    "description": "Identify Communications Security (COMSEC) incidents"
+  },
+  {
+    "_id": "T1017",
+    "description": "Report Communications Security (COMSEC) incidents"
+  },
+  {
+    "_id": "T1018",
+    "description": "Identify in-process accounting requirements for Communications Security (COMSEC)"
+  },
+  {
+    "_id": "T1019",
+    "description": "Determine special needs of cyber-physical systems"
+  },
+  {
+    "_id": "T1020",
+    "description": "Determine the operational and safety impacts of cybersecurity lapses"
+  },
+  {
+    "_id": "T1021",
+    "description": "Review cyber defense service provider reporting structure"
+  },
+  {
+    "_id": "T1022",
+    "description": "Review enterprise information technology (IT) goals and objectives"
+  },
+  {
+    "_id": "T1023",
+    "description": "Identify critical technology procurement requirements"
+  },
+  {
+    "_id": "T1024",
+    "description": "Implement organizational security policies and procedures"
+  },
+  {
+    "_id": "T1025",
+    "description": "Implement organizational training and education policies and procedures"
+  },
+  {
+    "_id": "T1026",
+    "description": "Determine procurement requirements"
+  },
+  {
+    "_id": "T1027",
+    "description": "Integrate organizational goals and objectives into security architecture"
+  },
+  {
+    "_id": "T1028",
+    "description": "Research new vulnerabilities in emerging technologies"
+  },
+  {
+    "_id": "T1029",
+    "description": "Implement organizational evaluation and validation criteria"
+  },
+  {
+    "_id": "T1030",
+    "description": "Estimate the impact of collateral damage"
+  },
+  {
+    "_id": "T1031",
+    "description": "Implement intelligence collection requirements"
+  },
+  {
+    "_id": "T1032",
+    "description": "Determine cyber operation objectives"
+  },
+  {
+    "_id": "T1033",
+    "description": "Support cyber operations"
+  },
+  {
+    "_id": "T1034",
+    "description": "Prepare deconfliction report"
+  },
+  {
+    "_id": "T1035",
+    "description": "Determine how threat activity groups employ encryption to support their operations"
+  },
+  {
+    "_id": "T1036",
+    "description": "Integrate leadership priorities"
+  },
+  {
+    "_id": "T1037",
+    "description": "Develop operations strategies"
+  },
+  {
+    "_id": "T1038",
+    "description": "Integrate organization objectives in intelligence collection"
+  },
+  {
+    "_id": "T1039",
+    "description": "Identify network artifacts from hardware and software options"
+  },
+  {
+    "_id": "T1040",
+    "description": "Identify impact of network artifacts on exploitation"
+  },
+  {
+    "_id": "T1041",
+    "description": "Determine impact of software configurations"
+  },
+  {
+    "_id": "T1042",
+    "description": "Acquire target identifiers"
+  },
+  {
+    "_id": "T1043",
+    "description": "Determine staffing needs"
+  },
+  {
+    "_id": "T1044",
+    "description": "Review course of action analysis results"
+  },
+  {
+    "_id": "T1045",
+    "description": "Review exercise analysis results"
+  },
+  {
+    "_id": "T1046",
+    "description": "Assess operation performance"
+  },
+  {
+    "_id": "T1047",
+    "description": "Assess operation impact"
+  },
+  {
+    "_id": "T1048",
+    "description": "Synchronize operational assessment procedures and critical information requirement processes"
+  },
+  {
+    "_id": "T1049",
+    "description": "Determine appropriate level of test rigor for a given system"
+  },
+  {
+    "_id": "T1050",
+    "description": "Improve network security practices"
+  },
+  {
+    "_id": "T1051",
+    "description": "Set up a forensic workstation"
+  },
+  {
+    "_id": "T1052",
+    "description": "Integrate black-box security testing tools into quality assurance processes"
+  },
+  {
+    "_id": "T1053",
+    "description": "Identify and characterize intrusion activities against a victim or target"
+  },
+  {
+    "_id": "T1054",
+    "description": "Scope analysis reports to various audiences that accounts for data sharing classification restrictions"
+  },
+  {
+    "_id": "T1055",
+    "description": "Determine if priority information requirements are satisfied"
+  },
+  {
+    "_id": "T1056",
+    "description": "Acquire resources to support cybersecurity program goals and objectives"
+  },
+  {
+    "_id": "T1057",
+    "description": "Conduct an effective enterprise continuity of operations program"
+  },
+  {
+    "_id": "T1058",
+    "description": "Advise senior management on risk levels and security posture"
+  },
+  {
+    "_id": "T1059",
+    "description": "Perform cost/benefit analyses of cybersecurity programs, policies, processes, systems, and elements"
+  },
+  {
+    "_id": "T1060",
+    "description": "Advise senior management on organizational cybersecurity efforts"
+  },
+  {
+    "_id": "T1061",
+    "description": "Advise senior leadership and authorizing official of changes affecting the organization's cybersecurity posture"
+  },
+  {
+    "_id": "T1062",
+    "description": "Contribute insider threat expertise to organizational cybersecurity awareness program"
+  },
+  {
+    "_id": "T1063",
+    "description": "Determine data requirements"
+  },
+  {
+    "_id": "T1064",
+    "description": "Determine data specifications"
+  },
+  {
+    "_id": "T1065",
+    "description": "Determine data capacity requirements"
+  },
+  {
+    "_id": "T1066",
+    "description": "Plan for anticipated changes in data capacity requirements"
+  },
+  {
+    "_id": "T1067",
+    "description": "Recommend development of new applications or modification of existing applications"
+  },
+  {
+    "_id": "T1068",
+    "description": "Create development plans for new applications or modification of existing applications"
+  },
+  {
+    "_id": "T1069",
+    "description": "Evaluate organizational cybersecurity policy regulatory compliance"
+  },
+  {
+    "_id": "T1070",
+    "description": "Evaluate organizational cybersecurity policy alignment with organizational directives"
+  },
+  {
+    "_id": "T1071",
+    "description": "Evaluate software design plan timelines and cost estimates"
+  },
+  {
+    "_id": "T1072",
+    "description": "Determine life cycle support requirements"
+  },
+  {
+    "_id": "T1073",
+    "description": "Perform code reviews"
+  },
+  {
+    "_id": "T1074",
+    "description": "Prepare secure code documentation"
+  },
+  {
+    "_id": "T1075",
+    "description": "Implement application cybersecurity policies"
+  },
+  {
+    "_id": "T1076",
+    "description": "Implement system cybersecurity policies"
+  },
+  {
+    "_id": "T1077",
+    "description": "Assess the organization's cybersecurity architecture"
+  },
+  {
+    "_id": "T1078",
+    "description": "Determine effectiveness of system cybersecurity measures"
+  },
+  {
+    "_id": "T1079",
+    "description": "Develop cybersecurity risk profiles"
+  },
+  {
+    "_id": "T1081",
+    "description": "Create product prototypes using working and theoretical models"
+  },
+  {
+    "_id": "T1082",
+    "description": "Integrate software cybersecurity objectives into project plans and schedules"
+  },
+  {
+    "_id": "T1083",
+    "description": "Determine project security controls"
+  },
+  {
+    "_id": "T1084",
+    "description": "Identify anomalous network activity"
+  },
+  {
+    "_id": "T1085",
+    "description": "Identify potential threats to network resources"
+  },
+  {
+    "_id": "T1086",
+    "description": "Collect and maintain system cybersecurity report data"
+  },
+  {
+    "_id": "T1087",
+    "description": "Create system cybersecurity reports"
+  },
+  {
+    "_id": "T1088",
+    "description": "Communicate the value of cybersecurity to organizational stakeholders"
+  },
+  {
+    "_id": "T1089",
+    "description": "Create program documentation during initial development and subsequent revision phases"
+  },
+  {
+    "_id": "T1090",
+    "description": "Determine best methods for identifying the perpetrator(s) of a network intrusion"
+  },
+  {
+    "_id": "T1091",
+    "description": "Perform authorized penetration testing on enterprise network assets"
+  },
+  {
+    "_id": "T1092",
+    "description": "Conduct functional and connectivity testing"
+  },
+  {
+    "_id": "T1093",
+    "description": "Conduct interactive training exercises"
+  },
+  {
+    "_id": "T1094",
+    "description": "Conduct victim and witness interviews"
+  },
+  {
+    "_id": "T1095",
+    "description": "Conduct suspect interrogations"
+  },
+  {
+    "_id": "T1096",
+    "description": "Perform privacy impact assessments (PIAs)"
+  },
+  {
+    "_id": "T1097",
+    "description": "Determine functional requirements and specifications"
+  },
+  {
+    "_id": "T1098",
+    "description": "Determine system performance requirements"
+  },
+  {
+    "_id": "T1099",
+    "description": "Design application interfaces"
+  },
+  {
+    "_id": "T1100",
+    "description": "Configure network hubs, routers, and switches"
+  },
+  {
+    "_id": "T1101",
+    "description": "Optimize network hubs, routers, and switches"
+  },
+  {
+    "_id": "T1102",
+    "description": "Identify instrusions"
+  },
+  {
+    "_id": "T1103",
+    "description": "Analyze intrusions"
+  },
+  {
+    "_id": "T1104",
+    "description": "Document what is known about intrusions"
+  },
+  {
+    "_id": "T1105",
+    "description": "Construct access paths to suites of information"
+  },
+  {
+    "_id": "T1106",
+    "description": "Develop threat models"
+  },
+  {
+    "_id": "T1107",
+    "description": "Evaluate functional requirements"
+  },
+  {
+    "_id": "T1108",
+    "description": "Evaluate interfaces between hardware and software"
+  },
+  {
+    "_id": "T1109",
+    "description": "Resolve cyber defense incidents"
+  },
+  {
+    "_id": "T1110",
+    "description": "Coordinate technical support to enterprise-wide cybersecurity defense technicians"
+  },
+  {
+    "_id": "T1111",
+    "description": "Administer rule and signature updates for specialized cyber defense applications"
+  },
+  {
+    "_id": "T1112",
+    "description": "Validate network alerts"
+  },
+  {
+    "_id": "T1113",
+    "description": "Develop the enterprise continuity of operations strategy"
+  },
+  {
+    "_id": "T1114",
+    "description": "Establish the enterprise continuity of operations program"
+  },
+  {
+    "_id": "T1115",
+    "description": "Oversee the development of design solutions"
+  },
+  {
+    "_id": "T1116",
+    "description": "Correct program errors"
+  },
+  {
+    "_id": "T1117",
+    "description": "Determine if desired program results are produced"
+  },
+  {
+    "_id": "T1118",
+    "description": "Identify vulnerabilities"
+  },
+  {
+    "_id": "T1119",
+    "description": "Recommend vulnerability remediation strategies"
+  },
+  {
+    "_id": "T1120",
+    "description": "Create forensically sound duplicates of evidence"
+  },
+  {
+    "_id": "T1121",
+    "description": "Decrypt seized data"
+  },
+  {
+    "_id": "T1122",
+    "description": "Determine essential system capabilities and business functions"
+  },
+  {
+    "_id": "T1123",
+    "description": "Prioritize essential system capabilities and business functions"
+  },
+  {
+    "_id": "T1124",
+    "description": "Restore essential system capabilities and business functions after catastrophic failure events"
+  },
+  {
+    "_id": "T1125",
+    "description": "Define system availability levels"
+  },
+  {
+    "_id": "T1126",
+    "description": "Determine disaster recovery and continuity of operations system requirements"
+  },
+  {
+    "_id": "T1127",
+    "description": "Define project scope and objectives"
+  },
+  {
+    "_id": "T1128",
+    "description": "Design cybersecurity or cybersecurity-enabled products"
+  },
+  {
+    "_id": "T1129",
+    "description": "Develop cybersecurity or cybersecurity-enabled products"
+  },
+  {
+    "_id": "T1130",
+    "description": "Develop group policies and access control lists"
+  },
+  {
+    "_id": "T1131",
+    "description": "Determine if hardware, operating systems, and software applications adequately address cybersecurity requirements"
+  },
+  {
+    "_id": "T1132",
+    "description": "Design system data backup capabilities"
+  },
+  {
+    "_id": "T1133",
+    "description": "Develop technical and procedural processes for integrity of stored backup data"
+  },
+  {
+    "_id": "T1134",
+    "description": "Develop technical and procedural processes for backup data storage"
+  },
+  {
+    "_id": "T1135",
+    "description": "Design and develop software systems"
+  },
+  {
+    "_id": "T1136",
+    "description": "Determine level of assurance of developed capabilities"
+  },
+  {
+    "_id": "T1137",
+    "description": "Investigate suspicious activity and alleged digital crimes"
+  },
+  {
+    "_id": "T1138",
+    "description": "Create system testing and validation procedures and documentation"
+  },
+  {
+    "_id": "T1139",
+    "description": "Develop systems design procedures and processes"
+  },
+  {
+    "_id": "T1140",
+    "description": "Develop systems administration standard operating procedures"
+  },
+  {
+    "_id": "T1141",
+    "description": "Document systems administration standard operating procedures"
+  },
+  {
+    "_id": "T1142",
+    "description": "Validate data mining and data warehousing programs, processes, and requirements"
+  },
+  {
+    "_id": "T1143",
+    "description": "Develop network backup and recovery procedures"
+  },
+  {
+    "_id": "T1144",
+    "description": "Implement network backup and recovery procedures"
+  },
+  {
+    "_id": "T1145",
+    "description": "Develop strategic plans"
+  },
+  {
+    "_id": "T1146",
+    "description": "Maintain strategic plans"
+  },
+  {
+    "_id": "T1148",
+    "description": "Develop systems security design documentation"
+  },
+  {
+    "_id": "T1149",
+    "description": "Develop disaster recovery and continuity of operations plans for systems under development"
+  },
+  {
+    "_id": "T1150",
+    "description": "Test disaster recovery and continuity of operations plans for systems prior to deployment"
+  },
+  {
+    "_id": "T1151",
+    "description": "Develop cybersecurity designs for systems and networks with multilevel security requirements"
+  },
+  {
+    "_id": "T1152",
+    "description": "Develop cybersecurity designs for systems and networks that require processing of multiple data classification levels"
+  },
+  {
+    "_id": "T1153",
+    "description": "Integrate cybersecurity designs for systems and networks"
+  },
+  {
+    "_id": "T1154",
+    "description": "Develop risk, compliance, and assurance monitoring strategies"
+  },
+  {
+    "_id": "T1155",
+    "description": "Develop risk, compliance, and assurance measurement strategies"
+  },
+  {
+    "_id": "T1156",
+    "description": "Develop awareness and training materials"
+  },
+  {
+    "_id": "T1157",
+    "description": "Identify pertinent awareness and training materials"
+  },
+  {
+    "_id": "T1158",
+    "description": "Develop cybersecurity implementation policies and guidelines"
+  },
+  {
+    "_id": "T1159",
+    "description": "Create technical summary of findings reports"
+  },
+  {
+    "_id": "T1160",
+    "description": "Develop risk mitigation strategies"
+  },
+  {
+    "_id": "T1161",
+    "description": "Resolve system vulnerabilities"
+  },
+  {
+    "_id": "T1162",
+    "description": "Recommend security changes to systems and system components"
+  },
+  {
+    "_id": "T1163",
+    "description": "Develop cybersecurity countermeasures for systems and applications"
+  },
+  {
+    "_id": "T1164",
+    "description": "Develop risk mitigation strategies for systems and applications"
+  },
+  {
+    "_id": "T1165",
+    "description": "Develop risk, compliance, and assurance specifications"
+  },
+  {
+    "_id": "T1166",
+    "description": "Document security, resilience, and dependability requirements"
+  },
+  {
+    "_id": "T1168",
+    "description": "Define acquisition life cycle cybersecurity architecture requirements"
+  },
+  {
+    "_id": "T1169",
+    "description": "Define acquisition life cycle systems security engineering requirements"
+  },
+  {
+    "_id": "T1170",
+    "description": "Document preliminary or residual security risks for system operation"
+  },
+  {
+    "_id": "T1172",
+    "description": "Determine if systems security operations and maintenance activities are property documented and updated"
+  },
+  {
+    "_id": "T1173",
+    "description": "Determine that the application of security patches for commercial products meets timeline requirements"
+  },
+  {
+    "_id": "T1174",
+    "description": "Document commercial product timeline requirements dictated by the management authority for intended operational environments"
+  },
+  {
+    "_id": "T1175",
+    "description": "Determine if digital media chain or custody processes meet Federal Rules of Evidence requirements"
+  },
+  {
+    "_id": "T1176",
+    "description": "Determine if cybersecurity-enabled products reduce identified risk to acceptable levels"
+  },
+  {
+    "_id": "T1177",
+    "description": "Determine if security control technologies reduce identified risk to acceptable levels"
+  },
+  {
+    "_id": "T1178",
+    "description": "Determine if security improvement actions are evaluated, validated, and implemented as required"
+  },
+  {
+    "_id": "T1179",
+    "description": "Determine if systems and architecture are consistent with cybersecurity architecture guidelines"
+  },
+  {
+    "_id": "T1180",
+    "description": "Determine if cybersecurity inspections, tests, and reviews are coordinated for the network environment"
+  },
+  {
+    "_id": "T1181",
+    "description": "Determine if cybersecurity requirements are integrated into continuity planning"
+  },
+  {
+    "_id": "T1182",
+    "description": "Determine if security engineering is used when acquiring or developing protection and detection capabilities"
+  },
+  {
+    "_id": "T1183",
+    "description": "Determine if protection and detection capabilities are consistent with organization-level cybersecurity architecture"
+  },
+  {
+    "_id": "T1184",
+    "description": "Establish stakeholder communication channels"
+  },
+  {
+    "_id": "T1185",
+    "description": "Maintain stakeholder communication channels"
+  },
+  {
+    "_id": "T1186",
+    "description": "Establish enterprise information security architecture"
+  },
+  {
+    "_id": "T1187",
+    "description": "Establish internal and external cross-team relationships"
+  },
+  {
+    "_id": "T1188",
+    "description": "Determine if baseline security safeguards are appropriately installed"
+  },
+  {
+    "_id": "T1189",
+    "description": "Determine if contracts comply with funding, legal, and program requirements"
+  },
+  {
+    "_id": "T1190",
+    "description": "Determine hardware configuration"
+  },
+  {
+    "_id": "T1191",
+    "description": "Determine relevance of recovered data"
+  },
+  {
+    "_id": "T1192",
+    "description": "Conduct analysis of computer network attacks"
+  },
+  {
+    "_id": "T1193",
+    "description": "Allocate security functions to components and elements"
+  },
+  {
+    "_id": "T1194",
+    "description": "Remediate technical problems encountered during system testing and implementation"
+  },
+  {
+    "_id": "T1195",
+    "description": "Direct the remediation of technical problems encountered during system testing and implementation"
+  },
+  {
+    "_id": "T1196",
+    "description": "Determine if security incidents are indicative of a violation of law that requires specific legal action"
+  },
+  {
+    "_id": "T1197",
+    "description": "Identify common coding flaws"
+  },
+  {
+    "_id": "T1198",
+    "description": "Identify data or intelligence of evidentiary value"
+  },
+  {
+    "_id": "T1199",
+    "description": "Identify digital evidence for analysis"
+  },
+  {
+    "_id": "T1200",
+    "description": "Identify elements of proof of cybersecurity crimes"
+  },
+  {
+    "_id": "T1201",
+    "description": "Determine implications of new and upgraded technologies to the cybersecurity program"
+  },
+  {
+    "_id": "T1202",
+    "description": "Determine software development security implications within centralized and decentralized environments across the enterprise"
+  },
+  {
+    "_id": "T1203",
+    "description": "Implement software development cybersecurity methodologies within centralized and decentralized environments across the enterprise"
+  },
+  {
+    "_id": "T1204",
+    "description": "Determine cybersecurity measures for steady state operation and management of software"
+  },
+  {
+    "_id": "T1205",
+    "description": "Incorporate product end-of-life cybersecurity measures"
+  },
+  {
+    "_id": "T1206",
+    "description": "Recommend cybersecurity or cybersecurity-enabled products for use within a system"
+  },
+  {
+    "_id": "T1207",
+    "description": "Collect documentary or physical evidence of cyber intrusion incidents, investigations, and operations"
+  },
+  {
+    "_id": "T1208",
+    "description": "Implement new system design procedures"
+  },
+  {
+    "_id": "T1209",
+    "description": "Implement new system test procedures"
+  },
+  {
+    "_id": "T1210",
+    "description": "Implement new system quality standards"
+  },
+  {
+    "_id": "T1211",
+    "description": "Track targets"
+  },
+  {
+    "_id": "T1212",
+    "description": "Implement cybersecurity countermeasures for systems and applications"
+  },
+  {
+    "_id": "T1214",
+    "description": "Install network infrastructure device operating system software"
+  },
+  {
+    "_id": "T1215",
+    "description": "Maintain network infrastructure device operating system software"
+  },
+  {
+    "_id": "T1217",
+    "description": "Determine if system analysis meets cybersecurity requirements"
+  },
+  {
+    "_id": "T1218",
+    "description": "Integrate automated capabilities for updating or patching system software"
+  },
+  {
+    "_id": "T1219",
+    "description": "Develop processes and procedures for manual updating and patching of system software"
+  },
+  {
+    "_id": "T1221",
+    "description": "Disseminate incident and other Computer Network Defense (CND) information"
+  },
+  {
+    "_id": "T1222",
+    "description": "Determine security requirements for new information technologies"
+  },
+  {
+    "_id": "T1223",
+    "description": "Determine security requirements for new operational technologies"
+  },
+  {
+    "_id": "T1224",
+    "description": "Determine impact of noncompliance on organizational risk levels"
+  },
+  {
+    "_id": "T1225",
+    "description": "Determine impact of noncompliance on effectiveness of the enterprise's cybersecurity program"
+  },
+  {
+    "_id": "T1226",
+    "description": "Align cybersecurity priorities with organizational security strategy"
+  },
+  {
+    "_id": "T1227",
+    "description": "Manage cybersecurity budget, staffing, and contracting"
+  },
+  {
+    "_id": "T1228",
+    "description": "Maintain baseline system security"
+  },
+  {
+    "_id": "T1229",
+    "description": "Maintain deployable cyber defense audit toolkits"
+  },
+  {
+    "_id": "T1230",
+    "description": "Maintain directory replication services"
+  },
+  {
+    "_id": "T1231",
+    "description": "Maintain information exchanges through publish, subscribe, and alert functions"
+  },
+  {
+    "_id": "T1232",
+    "description": "Approve accreditation packages"
+  },
+  {
+    "_id": "T1233",
+    "description": "Monitor cybersecurity data sources"
+  },
+  {
+    "_id": "T1234",
+    "description": "Develop Computer Network Defense (CND) guidance for organizational stakeholders"
+  },
+  {
+    "_id": "T1235",
+    "description": "Manage threat and target analysis"
+  },
+  {
+    "_id": "T1236",
+    "description": "Manage the production of threat information"
+  },
+  {
+    "_id": "T1237",
+    "description": "Determine if systems comply with security, resilience, and dependability requirements"
+  },
+  {
+    "_id": "T1238",
+    "description": "Determine the effectiveness of enterprise cybersecurity safeguards"
+  },
+  {
+    "_id": "T1239",
+    "description": "Monitor the usage of knowledge management assets and resources"
+  },
+  {
+    "_id": "T1240",
+    "description": "Create knowledge management assets and resources usage reports"
+  },
+  {
+    "_id": "T1241",
+    "description": "Document cybersecurity incidents"
+  },
+  {
+    "_id": "T1242",
+    "description": "Escalate incidents that may cause ongoing and immediate impact to the environment"
+  },
+  {
+    "_id": "T1243",
+    "description": "Oversee configuration management"
+  },
+  {
+    "_id": "T1244",
+    "description": "Develop configuration management recommendations"
+  },
+  {
+    "_id": "T1245",
+    "description": "Oversee the cybersecurity training and awareness program"
+  },
+  {
+    "_id": "T1246",
+    "description": "Establish Security Assessment and Authorization processes"
+  },
+  {
+    "_id": "T1247",
+    "description": "Develop computer environment cybersecurity plans and requirements"
+  },
+  {
+    "_id": "T1248",
+    "description": "Patch network vulnerabilities"
+  },
+  {
+    "_id": "T1249",
+    "description": "Perform backup and recovery of databases"
+  },
+  {
+    "_id": "T1250",
+    "description": "Perform cyber defense incident triage"
+  },
+  {
+    "_id": "T1251",
+    "description": "Recommend incident remediation strategies"
+  },
+  {
+    "_id": "T1252",
+    "description": "Determine the scope, urgency, and impact of cyber defense incidents"
+  },
+  {
+    "_id": "T1253",
+    "description": "Perform dynamic analysis on drives"
+  },
+  {
+    "_id": "T1254",
+    "description": "Determine the effectiveness of an observed attack"
+  },
+  {
+    "_id": "T1255",
+    "description": "Perform cybersecurity testing of developed applications and systems"
+  },
+  {
+    "_id": "T1256",
+    "description": "Perform forensically sound image collection"
+  },
+  {
+    "_id": "T1257",
+    "description": "Recommend mitigation and remediation strategies for enterprise systems"
+  },
+  {
+    "_id": "T1258",
+    "description": "Perform integrated quality assurance testing"
+  },
+  {
+    "_id": "T1259",
+    "description": "Identify opportunities for new and improved business process solutions"
+  },
+  {
+    "_id": "T1260",
+    "description": "Perform real-time cyber defense incident handling"
+  },
+  {
+    "_id": "T1261",
+    "description": "Mitigate programming vulnerabilities"
+  },
+  {
+    "_id": "T1262",
+    "description": "Identify programming code flaws"
+  },
+  {
+    "_id": "T1263",
+    "description": "Perform security reviews"
+  },
+  {
+    "_id": "T1264",
+    "description": "Identify gaps in security architecture"
+  },
+  {
+    "_id": "T1265",
+    "description": "Develop a cybersecurity risk management plan"
+  },
+  {
+    "_id": "T1266",
+    "description": "Recommend risk mitigation strategies"
+  },
+  {
+    "_id": "T1267",
+    "description": "Perform system administration on specialized cyber defense applications and systems"
+  },
+  {
+    "_id": "T1268",
+    "description": "Administer Virtual Private Network (VPN) devices"
+  },
+  {
+    "_id": "T1269",
+    "description": "Conduct risk analysis of applications and systems undergoing major changes"
+  },
+  {
+    "_id": "T1270",
+    "description": "Plan security authorization reviews for system and network installations"
+  },
+  {
+    "_id": "T1271",
+    "description": "Conduct security authorization reviews for system and network installations"
+  },
+  {
+    "_id": "T1272",
+    "description": "Develop security assurance cases for system and network installations"
+  },
+  {
+    "_id": "T1273",
+    "description": "Plan knowledge management projects"
+  },
+  {
+    "_id": "T1274",
+    "description": "Deliver knowledge management projects"
+  },
+  {
+    "_id": "T1275",
+    "description": "Determine the effectiveness of data redundancy and system recovery procedures"
+  },
+  {
+    "_id": "T1276",
+    "description": "Develop data redundancy and system recovery procedures"
+  },
+  {
+    "_id": "T1277",
+    "description": "Execute data redundancy and system recovery procedures"
+  },
+  {
+    "_id": "T1278",
+    "description": "Recommend system modifications"
+  },
+  {
+    "_id": "T1279",
+    "description": "Prepare audit reports"
+  },
+  {
+    "_id": "T1280",
+    "description": "Develop workflow charts and diagrams"
+  },
+  {
+    "_id": "T1281",
+    "description": "Convert workflow charts and diagrams into coded computer language instructions"
+  },
+  {
+    "_id": "T1282",
+    "description": "Prepare digital media for imaging"
+  },
+  {
+    "_id": "T1283",
+    "description": "Develop cybersecurity use cases"
+  },
+  {
+    "_id": "T1284",
+    "description": "Develop standard operating procedures for secure network system operations"
+  },
+  {
+    "_id": "T1285",
+    "description": "Distribute standard operating procedures"
+  },
+  {
+    "_id": "T1286",
+    "description": "Maintain standard operating procedures"
+  },
+  {
+    "_id": "T1287",
+    "description": "Document systems security activities"
+  },
+  {
+    "_id": "T1288",
+    "description": "Prepare technical evaluations of software applications, systems, and networks"
+  },
+  {
+    "_id": "T1289",
+    "description": "Document software application, system, and network security postures, capabilities, and vulnerabilities"
+  },
+  {
+    "_id": "T1290",
+    "description": "Communicate daily network event and activity reports"
+  },
+  {
+    "_id": "T1291",
+    "description": "Advise stakeholders on the development of continuity of operations plans"
+  },
+  {
+    "_id": "T1292",
+    "description": "Develop guidelines for implementing developed systems for customers and installation teams"
+  },
+  {
+    "_id": "T1293",
+    "description": "Advise on security requirements to be included in statements of work"
+  },
+  {
+    "_id": "T1294",
+    "description": "Advise on Risk Management Framework process activities and documentation"
+  },
+  {
+    "_id": "T1295",
+    "description": "Provide cybersecurity awareness and training"
+  },
+  {
+    "_id": "T1296",
+    "description": "Recommend data structures for use in the production of reports"
+  },
+  {
+    "_id": "T1297",
+    "description": "Recommend new database technologies and architectures"
+  },
+  {
+    "_id": "T1298",
+    "description": "Communicate situational awareness information to leadership"
+  },
+  {
+    "_id": "T1299",
+    "description": "Determine causes of network alerts"
+  },
+  {
+    "_id": "T1300",
+    "description": "Report cybersecurity incidents"
+  },
+  {
+    "_id": "T1301",
+    "description": "Report forensic artifacts indicative of a particular operating system"
+  },
+  {
+    "_id": "T1302",
+    "description": "Address security implications in the software acceptance phase"
+  },
+  {
+    "_id": "T1303",
+    "description": "Recommend new or revised security, resilience, and dependability measures"
+  },
+  {
+    "_id": "T1304",
+    "description": "Recommend organizational cybersecurity resource allocations"
+  },
+  {
+    "_id": "T1305",
+    "description": "Determine if authorization and assurance documents identify an acceptable level of risk for software applications, systems, and networks"
+  },
+  {
+    "_id": "T1306",
+    "description": "Conduct technology program and project audits"
+  },
+  {
+    "_id": "T1307",
+    "description": "Develop cybersecurity policy recommendations"
+  },
+  {
+    "_id": "T1308",
+    "description": "Coordinate cybersecurity policy review and approval processes"
+  },
+  {
+    "_id": "T1309",
+    "description": "Analyze system capabilities and requirements"
+  },
+  {
+    "_id": "T1310",
+    "description": "Implement protective or corrective measures when a cybersecurity incident or vulnerability is discovered"
+  },
+  {
+    "_id": "T1311",
+    "description": "Design and execute exercise scenarios"
+  },
+  {
+    "_id": "T1312",
+    "description": "Conduct test and evaluation activities"
+  },
+  {
+    "_id": "T1313",
+    "description": "Test network infrastructure, including software and hardware devices"
+  },
+  {
+    "_id": "T1314",
+    "description": "Maintain network infrastructure, including software and hardware devices"
+  },
+  {
+    "_id": "T1315",
+    "description": "Track cyber defense incidents from initial detection through final resolution"
+  },
+  {
+    "_id": "T1316",
+    "description": "Document cyber defense incidents from initial detection through final resolution"
+  },
+  {
+    "_id": "T1317",
+    "description": "Determine if appropriate threat mitigation actions have been taken"
+  },
+  {
+    "_id": "T1318",
+    "description": "Integrate security requirements into application design elements"
+  },
+  {
+    "_id": "T1319",
+    "description": "Document software attack surface elements"
+  },
+  {
+    "_id": "T1320",
+    "description": "Conduct threat modeling"
+  },
+  {
+    "_id": "T1321",
+    "description": "Manage computing environment system operations"
+  },
+  {
+    "_id": "T1322",
+    "description": "Capture network traffic associated with malicious activities"
+  },
+  {
+    "_id": "T1323",
+    "description": "Analyze network traffic associated with malicious activities"
+  },
+  {
+    "_id": "T1324",
+    "description": "Process digital evidence"
+  },
+  {
+    "_id": "T1325",
+    "description": "Document digital evidence"
+  },
+  {
+    "_id": "T1326",
+    "description": "Develop system performance predictions for various operating conditions"
+  },
+  {
+    "_id": "T1327",
+    "description": "Update security documentation to reflect current application and system security design features"
+  },
+  {
+    "_id": "T1328",
+    "description": "Verify implementation of software, network, and system cybersecurity postures"
+  },
+  {
+    "_id": "T1329",
+    "description": "Document software, network, and system deviations from implemented security postures"
+  },
+  {
+    "_id": "T1330",
+    "description": "Recommend required actions to correct software, network, and system deviations from implemented security postures"
+  },
+  {
+    "_id": "T1331",
+    "description": "Verify currency of software application, network, and system accreditation and assurance documentation"
+  },
+  {
+    "_id": "T1332",
+    "description": "Produce incident findings reports"
+  },
+  {
+    "_id": "T1333",
+    "description": "Communicate incident findings to appropriate constituencies"
+  },
+  {
+    "_id": "T1334",
+    "description": "Produce cybersecurity instructional materials"
+  },
+  {
+    "_id": "T1335",
+    "description": "Promote cybersecurity awareness to management"
+  },
+  {
+    "_id": "T1336",
+    "description": "Verify the inclusion of sound cybersecurity principles in the organization's vision and goals"
+  },
+  {
+    "_id": "T1337",
+    "description": "Identify system and network capabilities"
+  },
+  {
+    "_id": "T1338",
+    "description": "Develop cybersecurity capability strategies for custom hardware and software development"
+  },
+  {
+    "_id": "T1339",
+    "description": "Develop cybersecurity compliance processes for external services"
+  },
+  {
+    "_id": "T1340",
+    "description": "Develop cybersecurity audit processes for external services"
+  },
+  {
+    "_id": "T1341",
+    "description": "Perform required reviews"
+  },
+  {
+    "_id": "T1342",
+    "description": "Oversee policy standards and implementation strategy development"
+  },
+  {
+    "_id": "T1343",
+    "description": "Provide cybersecurity guidance to organizational risk governance processes"
+  },
+  {
+    "_id": "T1344",
+    "description": "Determine if procurement activities sufficiently address supply chain risks"
+  },
+  {
+    "_id": "T1345",
+    "description": "Recommend improvements to procurement activities to address cybersecurity requirements"
+  },
+  {
+    "_id": "T1346",
+    "description": "Determine if system requirements are adequately demonstrated in data samples"
+  },
+  {
+    "_id": "T1347",
+    "description": "Detect cybersecurity attacks and intrusions"
+  },
+  {
+    "_id": "T1348",
+    "description": "Distinguish between benign and potentially malicious cybersecurity attacks and intrusions"
+  },
+  {
+    "_id": "T1349",
+    "description": "Communicate cybersecurity attacks and intrusions alerts"
+  },
+  {
+    "_id": "T1350",
+    "description": "Perform continuous monitoring of system activity"
+  },
+  {
+    "_id": "T1351",
+    "description": "Determine impact of malicious activity on systems and information"
+  },
+  {
+    "_id": "T1352",
+    "description": "Coordinate critical cyber defense infrastructure protection measures"
+  },
+  {
+    "_id": "T1353",
+    "description": "Prioritize critical cyber defense infrastructure resources"
+  },
+  {
+    "_id": "T1354",
+    "description": "Identify system cybersecurity requirements"
+  },
+  {
+    "_id": "T1355",
+    "description": "Determine if vulnerability remediation plans are in place"
+  },
+  {
+    "_id": "T1356",
+    "description": "Develop vulnerability remediation plans"
+  },
+  {
+    "_id": "T1357",
+    "description": "Determine if cybersecurity requirements have been successfully implemented"
+  },
+  {
+    "_id": "T1358",
+    "description": "Determine the effectiveness of organizational cybersecurity policies and procedures"
+  },
+  {
+    "_id": "T1359",
+    "description": "Perform penetration testing"
+  },
+  {
+    "_id": "T1360",
+    "description": "Design programming language exploitation countermeasures and mitigations"
+  },
+  {
+    "_id": "T1361",
+    "description": "Determine the impact of new system and interface implementations on organization's cybersecurity posture"
+  },
+  {
+    "_id": "T1362",
+    "description": "Document impact of new system and interface implementations on organization's cybersecurity posture"
+  },
+  {
+    "_id": "T1363",
+    "description": "Plan system security development"
+  },
+  {
+    "_id": "T1364",
+    "description": "Conduct system security development"
+  },
+  {
+    "_id": "T1365",
+    "description": "Document cybersecurity design and development activities"
+  },
+  {
+    "_id": "T1366",
+    "description": "Identify supply chain risks for critical system elements"
+  },
+  {
+    "_id": "T1367",
+    "description": "Document supply chain risks for critical system elements"
+  },
+  {
+    "_id": "T1368",
+    "description": "Support cybersecurity compliance activities"
+  },
+  {
+    "_id": "T1369",
+    "description": "Determine if acquisitions, procurement, and outsourcing efforts address cybersecurity requirements"
+  },
+  {
+    "_id": "T1370",
+    "description": "Collect intrusion artifacts"
+  },
+  {
+    "_id": "T1371",
+    "description": "Mitigate potential cyber defense incidents"
+  },
+  {
+    "_id": "T1372",
+    "description": "Advise law enforcement personnel as technical expert"
+  },
+  {
+    "_id": "T1373",
+    "description": "Determine organizational compliance"
+  },
+  {
+    "_id": "T1374",
+    "description": "Forecast ongoing service demands"
+  },
+  {
+    "_id": "T1375",
+    "description": "Conduct periodic reviews of security assumptions"
+  },
+  {
+    "_id": "T1376",
+    "description": "Develop critical infrastructure protection policies and procedures"
+  },
+  {
+    "_id": "T1377",
+    "description": "Implement critical infrastructure protection policies and procedures"
+  },
+  {
+    "_id": "T1378",
+    "description": "Identify cybersecurity solutions tools and technologies"
+  },
+  {
+    "_id": "T1379",
+    "description": "Design cybersecurity tools and technologies"
+  },
+  {
+    "_id": "T1380",
+    "description": "Develop cybersecurity tools and technologies"
+  },
+  {
+    "_id": "T1381",
+    "description": "Scan digital media for viruses"
+  },
+  {
+    "_id": "T1382",
+    "description": "Mount a drive image"
+  },
+  {
+    "_id": "T1383",
+    "description": "Utilize deployable forensics toolkit"
+  },
+  {
+    "_id": "T1384",
+    "description": "Establish intrusion set procedures"
+  },
+  {
+    "_id": "T1385",
+    "description": "Identify network traffic anomalies"
+  },
+  {
+    "_id": "T1386",
+    "description": "Analyze network traffic anomalies"
+  },
+  {
+    "_id": "T1387",
+    "description": "Validate intrusion detection system alerts"
+  },
+  {
+    "_id": "T1388",
+    "description": "Isolate malware"
+  },
+  {
+    "_id": "T1389",
+    "description": "Remove malware"
+  },
+  {
+    "_id": "T1390",
+    "description": "Identify network device applications and operating systems"
+  },
+  {
+    "_id": "T1391",
+    "description": "Reconstruct malicious attacks"
+  },
+  {
+    "_id": "T1392",
+    "description": "Develop user experience requirements"
+  },
+  {
+    "_id": "T1393",
+    "description": "Document user experience requirements"
+  },
+  {
+    "_id": "T1394",
+    "description": "Develop independent cybersecurity audit processes for application software, networks, and systems"
+  },
+  {
+    "_id": "T1395",
+    "description": "Implement independent cybersecurity audit processes for application software, networks, and systems"
+  },
+  {
+    "_id": "T1396",
+    "description": "Oversee independent cybersecurity audits"
+  },
+  {
+    "_id": "T1397",
+    "description": "Determine if research and design processes and procedures are in compliance with cybersecurity requirements"
+  },
+  {
+    "_id": "T1398",
+    "description": "Determine if research and design processes and procedures are accurately followed by cybersecurity staff when performing their day-to-day activities"
+  },
+  {
+    "_id": "T1399",
+    "description": "Develop supply chain, system, network, and operational security contract language"
+  },
+  {
+    "_id": "T1400",
+    "description": "Design and develop secure applications"
+  },
+  {
+    "_id": "T1401",
+    "description": "Integrate system development life cycle methodologies into development environment"
+  },
+  {
+    "_id": "T1402",
+    "description": "Manage databases and data management systems"
+  },
+  {
+    "_id": "T1403",
+    "description": "Allocate cybersecurity services"
+  },
+  {
+    "_id": "T1404",
+    "description": "Select cybersecurity mechanisms"
+  },
+  {
+    "_id": "T1405",
+    "description": "Identify emerging incident trends"
+  },
+  {
+    "_id": "T1406",
+    "description": "Construct cyber defense network tool signatures"
+  },
+  {
+    "_id": "T1407",
+    "description": "Correlate threat assessment data"
+  },
+  {
+    "_id": "T1408",
+    "description": "Develop quality standards"
+  },
+  {
+    "_id": "T1409",
+    "description": "Document quality standards"
+  },
+  {
+    "_id": "T1410",
+    "description": "Develop system security contexts"
+  },
+  {
+    "_id": "T1411",
+    "description": "Develop technical training curriculum and resources"
+  },
+  {
+    "_id": "T1412",
+    "description": "Deliver technical training to customers"
+  },
+  {
+    "_id": "T1413",
+    "description": "Develop training modules and classes"
+  },
+  {
+    "_id": "T1414",
+    "description": "Develop training assignments"
+  },
+  {
+    "_id": "T1415",
+    "description": "Develop training evaluations"
+  },
+  {
+    "_id": "T1416",
+    "description": "Develop grading and proficiency standards"
+  },
+  {
+    "_id": "T1417",
+    "description": "Create learner development, training, and remediation plans"
+  },
+  {
+    "_id": "T1418",
+    "description": "Develop learning objectives and goals"
+  },
+  {
+    "_id": "T1419",
+    "description": "Develop organizational training materials"
+  },
+  {
+    "_id": "T1420",
+    "description": "Develop organizational training programs"
+  },
+  {
+    "_id": "T1421",
+    "description": "Develop proficiency assessments"
+  },
+  {
+    "_id": "T1422",
+    "description": "Develop software documentation"
+  },
+  {
+    "_id": "T1423",
+    "description": "Create system security concept of operations (ConOps) documents"
+  },
+  {
+    "_id": "T1424",
+    "description": "Evaluate network infrastructure vulnerabilities"
+  },
+  {
+    "_id": "T1425",
+    "description": "Recommend network infrastructure enhancements"
+  },
+  {
+    "_id": "T1426",
+    "description": "Determine cybersecurity design and architecture effectiveness"
+  },
+  {
+    "_id": "T1427",
+    "description": "Maintain incident tracking and solution databases"
+  },
+  {
+    "_id": "T1428",
+    "description": "Notify designated managers, cyber incident responders, and cybersecurity service provider team members of suspected cybersecurity incidents"
+  },
+  {
+    "_id": "T1429",
+    "description": "Prepare trend analysis reports"
+  },
+  {
+    "_id": "T1430",
+    "description": "Determine if system components can be aligned"
+  },
+  {
+    "_id": "T1431",
+    "description": "Integrate system components"
+  },
+  {
+    "_id": "T1432",
+    "description": "Build dedicated cyber defense hardware"
+  },
+  {
+    "_id": "T1433",
+    "description": "Install dedicated cyber defense hardware"
+  },
+  {
+    "_id": "T1434",
+    "description": "Create cybersecurity architecture functional specifications"
+  },
+  {
+    "_id": "T1435",
+    "description": "Determine if technology services are delivered successfully"
+  },
+  {
+    "_id": "T1436",
+    "description": "Acquire adequate funding for cybersecurity training"
+  },
+  {
+    "_id": "T1437",
+    "description": "Determine effectiveness of configuration management processes"
+  },
+  {
+    "_id": "T1438",
+    "description": "Determine effectiveness of instruction and training"
+  },
+  {
+    "_id": "T1439",
+    "description": "Assess the behavior of individual victims, witnesses, or suspects during cybersecurity investigations"
+  },
+  {
+    "_id": "T1440",
+    "description": "Assess the validity of source data"
+  },
+  {
+    "_id": "T1441",
+    "description": "Determine the validity of findings"
+  },
+  {
+    "_id": "T1442",
+    "description": "Assess the impact of implementing and sustaining a dedicated cyber defense infrastructure"
+  },
+  {
+    "_id": "T1443",
+    "description": "Recommend commercial, government off-the-shelf, or open source products for use within a system"
+  },
+  {
+    "_id": "T1444",
+    "description": "Determine if products comply with cybersecurity requirements"
+  },
+  {
+    "_id": "T1445",
+    "description": "Conduct hypothesis testing"
+  },
+  {
+    "_id": "T1446",
+    "description": "Conduct learning needs assessments"
+  },
+  {
+    "_id": "T1447",
+    "description": "Identify training requirements"
+  },
+  {
+    "_id": "T1448",
+    "description": "Manage customer services"
+  },
+  {
+    "_id": "T1449",
+    "description": "Determine if qualification standards meet organizational functional requirements and comply with industry standards"
+  },
+  {
+    "_id": "T1450",
+    "description": "Allocate and distribute human capital assets"
+  },
+  {
+    "_id": "T1451",
+    "description": "Create interactive learning exercises"
+  },
+  {
+    "_id": "T1452",
+    "description": "Design system administration and management functionality for privileged access users"
+  },
+  {
+    "_id": "T1453",
+    "description": "Develop system administration and management functionality for privileged access users"
+  },
+  {
+    "_id": "T1454",
+    "description": "Design secure interfaces between information systems, physical systems, and embedded technologies"
+  },
+  {
+    "_id": "T1455",
+    "description": "Implement secure interfaces between information systems, physical systems, and embedded technologies"
+  },
+  {
+    "_id": "T1456",
+    "description": "Determine the impact of threats on cybersecurity"
+  },
+  {
+    "_id": "T1457",
+    "description": "Implement threat countermeasures"
+  },
+  {
+    "_id": "T1458",
+    "description": "Develop data gathering processes"
+  },
+  {
+    "_id": "T1459",
+    "description": "Develop standardized cybersecurity position descriptions using the NICE Framework"
+  },
+  {
+    "_id": "T1460",
+    "description": "Develop recruiting, hiring, and retention processes"
+  },
+  {
+    "_id": "T1461",
+    "description": "Determine cybersecurity position requirements"
+  },
+  {
+    "_id": "T1462",
+    "description": "Develop cybersecurity training policies and procedures"
+  },
+  {
+    "_id": "T1463",
+    "description": "Develop cybersecurity curriculum goals and objectives"
+  },
+  {
+    "_id": "T1464",
+    "description": "Determine if cybersecurity workforce management policies and procedures comply with legal and organizational requirements"
+  },
+  {
+    "_id": "T1465",
+    "description": "Define service-level agreements (SLAs)"
+  },
+  {
+    "_id": "T1466",
+    "description": "Establish cybersecurity workforce readiness metrics"
+  },
+  {
+    "_id": "T1467",
+    "description": "Establish waiver processes for cybersecurity career field entry and training qualification requirements"
+  },
+  {
+    "_id": "T1468",
+    "description": "Establish organizational cybersecurity career pathways"
+  },
+  {
+    "_id": "T1469",
+    "description": "Develop cybersecurity workforce reporting requirements"
+  },
+  {
+    "_id": "T1470",
+    "description": "Establish cybersecurity workforce management programs"
+  },
+  {
+    "_id": "T1471",
+    "description": "Assess cybersecurity workforce management programs"
+  },
+  {
+    "_id": "T1472",
+    "description": "Gather customer satisfaction and service performance feedback"
+  },
+  {
+    "_id": "T1473",
+    "description": "Create risk-driven systems maintenance and updates processes"
+  },
+  {
+    "_id": "T1474",
+    "description": "Define operating level agreements (OLAs)"
+  },
+  {
+    "_id": "T1475",
+    "description": "Develop instructional strategies"
+  },
+  {
+    "_id": "T1476",
+    "description": "Promote awareness of cybersecurity policy and strategy among management"
+  },
+  {
+    "_id": "T1477",
+    "description": "Advise trial counsel as technical expert"
+  },
+  {
+    "_id": "T1478",
+    "description": "Determine cybersecurity career field qualification requirements"
+  },
+  {
+    "_id": "T1479",
+    "description": "Determine organizational policies related to or influencing the cyber workforce"
+  },
+  {
+    "_id": "T1480",
+    "description": "Examine service performance reports for issues and variances"
+  },
+  {
+    "_id": "T1481",
+    "description": "Initiate corrective actions to service performance issues and variances"
+  },
+  {
+    "_id": "T1482",
+    "description": "Conduct cybersecurity workforce assessments"
+  },
+  {
+    "_id": "T1483",
+    "description": "Integrate cybersecurity workforce personnel into information systems life cycle development processes"
+  },
+  {
+    "_id": "T1484",
+    "description": "Establish testing specifications and requirements"
+  },
+  {
+    "_id": "T1485",
+    "description": "Prepare after action reviews (AARs)"
+  },
+  {
+    "_id": "T1486",
+    "description": "Process forensic images"
+  },
+  {
+    "_id": "T1487",
+    "description": "Perform file and registry monitoring on running systems"
+  },
+  {
+    "_id": "T1488",
+    "description": "Enter digital media information into tracking databases"
+  },
+  {
+    "_id": "T1489",
+    "description": "Correlate incident data"
+  },
+  {
+    "_id": "T1490",
+    "description": "Prepare cyber defense toolkits"
+  },
+  {
+    "_id": "T1491",
+    "description": "Design data management systems"
+  },
+  {
+    "_id": "T1492",
+    "description": "Integrate laws and regulations into policy"
+  },
+  {
+    "_id": "T1493",
+    "description": "Troubleshoot prototype design and process issues"
+  },
+  {
+    "_id": "T1494",
+    "description": "Recommend vulnerability exploitation functional and security-related features"
+  },
+  {
+    "_id": "T1495",
+    "description": "Recommend vulnerability mitigation functional- and security-related features"
+  },
+  {
+    "_id": "T1496",
+    "description": "Develop reverse engineering tools"
+  },
+  {
+    "_id": "T1497",
+    "description": "Determine supply chain cybersecurity requirements"
+  },
+  {
+    "_id": "T1498",
+    "description": "Determine if cybersecurity requirements included in contracts are delivered"
+  },
+  {
+    "_id": "T1499",
+    "description": "Integrate public key cryptography into applications"
+  },
+  {
+    "_id": "T1500",
+    "description": "Install systems and servers"
+  },
+  {
+    "_id": "T1501",
+    "description": "Update systems and servers"
+  },
+  {
+    "_id": "T1502",
+    "description": "Troubleshoot systems and servers"
+  },
+  {
+    "_id": "T1503",
+    "description": "Evaluate platforms managed by service providers"
+  },
+  {
+    "_id": "T1504",
+    "description": "Manage organizational knowledge repositories"
+  },
+  {
+    "_id": "T1505",
+    "description": "Analyze cybersecurity threats for counter intelligence or criminal activity"
+  },
+  {
+    "_id": "T1506",
+    "description": "Analyze software and hardware testing results"
+  },
+  {
+    "_id": "T1507",
+    "description": "Determine user requirements"
+  },
+  {
+    "_id": "T1508",
+    "description": "Plan cybersecurity architecture"
+  },
+  {
+    "_id": "T1509",
+    "description": "Analyze feasibility of software design within time and cost constraints"
+  },
+  {
+    "_id": "T1510",
+    "description": "Preserve digital evidence"
+  },
+  {
+    "_id": "T1511",
+    "description": "Identify alleged violations of law, regulations, policy, or guidance"
+  },
+  {
+    "_id": "T1512",
+    "description": "Perform periodic system maintenance"
+  },
+  {
+    "_id": "T1513",
+    "description": "Conduct trial runs of programs and software applications"
+  },
+  {
+    "_id": "T1514",
+    "description": "Determine accurate security levels in programs and software applications"
+  },
+  {
+    "_id": "T1515",
+    "description": "Manage network access control lists on specialized cyber defense systems"
+  },
+  {
+    "_id": "T1516",
+    "description": "Detect concealed data"
+  },
+  {
+    "_id": "T1517",
+    "description": "Deliver training courses"
+  },
+  {
+    "_id": "T1518",
+    "description": "Develop organizational cybersecurity strategy"
+  },
+  {
+    "_id": "T1519",
+    "description": "Design system security measures"
+  },
+  {
+    "_id": "T1520",
+    "description": "Update system security measures"
+  },
+  {
+    "_id": "T1521",
+    "description": "Develop enterprise architecture"
+  },
+  {
+    "_id": "T1522",
+    "description": "Determine if systems meet minimum security requirements"
+  },
+  {
+    "_id": "T1523",
+    "description": "Design organizational knowledge management frameworks"
+  },
+  {
+    "_id": "T1524",
+    "description": "Implement organizational knowledge management frameworks"
+  },
+  {
+    "_id": "T1525",
+    "description": "Maintain organizational knowledge management frameworks"
+  },
+  {
+    "_id": "T1526",
+    "description": "Identify responsible parties for intrusions and other crimes"
+  },
+  {
+    "_id": "T1527",
+    "description": "Define baseline system security requirements"
+  },
+  {
+    "_id": "T1528",
+    "description": "Develop software system testing and validation procedures"
+  },
+  {
+    "_id": "T1529",
+    "description": "Create software system documentation"
+  },
+  {
+    "_id": "T1530",
+    "description": "Develop local network usage policies and procedures"
+  },
+  {
+    "_id": "T1531",
+    "description": "Determine compliance with local network usage policies and procedures"
+  },
+  {
+    "_id": "T1532",
+    "description": "Develop procedures for system operations transfer to alternate sites"
+  },
+  {
+    "_id": "T1533",
+    "description": "Test failover for system operations transfer to alternative sites"
+  },
+  {
+    "_id": "T1534",
+    "description": "Develop cost estimates for new or modified systems"
+  },
+  {
+    "_id": "T1535",
+    "description": "Develop implementation guidelines"
+  },
+  {
+    "_id": "T1537",
+    "description": "Determine if cybersecurity training, education, and awareness meet established goals"
+  },
+  {
+    "_id": "T1538",
+    "description": "Resolve customer-reported system incidents and events"
+  },
+  {
+    "_id": "T1539",
+    "description": "Analyze organizational cybrersecurity posture trends"
+  },
+  {
+    "_id": "T1540",
+    "description": "Develop organizational cybersecurity posture trend reports"
+  },
+  {
+    "_id": "T1541",
+    "description": "Develop system security posture trend reports"
+  },
+  {
+    "_id": "T1542",
+    "description": "Document original condition of digital evidence"
+  },
+  {
+    "_id": "T1543",
+    "description": "Develop cybersecurity policies and procedures"
+  },
+  {
+    "_id": "T1544",
+    "description": "Create definition activity documentation"
+  },
+  {
+    "_id": "T1545",
+    "description": "Create architecture activity documentation"
+  },
+  {
+    "_id": "T1546",
+    "description": "Provide inspectors general, privacy officers, and oversight and compliance with legal analysis and decisions"
+  },
+  {
+    "_id": "T1547",
+    "description": "Determine compliance with cybersecurity policies and legal and regulatory requirements"
+  },
+  {
+    "_id": "T1548",
+    "description": "Determine adequacy of access controls"
+  },
+  {
+    "_id": "T1549",
+    "description": "Evaluate the impact of legal, regulatory, policy, standard, or procedural changes"
+  },
+  {
+    "_id": "T1550",
+    "description": "Execute disaster recovery and continuity of operations processes"
+  },
+  {
+    "_id": "T1551",
+    "description": "Prosecute cybercrimes and fraud committed against people and property"
+  },
+  {
+    "_id": "T1552",
+    "description": "Identify cyber workforce planning and management issues"
+  },
+  {
+    "_id": "T1553",
+    "description": "Address cyber workforce planning and management issues"
+  },
+  {
+    "_id": "T1554",
+    "description": "Recommend enhancements to software and hardware solutions"
+  },
+  {
+    "_id": "T1555",
+    "description": "Implement cyber defense tools"
+  },
+  {
+    "_id": "T1556",
+    "description": "Identify system and network protection needs"
+  },
+  {
+    "_id": "T1557",
+    "description": "Implement security measures for systems and system components"
+  },
+  {
+    "_id": "T1559",
+    "description": "Resolve vulnerabilities in systems and system components"
+  },
+  {
+    "_id": "T1560",
+    "description": "Mitigate risks in systems and system components"
+  },
+  {
+    "_id": "T1561",
+    "description": "Implement dedicated cyber defense systems"
+  },
+  {
+    "_id": "T1562",
+    "description": "Document system requirements"
+  },
+  {
+    "_id": "T1563",
+    "description": "Implement system security measures"
+  },
+  {
+    "_id": "T1564",
+    "description": "Install database management systems and software"
+  },
+  {
+    "_id": "T1565",
+    "description": "Configure database management systems and software"
+  },
+  {
+    "_id": "T1566",
+    "description": "Install system hardware, software, and peripheral equipment"
+  },
+  {
+    "_id": "T1567",
+    "description": "Configure system hardware, software, and peripheral equipment"
+  },
+  {
+    "_id": "T1568",
+    "description": "Implement cross-domain solutions"
+  },
+  {
+    "_id": "T1569",
+    "description": "Administer system and network user accounts"
+  },
+  {
+    "_id": "T1570",
+    "description": "Establish system and network rights processes and procedures"
+  },
+  {
+    "_id": "T1571",
+    "description": "Establish systems and equipment access protocols"
+  },
+  {
+    "_id": "T1572",
+    "description": "Inventory technology resources"
+  },
+  {
+    "_id": "T1573",
+    "description": "Determine if developed solutions meet customer requirements"
+  },
+  {
+    "_id": "T1574",
+    "description": "Develop risk acceptance documentation for senior leaders and authorized representatives"
+  },
+  {
+    "_id": "T1575",
+    "description": "Adapt software to new hardware"
+  },
+  {
+    "_id": "T1576",
+    "description": "Upgrade software interfaces"
+  },
+  {
+    "_id": "T1577",
+    "description": "Improve software performance"
+  },
+  {
+    "_id": "T1578",
+    "description": "Monitor system and server configurations"
+  },
+  {
+    "_id": "T1579",
+    "description": "Maintain system and server configurations"
+  },
+  {
+    "_id": "T1580",
+    "description": "Monitor client-level computer system performance"
+  },
+  {
+    "_id": "T1581",
+    "description": "Create client-level computer system performance reports"
+  },
+  {
+    "_id": "T1582",
+    "description": "Maintain currency of cyber defense threat conditions"
+  },
+  {
+    "_id": "T1583",
+    "description": "Determine effectiveness of system implementation and testing processes"
+  },
+  {
+    "_id": "T1584",
+    "description": "Establish minimum security requirements for applications"
+  },
+  {
+    "_id": "T1585",
+    "description": "Determine if applications meet minimum security requirements"
+  },
+  {
+    "_id": "T1586",
+    "description": "Conduct cybersecurity risk assessments"
+  },
+  {
+    "_id": "T1587",
+    "description": "Perform cybersecurity testing on systems in development"
+  },
+  {
+    "_id": "T1588",
+    "description": "Diagnose faulty system and server hardware"
+  },
+  {
+    "_id": "T1589",
+    "description": "Repair faulty system and server hardware"
+  },
+  {
+    "_id": "T1590",
+    "description": "Identify programming flaws"
+  },
+  {
+    "_id": "T1591",
+    "description": "Address security architecture gaps"
+  },
+  {
+    "_id": "T1592",
+    "description": "Conduct cybersecurity reviews"
+  },
+  {
+    "_id": "T1593",
+    "description": "Identify cybersecurity gaps in enterprise architecture"
+  },
+  {
+    "_id": "T1594",
+    "description": "Plan classroom learning sessions"
+  },
+  {
+    "_id": "T1595",
+    "description": "Coordinate training and education"
+  },
+  {
+    "_id": "T1596",
+    "description": "Plan delivery of non-classroom learning"
+  },
+  {
+    "_id": "T1597",
+    "description": "Plan implementation strategies"
+  },
+  {
+    "_id": "T1598",
+    "description": "Assess the integration and alignment capabilities of enterprise components"
+  },
+  {
+    "_id": "T1599",
+    "description": "Prepare legal documents"
+  },
+  {
+    "_id": "T1600",
+    "description": "Prepare investigative reports"
+  },
+  {
+    "_id": "T1601",
+    "description": "Advise stakeholders on enterprise cybersecurity risk management"
+  },
+  {
+    "_id": "T1602",
+    "description": "Advise stakeholders on supply chain risk management"
+  },
+  {
+    "_id": "T1603",
+    "description": "Recommend threat and vulnerability risk mitigation strategies"
+  },
+  {
+    "_id": "T1604",
+    "description": "Provide cybersecurity advice on implementation plans, standard operating procedures, maintenance documentation, and maintenance training materials"
+  },
+  {
+    "_id": "T1605",
+    "description": "Advise management, staff, and users on cybersecurity policy"
+  },
+  {
+    "_id": "T1606",
+    "description": "Prepare impact reports"
+  },
+  {
+    "_id": "T1607",
+    "description": "Recover information from forensic data sources"
+  },
+  {
+    "_id": "T1608",
+    "description": "Perform periodic reviews of learning materials and courses for accuracy and currency"
+  },
+  {
+    "_id": "T1609",
+    "description": "Recommend revisions to learning materials and curriculum"
+  },
+  {
+    "_id": "T1610",
+    "description": "Determine if hardware and software complies with defined specifications and requirements"
+  },
+  {
+    "_id": "T1611",
+    "description": "Record test data"
+  },
+  {
+    "_id": "T1612",
+    "description": "Manage test data"
+  },
+  {
+    "_id": "T1613",
+    "description": "Determine if design components meet system requirements"
+  },
+  {
+    "_id": "T1614",
+    "description": "Determine scalability of system architecture"
+  },
+  {
+    "_id": "T1615",
+    "description": "Advise stakeholders on vulnerability compliance"
+  },
+  {
+    "_id": "T1616",
+    "description": "Resolve computer security incidents"
+  },
+  {
+    "_id": "T1617",
+    "description": "Prepare cyber defense reports"
+  },
+  {
+    "_id": "T1618",
+    "description": "Advise stakeholders on disaster recovery, contingency, and continuity of operations plans"
+  },
+  {
+    "_id": "T1619",
+    "description": "Perform risk and vulnerability assessments"
+  },
+  {
+    "_id": "T1620",
+    "description": "Recommend cost-effective security controls"
+  },
+  {
+    "_id": "T1621",
+    "description": "Prepare supply chain security reports"
+  },
+  {
+    "_id": "T1622",
+    "description": "Prepare risk management reports"
+  },
+  {
+    "_id": "T1623",
+    "description": "Develop supply chain cybersecurity risk management policy"
+  },
+  {
+    "_id": "T1624",
+    "description": "Conduct vulnerability analysis of software patches and updates"
+  },
+  {
+    "_id": "T1625",
+    "description": "Prepare vulnerability analysis reports"
+  },
+  {
+    "_id": "T1626",
+    "description": "Determine impact of new systems and system interfaces on current and target environments"
+  },
+  {
+    "_id": "T1627",
+    "description": "Conduct cybersecurity management assessments"
+  },
+  {
+    "_id": "T1628",
+    "description": "Design cybersecurity management functions"
+  },
+  {
+    "_id": "T1629",
+    "description": "Prepare target analysis reports"
+  },
+  {
+    "_id": "T1630",
+    "description": "Address identified issues in collection operations and collection plans"
+  },
+  {
+    "_id": "T1631",
+    "description": "Synchronize collections with operational requirements"
+  },
+  {
+    "_id": "T1632",
+    "description": "Determine if collection products and services meet requirements"
+  },
+  {
+    "_id": "T1633",
+    "description": "Identify target operational architecture vulnerabilities"
+  },
+  {
+    "_id": "T1634",
+    "description": "Determine impacts on collection management operational structure and requirements"
+  },
+  {
+    "_id": "T1635",
+    "description": "Access targeted networks"
+  },
+  {
+    "_id": "T1636",
+    "description": "Develop intelligence collection management processes"
+  },
+  {
+    "_id": "T1637",
+    "description": "Coordinate intelligence support to operational planning"
+  },
+  {
+    "_id": "T1638",
+    "description": "Recommend cyber operation targets"
+  },
+  {
+    "_id": "T1639",
+    "description": "Assess target vulnerabilities and operational capabilities"
+  },
+  {
+    "_id": "T1640",
+    "description": "Determine effectiveness of intelligence collection operations"
+  },
+  {
+    "_id": "T1641",
+    "description": "Recommend adjustments to intelligence collection strategies"
+  },
+  {
+    "_id": "T1642",
+    "description": "Advise stakeholders on course of action development"
+  },
+  {
+    "_id": "T1643",
+    "description": "Develop common operational pictures"
+  },
+  {
+    "_id": "T1644",
+    "description": "Develop cyber operations indicators"
+  },
+  {
+    "_id": "T1645",
+    "description": "Coordinate all-source collection activities"
+  },
+  {
+    "_id": "T1646",
+    "description": "Validate all-source collection requirements and plans"
+  },
+  {
+    "_id": "T1647",
+    "description": "Develop priority information requirements"
+  },
+  {
+    "_id": "T1648",
+    "description": "Develop performance success metrics"
+  },
+  {
+    "_id": "T1649",
+    "description": "Synchronize intelligence support plans across partner organizations"
+  },
+  {
+    "_id": "T1650",
+    "description": "Develop cybersecurity success metrics"
+  },
+  {
+    "_id": "T1651",
+    "description": "Prepare threat and target briefings"
+  },
+  {
+    "_id": "T1652",
+    "description": "Prepare threat and target situational updates"
+  },
+  {
+    "_id": "T1653",
+    "description": "Build electronic target folders"
+  },
+  {
+    "_id": "T1654",
+    "description": "Maintain electronic target folders"
+  },
+  {
+    "_id": "T1655",
+    "description": "Classify documents"
+  },
+  {
+    "_id": "T1656",
+    "description": "Manage request for information (RFI) processes"
+  },
+  {
+    "_id": "T1657",
+    "description": "Develop a diverse program of information materials"
+  },
+  {
+    "_id": "T1658",
+    "description": "Determine customer requirements"
+  },
+  {
+    "_id": "T1659",
+    "description": "Compare allocated and available assets to collection demand"
+  },
+  {
+    "_id": "T1660",
+    "description": "Prepare intelligence collection reports"
+  },
+  {
+    "_id": "T1661",
+    "description": "Assess all-source data for intelligence or vulnerability value"
+  },
+  {
+    "_id": "T1662",
+    "description": "Identify information essential to intelligence collection operations"
+  },
+  {
+    "_id": "T1663",
+    "description": "Identify potential avenues of access in digital technologies"
+  },
+  {
+    "_id": "T1664",
+    "description": "Access wireless computer and digital networks"
+  },
+  {
+    "_id": "T1665",
+    "description": "Process intelligence collection data"
+  },
+  {
+    "_id": "T1666",
+    "description": "Exploit wireless computer and digital networks"
+  },
+  {
+    "_id": "T1667",
+    "description": "Conduct independent in-depth target and technical analysis"
+  },
+  {
+    "_id": "T1668",
+    "description": "Conduct network scouting"
+  },
+  {
+    "_id": "T1669",
+    "description": "Analyze system vulnerabilities within a network"
+  },
+  {
+    "_id": "T1670",
+    "description": "Conduct on-net activities"
+  },
+  {
+    "_id": "T1671",
+    "description": "Exfiltrate data from deployed technologies"
+  },
+  {
+    "_id": "T1672",
+    "description": "Conduct off-net activities"
+  },
+  {
+    "_id": "T1673",
+    "description": "Exfiltrate data from automated technologies"
+  },
+  {
+    "_id": "T1674",
+    "description": "Perform open source data collection"
+  },
+  {
+    "_id": "T1675",
+    "description": "Determine validity and relevance of information gathered about networks"
+  },
+  {
+    "_id": "T1676",
+    "description": "Survey computer and digital networks"
+  },
+  {
+    "_id": "T1677",
+    "description": "Develop intelligence collection plans"
+  },
+  {
+    "_id": "T1678",
+    "description": "Develop cyber operations crisis action plans"
+  },
+  {
+    "_id": "T1679",
+    "description": "Develop organizational decision support tools"
+  },
+  {
+    "_id": "T1680",
+    "description": "Develop cyber operations staffing policies"
+  },
+  {
+    "_id": "T1681",
+    "description": "Coordinate resource allocation of collection assets with collection discipline leads"
+  },
+  {
+    "_id": "T1682",
+    "description": "Prepare collection plan documentation"
+  },
+  {
+    "_id": "T1683",
+    "description": "Vet targets with partners"
+  },
+  {
+    "_id": "T1684",
+    "description": "Communicate information requirements to collection managers"
+  },
+  {
+    "_id": "T1685",
+    "description": "Assess capability to satisfy assigned intelligence tasks"
+  },
+  {
+    "_id": "T1686",
+    "description": "Identify intelligence requirements"
+  },
+  {
+    "_id": "T1687",
+    "description": "Draft intelligence sections of cyber operations plans"
+  },
+  {
+    "_id": "T1688",
+    "description": "Identify strategies to counter potential target actions"
+  },
+  {
+    "_id": "T1689",
+    "description": "Create comprehensive exploitation strategies"
+  },
+  {
+    "_id": "T1690",
+    "description": "Identify exploitable technical or operational vulnerabilities"
+  },
+  {
+    "_id": "T1691",
+    "description": "Detect exploits against targeted networks and hosts"
+  },
+  {
+    "_id": "T1692",
+    "description": "Counter exploits against targeted networks and hosts"
+  },
+  {
+    "_id": "T1693",
+    "description": "Inventory existing collection management webpage databases, libraries, and storehouses"
+  },
+  {
+    "_id": "T1695",
+    "description": "Determine organizations with collection authority over predefined accessible collection assets"
+  },
+  {
+    "_id": "T1696",
+    "description": "Develop intelligence collection report analysis processes"
+  },
+  {
+    "_id": "T1697",
+    "description": "Prepare all-source intelligence targeting reports"
+  },
+  {
+    "_id": "T1698",
+    "description": "Collect target information"
+  },
+  {
+    "_id": "T1699",
+    "description": "Develop crisis plans"
+  },
+  {
+    "_id": "T1700",
+    "description": "Maintain crisis plans"
+  },
+  {
+    "_id": "T1701",
+    "description": "Integrate cyber operations guidance into broader planning activities"
+  },
+  {
+    "_id": "T1702",
+    "description": "Integrate intelligence guidance into cyber operations planning activities"
+  },
+  {
+    "_id": "T1703",
+    "description": "Prepare collections operation instructions"
+  },
+  {
+    "_id": "T1704",
+    "description": "Develop intelligence operations plans"
+  },
+  {
+    "_id": "T1705",
+    "description": "Provide intelligence guidance to cyber operations requirements"
+  },
+  {
+    "_id": "T1706",
+    "description": "Allocate collection assets"
+  },
+  {
+    "_id": "T1707",
+    "description": "Prepare munitions effectiveness assessment reports"
+  },
+  {
+    "_id": "T1708",
+    "description": "Prepare operational assessment reports"
+  },
+  {
+    "_id": "T1709",
+    "description": "Develop new techniques for accessing target systems"
+  },
+  {
+    "_id": "T1710",
+    "description": "Develop policies for providing and obtaining cyber operations support from external partners"
+  },
+  {
+    "_id": "T1711",
+    "description": "Develop international cybersecurity strategies, policies, and activities to meet organizational objectives"
+  },
+  {
+    "_id": "T1712",
+    "description": "Recommend potential courses of action"
+  },
+  {
+    "_id": "T1713",
+    "description": "Develop feedback procedures"
+  },
+  {
+    "_id": "T1714",
+    "description": "Develop partner planning strategies and processes"
+  },
+  {
+    "_id": "T1715",
+    "description": "Develop operations strategies and processes"
+  },
+  {
+    "_id": "T1716",
+    "description": "Develop capability development strategies and processes"
+  },
+  {
+    "_id": "T1717",
+    "description": "Recommend changes to planning policies and procedures"
+  },
+  {
+    "_id": "T1718",
+    "description": "Implement changes to planning policies and procedures"
+  },
+  {
+    "_id": "T1719",
+    "description": "Develop cybersecurity cooperation agreements with external partners"
+  },
+  {
+    "_id": "T1720",
+    "description": "Maintain cybersecurity cooperation agreements with external partners"
+  },
+  {
+    "_id": "T1721",
+    "description": "Assess cybersecurity cooperation agreements with external partners"
+  },
+  {
+    "_id": "T1722",
+    "description": "Prepare cyber operation strategy and planning documents"
+  },
+  {
+    "_id": "T1723",
+    "description": "Disseminate tasking messages"
+  },
+  {
+    "_id": "T1724",
+    "description": "Disseminate collection plans"
+  },
+  {
+    "_id": "T1725",
+    "description": "Assess intelligence collection results"
+  },
+  {
+    "_id": "T1726",
+    "description": "Document intelligence collection assessment findings"
+  },
+  {
+    "_id": "T1727",
+    "description": "Develop cyber intelligence collection and production requirements"
+  },
+  {
+    "_id": "T1728",
+    "description": "Implement collection operation plans"
+  },
+  {
+    "_id": "T1729",
+    "description": "Synchronize intelligence planning activities with operational planning timelines"
+  },
+  {
+    "_id": "T1730",
+    "description": "Determine if collection requests meet priority intelligence requirements"
+  },
+  {
+    "_id": "T1731",
+    "description": "Determine if information collected satisfies intelligence requests"
+  },
+  {
+    "_id": "T1732",
+    "description": "Determine effectiveness of network analysis strategies"
+  },
+  {
+    "_id": "T1733",
+    "description": "Determine if collection operations meet operational requirements"
+  },
+  {
+    "_id": "T1734",
+    "description": "Exploit network devices and terminals"
+  },
+  {
+    "_id": "T1735",
+    "description": "Facilitate interactions between internal and external partner decision makers to synchronize and integrate courses of action"
+  },
+  {
+    "_id": "T1736",
+    "description": "Communicate tool requirements to developers"
+  },
+  {
+    "_id": "T1737",
+    "description": "Develop intelligence collection strategies"
+  },
+  {
+    "_id": "T1738",
+    "description": "Determine cyber operations partner intelligence capabilities and limitations"
+  },
+  {
+    "_id": "T1739",
+    "description": "Develop intelligence collection requirements"
+  },
+  {
+    "_id": "T1740",
+    "description": "Identify security cooperation priorities"
+  },
+  {
+    "_id": "T1741",
+    "description": "Designate priority information requirements"
+  },
+  {
+    "_id": "T1742",
+    "description": "Select collaboration platforms"
+  },
+  {
+    "_id": "T1743",
+    "description": "Identify information collection gaps"
+  },
+  {
+    "_id": "T1744",
+    "description": "Develop coordination requirements and procedures"
+  },
+  {
+    "_id": "T1745",
+    "description": "Identify gaps in understanding of target technology"
+  },
+  {
+    "_id": "T1746",
+    "description": "Determine effectiveness of processing, exploitation, and dissemination architecture"
+  },
+  {
+    "_id": "T1747",
+    "description": "Identify system vulnerabilities within a network"
+  },
+  {
+    "_id": "T1748",
+    "description": "Identify collection management risks"
+  },
+  {
+    "_id": "T1749",
+    "description": "Mitigate collection management risks"
+  },
+  {
+    "_id": "T1750",
+    "description": "Identify intelligence environment preparation derived production needs"
+  },
+  {
+    "_id": "T1751",
+    "description": "Locate targets"
+  },
+  {
+    "_id": "T1752",
+    "description": "Develop courses of action based on threat factors"
+  },
+  {
+    "_id": "T1753",
+    "description": "Inform stakeholders of evaluation results"
+  },
+  {
+    "_id": "T1754",
+    "description": "Initiate requests to guide tasking"
+  },
+  {
+    "_id": "T1755",
+    "description": "Integrate cyber planning and targeting efforts"
+  },
+  {
+    "_id": "T1756",
+    "description": "Interpret environment preparation assessments"
+  },
+  {
+    "_id": "T1757",
+    "description": "Coordinate exploitation operations"
+  },
+  {
+    "_id": "T1758",
+    "description": "Determine potential implications of new and emerging hardware and software technologies"
+  },
+  {
+    "_id": "T1759",
+    "description": "Maintain situational awareness of organic operational infrastructure"
+  },
+  {
+    "_id": "T1760",
+    "description": "Maintain functionality of organic operational infrastructure"
+  },
+  {
+    "_id": "T1761",
+    "description": "Determine if changes to the operating environment require review of the plan"
+  },
+  {
+    "_id": "T1762",
+    "description": "Modify collection requirements"
+  },
+  {
+    "_id": "T1763",
+    "description": "Determine effectiveness of collection requirements"
+  },
+  {
+    "_id": "T1764",
+    "description": "Asssess effectiveness of integrated cyber operations"
+  },
+  {
+    "_id": "T1765",
+    "description": "Monitor changes to designated cyber operations warning problem sets"
+  },
+  {
+    "_id": "T1766",
+    "description": "Prepare change reports for designated cyber operations warning problem sets"
+  },
+  {
+    "_id": "T1767",
+    "description": "Monitor threat activities"
+  },
+  {
+    "_id": "T1768",
+    "description": "Prepare threat activity reports"
+  },
+  {
+    "_id": "T1769",
+    "description": "Determine when reallocated collection efforts are completed"
+  },
+  {
+    "_id": "T1770",
+    "description": "Report on adversarial activities that fulfill priority information requirements"
+  },
+  {
+    "_id": "T1771",
+    "description": "Determine effectiveness of the processing, exploitation, and dissemination architecture"
+  },
+  {
+    "_id": "T1772",
+    "description": "Identify indications and warnings of target communication changes or processing failures"
+  },
+  {
+    "_id": "T1773",
+    "description": "Identify collection operational management process risks"
+  },
+  {
+    "_id": "T1774",
+    "description": "Gain and maintain access to target systems"
+  },
+  {
+    "_id": "T1775",
+    "description": "Prepare cyber operations intelligence reports"
+  },
+  {
+    "_id": "T1776",
+    "description": "Prepare indications and warnings intelligence reports"
+  },
+  {
+    "_id": "T1777",
+    "description": "Conduct policy reviews"
+  },
+  {
+    "_id": "T1778",
+    "description": "Assess the consequences of endorsing or not endorsing policies"
+  },
+  {
+    "_id": "T1779",
+    "description": "Coordinate strategic planning efforts with internal and external partners"
+  },
+  {
+    "_id": "T1780",
+    "description": "Develop external coordination policies"
+  },
+  {
+    "_id": "T1781",
+    "description": "Degrade or remove data from networks and computers"
+  },
+  {
+    "_id": "T1782",
+    "description": "Develop website characterizations"
+  },
+  {
+    "_id": "T1783",
+    "description": "Prioritize collection requirements for collection platforms"
+  },
+  {
+    "_id": "T1784",
+    "description": "Process exfiltrated data"
+  },
+  {
+    "_id": "T1785",
+    "description": "Profile network administrators and their activities"
+  },
+  {
+    "_id": "T1786",
+    "description": "Profile system administrators and their activities"
+  },
+  {
+    "_id": "T1787",
+    "description": "Reassign collection assets and resources in response to dynamic operational situations"
+  },
+  {
+    "_id": "T1788",
+    "description": "Promote collection planning as an integrated component of the strategic campaign plans and other adaptive plans"
+  },
+  {
+    "_id": "T1789",
+    "description": "Provide aim point recommendations for targets"
+  },
+  {
+    "_id": "T1790",
+    "description": "Provide reengagement recommendations"
+  },
+  {
+    "_id": "T1791",
+    "description": "Provide cyber recommendations to intelligence support planning"
+  },
+  {
+    "_id": "T1792",
+    "description": "Asssess effectiveness of intelligence production"
+  },
+  {
+    "_id": "T1793",
+    "description": "Asssess effectiveness of intelligence reporting"
+  },
+  {
+    "_id": "T1794",
+    "description": "Develop cyber operations strategies"
+  },
+  {
+    "_id": "T1795",
+    "description": "Conduct post-action effectiveness assessments"
+  },
+  {
+    "_id": "T1796",
+    "description": "Determine effectiveness of targeting activities"
+  },
+  {
+    "_id": "T1797",
+    "description": "Advise stakeholders on administrative and logistical elements of operational support plans"
+  },
+  {
+    "_id": "T1798",
+    "description": "Provide intelligence analysis and support"
+  },
+  {
+    "_id": "T1799",
+    "description": "Notify appropriate personnel of imminent hostile intentions or activities"
+  },
+  {
+    "_id": "T1800",
+    "description": "Recommend changes to operational plans"
+  },
+  {
+    "_id": "T1801",
+    "description": "Determine validity and relevance of information"
+  },
+  {
+    "_id": "T1802",
+    "description": "Prepare network reports"
+  },
+  {
+    "_id": "T1803",
+    "description": "Document information collection and environment activities"
+  },
+  {
+    "_id": "T1804",
+    "description": "Prepare network intrusion reports"
+  },
+  {
+    "_id": "T1805",
+    "description": "Request discipline-specific processing, exploitation, and dissemination information"
+  },
+  {
+    "_id": "T1806",
+    "description": "Research communications trends in emerging technologies"
+  },
+  {
+    "_id": "T1807",
+    "description": "Determine intelligence collection asset capabilities"
+  },
+  {
+    "_id": "T1808",
+    "description": "Determine accuracy of intelligence collection guidance"
+  },
+  {
+    "_id": "T1809",
+    "description": "Update collection plans"
+  },
+  {
+    "_id": "T1810",
+    "description": "Approve operational requirements for research, development, and acquisition of cyber capabilities"
+  },
+  {
+    "_id": "T1811",
+    "description": "Prioritize operational requirements for research, development, and acquisition of cyber capabilities"
+  },
+  {
+    "_id": "T1812",
+    "description": "Submit operational requirements for research, development, and acquisition of cyber capabilities"
+  },
+  {
+    "_id": "T1813",
+    "description": "Update collection matrices"
+  },
+  {
+    "_id": "T1814",
+    "description": "Protect information sources and methods"
+  },
+  {
+    "_id": "T1815",
+    "description": "Develop cyber intelligence plans"
+  },
+  {
+    "_id": "T1816",
+    "description": "Recommend subject matter experts who can assist in the investigation of complex or unusual situations"
+  },
+  {
+    "_id": "T1818",
+    "description": "Recommend changes to collection plans"
+  },
+  {
+    "_id": "T1819",
+    "description": "Recommend changes to operational environment"
+  },
+  {
+    "_id": "T1820",
+    "description": "Specify discipline-specific taskings"
+  },
+  {
+    "_id": "T1821",
+    "description": "Submit information requests to collection requirement management section"
+  },
+  {
+    "_id": "T1822",
+    "description": "Submit requests for deconfliction of cyber operations"
+  },
+  {
+    "_id": "T1823",
+    "description": "Respond to requests for deconfliction of cyber operations"
+  },
+  {
+    "_id": "T1824",
+    "description": "Identify cyber collateral damage"
+  },
+  {
+    "_id": "T1825",
+    "description": "Document cyber collateral damage"
+  },
+  {
+    "_id": "T1826",
+    "description": "Synchronize intelligence engagement activities across partner organizations"
+  },
+  {
+    "_id": "T1827",
+    "description": "Synchronize cybersecurity cooperation plans"
+  },
+  {
+    "_id": "T1828",
+    "description": "Synchronize the integrated employment of organic and partner intelligence collection assets"
+  },
+  {
+    "_id": "T1829",
+    "description": "Evaluate locally developed tools"
+  },
+  {
+    "_id": "T1830",
+    "description": "Test internally developed software"
+  },
+  {
+    "_id": "T1831",
+    "description": "Track status of information requests"
+  },
+  {
+    "_id": "T1832",
+    "description": "Translate collection requests for discipline-specific collection requirements"
+  },
+  {
+    "_id": "T1833",
+    "description": "Identify opportunities to improve collection management efficiency and effectiveness"
+  },
+  {
+    "_id": "T1834",
+    "description": "Validate information requests"
+  },
+  {
+    "_id": "T1835",
+    "description": "Determine if intelligence requirements and collection plans are accurate and up-to-date"
+  },
+  {
+    "_id": "T1836",
+    "description": "Document lessons learned during events and exercises"
+  },
+  {
+    "_id": "T1837",
+    "description": "Advise managers and operators on language and cultural issues"
+  },
+  {
+    "_id": "T1838",
+    "description": "Assess target motivation"
+  },
+  {
+    "_id": "T1839",
+    "description": "Conduct all-source target research"
+  },
+  {
+    "_id": "T1840",
+    "description": "Analyze target communications"
+  },
+  {
+    "_id": "T1841",
+    "description": "Conduct quality reviews of transcribed or translated materials"
+  },
+  {
+    "_id": "T1842",
+    "description": "Identify metadata patterns"
+  },
+  {
+    "_id": "T1843",
+    "description": "Identify metadata anomalies"
+  },
+  {
+    "_id": "T1844",
+    "description": "Identify metadata events"
+  },
+  {
+    "_id": "T1845",
+    "description": "Identify foreign languages and dialects in initial source data"
+  },
+  {
+    "_id": "T1846",
+    "description": "Develop language processing tools"
+  },
+  {
+    "_id": "T1847",
+    "description": "Prepare social network analysis documents"
+  },
+  {
+    "_id": "T1848",
+    "description": "Scan target graphic and audio language materials"
+  },
+  {
+    "_id": "T1849",
+    "description": "Communicate critical or time-sensitive information"
+  },
+  {
+    "_id": "T1850",
+    "description": "Transcribe target audio language materials"
+  },
+  {
+    "_id": "T1851",
+    "description": "Translate target graphic language materials"
+  },
+  {
+    "_id": "T1852",
+    "description": "Translate target audio language materials"
+  },
+  {
+    "_id": "T1853",
+    "description": "Determine if new and existing services comply with privacy and data security obligations"
+  },
+  {
+    "_id": "T1854",
+    "description": "Develop and maintain privacy and confidentiality consent forms"
+  },
+  {
+    "_id": "T1855",
+    "description": "Develop and maintain privacy and confidentiality authorization forms"
+  },
+  {
+    "_id": "T1856",
+    "description": "Integrate civil rights and civil liberties in organizational programs, policies, and procedures"
+  },
+  {
+    "_id": "T1857",
+    "description": "Integrate privacy considerations in organizational programs, policies, and procedures"
+  },
+  {
+    "_id": "T1858",
+    "description": "Serve as liaison to regulatory and accrediting bodies"
+  },
+  {
+    "_id": "T1859",
+    "description": "Register databases with local privacy and data protection authorities"
+  },
+  {
+    "_id": "T1860",
+    "description": "Promote privacy awareness to management"
+  },
+  {
+    "_id": "T1861",
+    "description": "Establish organizational Privacy Oversight Committee"
+  },
+  {
+    "_id": "T1862",
+    "description": "Establish cybersecurity risk assessment processes"
+  },
+  {
+    "_id": "T1863",
+    "description": "Develop information sharing strategic plans"
+  },
+  {
+    "_id": "T1864",
+    "description": "Develop organizational information infrastructure"
+  },
+  {
+    "_id": "T1865",
+    "description": "Implement organizational information infrastructure"
+  },
+  {
+    "_id": "T1866",
+    "description": "Develop self-disclosure policies and procedures"
+  },
+  {
+    "_id": "T1867",
+    "description": "Oversee consumer information access rights"
+  },
+  {
+    "_id": "T1868",
+    "description": "Serve as information privacy liaison to technology system users"
+  },
+  {
+    "_id": "T1869",
+    "description": "Serve as liaison to information systems department"
+  },
+  {
+    "_id": "T1870",
+    "description": "Create privacy training materials"
+  },
+  {
+    "_id": "T1871",
+    "description": "Prepare privacy awareness communications"
+  },
+  {
+    "_id": "T1872",
+    "description": "Deliver privacy awareness orientations"
+  },
+  {
+    "_id": "T1873",
+    "description": "Deliver privacy awareness trainings"
+  },
+  {
+    "_id": "T1874",
+    "description": "Manage organizational participation in public privacy and cybersecurity events"
+  },
+  {
+    "_id": "T1875",
+    "description": "Prepare privacy program status reports"
+  },
+  {
+    "_id": "T1876",
+    "description": "Respond to press and other public data security inquiries"
+  },
+  {
+    "_id": "T1877",
+    "description": "Develop organizational privacy program"
+  },
+  {
+    "_id": "T1878",
+    "description": "Apply sanctions for failure to comply with privacy policies"
+  },
+  {
+    "_id": "T1879",
+    "description": "Develop sanctions for failure to comply with privacy policies"
+  },
+  {
+    "_id": "T1880",
+    "description": "Resolve allegations of noncompliance with privacy policies and notice of information practices"
+  },
+  {
+    "_id": "T1881",
+    "description": "Develop a risk management and compliance framework for privacy"
+  },
+  {
+    "_id": "T1882",
+    "description": "Determine if projects comply with organizational privacy and data security policies"
+  },
+  {
+    "_id": "T1883",
+    "description": "Develop organizational privacy policies and procedures"
+  },
+  {
+    "_id": "T1884",
+    "description": "Establish complaint processes"
+  },
+  {
+    "_id": "T1885",
+    "description": "Establish mechanisms to track access to protected health information"
+  },
+  {
+    "_id": "T1886",
+    "description": "Maintain the organizational policy program"
+  },
+  {
+    "_id": "T1887",
+    "description": "Conduct privacy impact assessments"
+  },
+  {
+    "_id": "T1888",
+    "description": "Conduct privacy compliance monitoring"
+  },
+  {
+    "_id": "T1889",
+    "description": "Align cybersecurity and privacy practices in system information security plans"
+  },
+  {
+    "_id": "T1890",
+    "description": "Determine if protected information releases comply with organizational policies and procedures"
+  },
+  {
+    "_id": "T1891",
+    "description": "Administer requests for release or disclosure of protected information"
+  },
+  {
+    "_id": "T1892",
+    "description": "Develop vendor review procedures"
+  },
+  {
+    "_id": "T1893",
+    "description": "Develop vendor auditing procedures"
+  },
+  {
+    "_id": "T1894",
+    "description": "Determine if partner and business agreements address privacy requirements and responsibilities"
+  },
+  {
+    "_id": "T1895",
+    "description": "Provide legal advice for business partner contracts"
+  },
+  {
+    "_id": "T1896",
+    "description": "Mitigate Personal Identifiable Information (PII) breaches"
+  },
+  {
+    "_id": "T1897",
+    "description": "Administer action on organizational privacy complaints"
+  },
+  {
+    "_id": "T1898",
+    "description": "Determine if the organization's privacy program complies with federal and state privacy laws and regulations"
+  },
+  {
+    "_id": "T1899",
+    "description": "Identify organizational privacy compliance gaps"
+  },
+  {
+    "_id": "T1900",
+    "description": "Correct organizational privacy compliance gaps"
+  },
+  {
+    "_id": "T1901",
+    "description": "Manage privacy breaches"
+  },
+  {
+    "_id": "T1902",
+    "description": "Implement and maintain organizational privacy policies and procedures"
+  },
+  {
+    "_id": "T1903",
+    "description": "Develop and maintain privacy and confidentiality information notices"
+  },
+  {
+    "_id": "T1904",
+    "description": "Determine business partner requirements"
+  },
+  {
+    "_id": "T1905",
+    "description": "Monitor advancements in information privacy technologies"
+  },
+  {
+    "_id": "T1906",
+    "description": "Establish a cybersecurity risk management program"
+  },
+  {
+    "_id": "T1907",
+    "description": "Establish organizational risk management strategies"
+  },
+  {
+    "_id": "T1908",
+    "description": "Determine which business functions a system supports"
+  },
+  {
+    "_id": "T1909",
+    "description": "Determine system stakeholders"
+  },
+  {
+    "_id": "T1910",
+    "description": "Identify common controls available for inheritance by organizational systems"
+  },
+  {
+    "_id": "T1911",
+    "description": "Determine the security categorization for organizational systems"
+  },
+  {
+    "_id": "T1912",
+    "description": "Determine system boundaries"
+  },
+  {
+    "_id": "T1913",
+    "description": "Identify system security requirements"
+  },
+  {
+    "_id": "T1914",
+    "description": "Register systems with organizational program management offices"
+  },
+  {
+    "_id": "T1915",
+    "description": "Identify required system security controls"
+  },
+  {
+    "_id": "T1916",
+    "description": "Document planned system security control implementations"
+  },
+  {
+    "_id": "T1917",
+    "description": "Establish security control monitoring strategies"
+  },
+  {
+    "_id": "T1918",
+    "description": "Review and approve System Security Plans (SSPs)"
+  },
+  {
+    "_id": "T1919",
+    "description": "Implement system security controls"
+  },
+  {
+    "_id": "T1920",
+    "description": "Establish system configuration baselines"
+  },
+  {
+    "_id": "T1921",
+    "description": "Document changes to planned system control implementations"
+  },
+  {
+    "_id": "T1922",
+    "description": "Develop system security control assessment plans"
+  },
+  {
+    "_id": "T1923",
+    "description": "Approve system security control assessment plans"
+  },
+  {
+    "_id": "T1924",
+    "description": "Determine effectiveness of security controls"
+  },
+  {
+    "_id": "T1925",
+    "description": "Prepare security control assessment reports"
+  },
+  {
+    "_id": "T1926",
+    "description": "Conduct security control remediations"
+  },
+  {
+    "_id": "T1927",
+    "description": "Develop cybersecurity action plans and milestones"
+  },
+  {
+    "_id": "T1928",
+    "description": "Prepare authorization packages"
+  },
+  {
+    "_id": "T1929",
+    "description": "Submit authorization packages to authorizing officials for adjudication"
+  },
+  {
+    "_id": "T1930",
+    "description": "Determine risks of operating or using a system"
+  },
+  {
+    "_id": "T1931",
+    "description": "Determine risks of using common controls"
+  },
+  {
+    "_id": "T1932",
+    "description": "Implement cybersecurity action plans"
+  },
+  {
+    "_id": "T1933",
+    "description": "Determine if system security risks are acceptable"
+  },
+  {
+    "_id": "T1934",
+    "description": "Determine if common control risks are acceptable"
+  },
+  {
+    "_id": "T1935",
+    "description": "Update cybersecurity action plans"
+  },
+  {
+    "_id": "T1936",
+    "description": "Report system security status to authorizing officials"
+  },
+  {
+    "_id": "T1937",
+    "description": "Determine if system security meets acceptable risk levels"
+  },
+  {
+    "_id": "T1938",
+    "description": "Establish system disposal processes"
+  },
+  {
+    "_id": "T1939",
+    "description": "Implement system disposal processes"
+  },
+  {
+    "_id": "T1940",
+    "description": "Form continuous monitoring working groups"
+  },
+  {
+    "_id": "T1941",
+    "description": "Establish continous monitoring scoring and grading metrics"
+  },
+  {
+    "_id": "T1942",
+    "description": "Integrate a continuous monitoring program into organizational security governance structures and policies"
+  },
+  {
+    "_id": "T1943",
+    "description": "Make cybersecurity investment decisions to address persistent issues"
+  },
+  {
+    "_id": "T1944",
+    "description": "Provide training and resources to continuous monitoring staff"
+  },
+  {
+    "_id": "T1945",
+    "description": "Prepare continuous monitoring reports"
+  },
+  {
+    "_id": "T1946",
+    "description": "Determine if risk metrics support continuous monitoring"
+  },
+  {
+    "_id": "T1947",
+    "description": "Determine if continuous monitoring data provides situational awareness of risk levels"
+  },
+  {
+    "_id": "T1948",
+    "description": "Define unacceptable risk threshold triggers for continuous monitoring data"
+  },
+  {
+    "_id": "T1949",
+    "description": "Establish system-level reporting categories"
+  },
+  {
+    "_id": "T1950",
+    "description": "Manage the continuous monitoring program"
+  },
+  {
+    "_id": "T1951",
+    "description": "Establish continuous monitoring communication processes"
+  },
+  {
+    "_id": "T1952",
+    "description": "Identify reporting requirements that are fulfilled by the continous monitoring program"
+  },
+  {
+    "_id": "T1953",
+    "description": "Establish continuous monitoring reporting requirements"
+  },
+  {
+    "_id": "T1954",
+    "description": "Perform continuous monitoring"
+  },
+  {
+    "_id": "T1955",
+    "description": "Establish automated control assessment reporting requirements"
+  },
+  {
+    "_id": "T1956",
+    "description": "Conduct continuous monitoring data assessments"
+  },
+  {
+    "_id": "T1957",
+    "description": "Intergrate continuous monitoring results in ongoing authorizations"
+  },
+  {
+    "_id": "T1958",
+    "description": "Establish access control processes for continuous monitoring tools and technologies"
+  },
+  {
+    "_id": "T1959",
+    "description": "Implement access control processes for continuous monitoring tools and technologies"
+  },
+  {
+    "_id": "T1960",
+    "description": "Establish technical help processes for continuous monitoring mitigators"
+  },
+  {
+    "_id": "T1961",
+    "description": "Communicate continuous monitoring reporting requirements"
+  },
+  {
+    "_id": "T1962",
+    "description": "Define responsibilities for implementing continuous monitoring tools or technologies"
+  },
+  {
+    "_id": "T1963",
+    "description": "Establish liaison to scoring and metrics working group"
+  },
+  {
+    "_id": "T1964",
+    "description": "Establish risk management processes"
+  },
+  {
+    "_id": "T1965",
+    "description": "Establish performance measurement requirements for continuous monitoring tools and technologies"
+  },
+  {
+    "_id": "T1966",
+    "description": "Assess continuous monitoring performance"
+  },
+  {
+    "_id": "T1967",
+    "description": "Coordinate responses to issues flagged during continuous monitoring"
+  },
+  {
+    "_id": "T1968",
+    "description": "Implement risk mitigation strategies"
+  },
+  {
+    "_id": "T1969",
+    "description": "Document system alerts"
+  },
+  {
+    "_id": "T1970",
+    "description": "Escalate system alerts that may indicate risks"
+  },
+  {
+    "_id": "T1971",
+    "description": "Disseminate anomalous activity reports to the insider threat hub"
+  },
+  {
+    "_id": "T1972",
+    "description": "Identify anomalous activity"
+  },
+  {
+    "_id": "T1973",
+    "description": "Conduct independent comprehensive assessments of target-specific information"
+  },
+  {
+    "_id": "T1974",
+    "description": "Conduct insider threat risk assessments"
+  },
+  {
+    "_id": "T1975",
+    "description": "Prepare insider threat briefings"
+  },
+  {
+    "_id": "T1976",
+    "description": "Recommend risk mitigation courses of action (CoA)"
+  },
+  {
+    "_id": "T1977",
+    "description": "Coordinate with internal and external incident management partners across jurisdictions"
+  },
+  {
+    "_id": "T1978",
+    "description": "Recommend improvements to insider threat detection processes"
+  },
+  {
+    "_id": "T1979",
+    "description": "Determine digital evidence priority intelligence requirements"
+  },
+  {
+    "_id": "T1980",
+    "description": "Develop digital evidence reports for internal and external partners"
+  },
+  {
+    "_id": "T1981",
+    "description": "Develop elicitation indicators"
+  },
+  {
+    "_id": "T1982",
+    "description": "Identify high value assets"
+  },
+  {
+    "_id": "T1983",
+    "description": "Identify potential insider threats"
+  },
+  {
+    "_id": "T1984",
+    "description": "Notify appropriate personnel of imminent of imminent hostile intentions or activities"
+  },
+  {
+    "_id": "T1985",
+    "description": "Identify imminent or hostile intentions or activities"
+  },
+  {
+    "_id": "T1986",
+    "description": "Develop a continuously updated overview of an incident throughout the incident's life cycle"
+  },
+  {
+    "_id": "T1987",
+    "description": "Develop insider threat cyber operations indicators"
+  },
+  {
+    "_id": "T1988",
+    "description": "Integrate information from cyber resources, internal partners, and external partners"
+  },
+  {
+    "_id": "T1989",
+    "description": "Advise insider threat hub inquiries"
+  },
+  {
+    "_id": "T1990",
+    "description": "Conduct cybersecurity insider threat inquiries"
+  },
+  {
+    "_id": "T1991",
+    "description": "Deliver all-source cyber operations and intelligence indications and warnings"
+  },
+  {
+    "_id": "T1992",
+    "description": "Interpret network activity for intelligence value"
+  },
+  {
+    "_id": "T1993",
+    "description": "Monitor network activity for vulnerabilities"
+  },
+  {
+    "_id": "T1994",
+    "description": "Identify potential insider risks to networks"
+  },
+  {
+    "_id": "T1995",
+    "description": "Document potential insider risks to networks"
+  },
+  {
+    "_id": "T1996",
+    "description": "Report network vulnerabilities"
+  },
+  {
+    "_id": "T1997",
+    "description": "Develop insider threat investigation plans"
+  },
+  {
+    "_id": "T1998",
+    "description": "Investigate alleged insider threat cybersecurity policy violations"
+  },
+  {
+    "_id": "T1999",
+    "description": "Refer cases on active insider threat activities to law enforcement investigators"
+  },
+  {
+    "_id": "T2000",
+    "description": "Perform cybersecurity reviews"
+  },
+  {
+    "_id": "T2001",
+    "description": "Establish an insider threat risk management assessment program"
+  },
+  {
+    "_id": "T2002",
+    "description": "Recommend courses of action or countermeasures to mitigate risks"
+  },
+  {
+    "_id": "T2003",
+    "description": "Evaluate organizational insider risk response capabilities"
+  },
+  {
+    "_id": "T2004",
+    "description": "Document insider threat information sources"
+  },
+  {
+    "_id": "T2005",
+    "description": "Conduct insider threat studies"
+  },
+  {
+    "_id": "T2006",
+    "description": "Identify potential targets for exploitation"
+  },
+  {
+    "_id": "T2007",
+    "description": "Analyze potential targets for exploitation"
+  },
+  {
+    "_id": "T2008",
+    "description": "Vet insider threat targeting with law enforcement and intelligence partners"
+  },
+  {
+    "_id": "T2009",
+    "description": "Develop insider threat targets"
+  },
+  {
+    "_id": "T2010",
+    "description": "Maintain User Activity Monitoring (UAM) tools"
+  },
+  {
+    "_id": "T2011",
+    "description": "Monitor the output from User Activity Monitoring (UAM) tools"
+  }
+]

@@ -1,0 +1,37 @@
+[
+    {
+      "categoryID": "OG",
+      "categoryName": "OVERSIGHT and GOVERNANCE (OG)",
+      "categoryDescription": "Provides leadership, management, direction, and advocacy so the organization may effectively manage cybersecurity"
+    },
+    {
+      "categoryID": "DD",
+      "categoryName": "DESIGN and DEVELOPMENT (DD)",
+      "categoryDescription": "Conducts research, conceptualizes, designs, develops, and tests secure technology systems, including on perimeter and cloud"
+    },
+    {
+      "categoryID": "IO",
+      "categoryName": "IMPLEMENTATION and OPERATION (IO)",
+      "categoryDescription": "Provides implementation, administration, configuration, operation, and maintenance to ensure effective and efficient technology system performance and security."
+    },
+    {
+      "categoryID": "PD",
+      "categoryName": "PROTECTION and DEFENSE (PD)",
+      "categoryDescription": "Protects against, identifies, and analyzes risks to technology systems or networks. Includes investigation of cybersecurity events or crimes related to technology systems and networks."
+    },
+    {
+      "categoryID": "IN",
+      "categoryName": "INVESTIGATION (IN)",
+      "categoryDescription": "Conducts national cybersecurity and cybercrime investigations, including the collection, management, and analysis of digital evidence."
+    },
+    {
+      "categoryID": "CI",
+      "categoryName": "CYBERSPACE INTELLIGENCE (CI)",
+      "categoryDescription": "Collects, processes, analyzes, and disseminates information from all sources of intelligence on foreign actors' cyberspace programs, intentions, capabilities, research and development, and operational activities."
+    },
+    {
+      "categoryID": "CE",
+      "categoryName": "CYBERSPACE EFFECTS (CE)",
+      "categoryDescription": "Plans, supports, and executes cyberspace capabilities where the primary purpose is to externally defend or conduct force projection in or through cyberspace."
+    }
+  ]

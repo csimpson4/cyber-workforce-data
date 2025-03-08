@@ -1,0 +1,2226 @@
+[
+  {
+    "_id": "S0011",
+    "description": "Skill in conducting information searches"
+  },
+  {
+    "_id": "S0015",
+    "description": "Skill in conducting test events"
+  },
+  {
+    "_id": "S0028",
+    "description": "Skill in developing data dictionaries"
+  },
+  {
+    "_id": "S0029",
+    "description": "Skill in developing data models"
+  },
+  {
+    "_id": "S0035",
+    "description": "Skill in establishing a routing schema"
+  },
+  {
+    "_id": "S0045",
+    "description": "Skill in optimizing database performance"
+  },
+  {
+    "_id": "S0048",
+    "description": "Skill in systems integration testing"
+  },
+  {
+    "_id": "S0066",
+    "description": "Skill in identifying gaps in technical capabilities"
+  },
+  {
+    "_id": "S0077",
+    "description": "Skill in securing network communications"
+  },
+  {
+    "_id": "S0080",
+    "description": "Skill in performing damage assessments"
+  },
+  {
+    "_id": "S0097",
+    "description": "Skill in applying security controls"
+  },
+  {
+    "_id": "S0109",
+    "description": "Skill in identifying hidden patterns or relationships"
+  },
+  {
+    "_id": "S0111",
+    "description": "Skill in interfacing with customers"
+  },
+  {
+    "_id": "S0114",
+    "description": "Skill in performing sensitivity analysis"
+  },
+  {
+    "_id": "S0118",
+    "description": "Skill in developing machine understandable semantic ontologies"
+  },
+  {
+    "_id": "S0136",
+    "description": "Skill in network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools"
+  },
+  {
+    "_id": "S0141",
+    "description": "Skill in assessing security systems designs"
+  },
+  {
+    "_id": "S0156",
+    "description": "Skill in performing packet-level analysis"
+  },
+  {
+    "_id": "S0172",
+    "description": "Skill in applying secure coding techniques"
+  },
+  {
+    "_id": "S0175",
+    "description": "Skill in performing root cause analysis"
+  },
+  {
+    "_id": "S0177",
+    "description": "Skill in performing network analysis on targets"
+  },
+  {
+    "_id": "S0182",
+    "description": "Skill in analyzing target communications internals and externals collected from wireless LANs"
+  },
+  {
+    "_id": "S0186",
+    "description": "Skill in applying crisis planning procedures"
+  },
+  {
+    "_id": "S0194",
+    "description": "Skill in conducting non-attributable research"
+  },
+  {
+    "_id": "S0208",
+    "description": "Skill in determining the physical location of network devices"
+  },
+  {
+    "_id": "S0214",
+    "description": "Skill in evaluating accesses for intelligence value"
+  },
+  {
+    "_id": "S0221",
+    "description": "Skill in extracting information from packet captures"
+  },
+  {
+    "_id": "S0248",
+    "description": "Skill in performing target system analysis"
+  },
+  {
+    "_id": "S0252",
+    "description": "Skill in processing collected data for follow-on analysis"
+  },
+  {
+    "_id": "S0283",
+    "description": "Skill in transcribing target language communications"
+  },
+  {
+    "_id": "S0310",
+    "description": "Skill in applying analytical standards during intelligence product evaluation"
+  },
+  {
+    "_id": "S0335",
+    "description": "Skill in identify intelligence gaps"
+  },
+  {
+    "_id": "S0375",
+    "description": "Skill in developing information requirements"
+  },
+  {
+    "_id": "S0378",
+    "description": "Skill in decrypting information"
+  },
+  {
+    "_id": "S0379",
+    "description": "Skill in verifying participation in a security awareness program"
+  },
+  {
+    "_id": "S0380",
+    "description": "Skill in facilitating cybersecurity awareness briefings"
+  },
+  {
+    "_id": "S0381",
+    "description": "Skill in developing training programs"
+  },
+  {
+    "_id": "S0382",
+    "description": "Skill in tailoring code analysis"
+  },
+  {
+    "_id": "S0383",
+    "description": "Skill in analyzing an organization's enterprise information technology architecture"
+  },
+  {
+    "_id": "S0384",
+    "description": "Skill in applying standards"
+  },
+  {
+    "_id": "S0385",
+    "description": "Skill in communicating complex concepts"
+  },
+  {
+    "_id": "S0386",
+    "description": "Skill in communicating verbally"
+  },
+  {
+    "_id": "S0387",
+    "description": "Skill in communicating in writing"
+  },
+  {
+    "_id": "S0388",
+    "description": "Skill in facilitating small group discussions"
+  },
+  {
+    "_id": "S0389",
+    "description": "Skill in facilitating group discussions"
+  },
+  {
+    "_id": "S0390",
+    "description": "Skill in assessing learner comprehension"
+  },
+  {
+    "_id": "S0391",
+    "description": "Skill in creating technical documentation"
+  },
+  {
+    "_id": "S0392",
+    "description": "Skill in providing training and education feedback to learners"
+  },
+  {
+    "_id": "S0393",
+    "description": "Skill in developing assessments"
+  },
+  {
+    "_id": "S0394",
+    "description": "Skill in developing security assessments"
+  },
+  {
+    "_id": "S0395",
+    "description": "Skill in developing instructional materials"
+  },
+  {
+    "_id": "S0396",
+    "description": "Skill in forecasting requirements"
+  },
+  {
+    "_id": "S0397",
+    "description": "Skill in assessing requirements"
+  },
+  {
+    "_id": "S0398",
+    "description": "Skill in analyzing organizational objectives"
+  },
+  {
+    "_id": "S0399",
+    "description": "Skill in creating complex data structures"
+  },
+  {
+    "_id": "S0400",
+    "description": "Skill in creating programming languages"
+  },
+  {
+    "_id": "S0401",
+    "description": "Skill in collecting data"
+  },
+  {
+    "_id": "S0402",
+    "description": "Skill in verifying data"
+  },
+  {
+    "_id": "S0403",
+    "description": "Skill in validating data"
+  },
+  {
+    "_id": "S0404",
+    "description": "Skill in conducting market research"
+  },
+  {
+    "_id": "S0405",
+    "description": "Skill in pricing products"
+  },
+  {
+    "_id": "S0406",
+    "description": "Skill in developing policy plans"
+  },
+  {
+    "_id": "S0407",
+    "description": "Skill in developing standard operating procedures (SOPs)"
+  },
+  {
+    "_id": "S0408",
+    "description": "Skill in maintaining standard operating procedures (SOPs)"
+  },
+  {
+    "_id": "S0409",
+    "description": "Skill in deriving evaluative conclusions from data"
+  },
+  {
+    "_id": "S0410",
+    "description": "Skill in creating career path definitions"
+  },
+  {
+    "_id": "S0411",
+    "description": "Skill in developing career paths"
+  },
+  {
+    "_id": "S0412",
+    "description": "Skill in analyzing supplier trustworthiness"
+  },
+  {
+    "_id": "S0413",
+    "description": "Skill in determining supplier trustworthiness"
+  },
+  {
+    "_id": "S0414",
+    "description": "Skill in evaluating laws"
+  },
+  {
+    "_id": "S0415",
+    "description": "Skill in evaluating regulations"
+  },
+  {
+    "_id": "S0416",
+    "description": "Skill in evaluating policies"
+  },
+  {
+    "_id": "S0417",
+    "description": "Skill in deploying software securely"
+  },
+  {
+    "_id": "S0418",
+    "description": "Skill in applying secure network architectures"
+  },
+  {
+    "_id": "S0419",
+    "description": "Skill in designing systems"
+  },
+  {
+    "_id": "S0420",
+    "description": "Skill in integrating multiple technologies"
+  },
+  {
+    "_id": "S0421",
+    "description": "Skill in operating network equipment"
+  },
+  {
+    "_id": "S0422",
+    "description": "Skill in evaluating workforce trends"
+  },
+  {
+    "_id": "S0423",
+    "description": "Skill in analyzing processes to ensure conformance with procedural requirements"
+  },
+  {
+    "_id": "S0424",
+    "description": "Skill in executing command line tools"
+  },
+  {
+    "_id": "S0425",
+    "description": "Skill in operating network systems"
+  },
+  {
+    "_id": "S0426",
+    "description": "Skill in building architectures"
+  },
+  {
+    "_id": "S0427",
+    "description": "Skill in building frameworks"
+  },
+  {
+    "_id": "S0428",
+    "description": "Skill in designing architectures"
+  },
+  {
+    "_id": "S0429",
+    "description": "Skill in designing frameworks"
+  },
+  {
+    "_id": "S0430",
+    "description": "Skill in collaborating with others"
+  },
+  {
+    "_id": "S0431",
+    "description": "Skill in applying critical thinking"
+  },
+  {
+    "_id": "S0432",
+    "description": "Skill in coordinating cybersecurity operations across an organization"
+  },
+  {
+    "_id": "S0433",
+    "description": "Skill in creating analytics"
+  },
+  {
+    "_id": "S0434",
+    "description": "Skill in extrapolating from incomplete data sets"
+  },
+  {
+    "_id": "S0435",
+    "description": "Skill in analyzing large data sets"
+  },
+  {
+    "_id": "S0436",
+    "description": "Skill in creating target intelligence products"
+  },
+  {
+    "_id": "S0437",
+    "description": "Skill in identifying targets of interest"
+  },
+  {
+    "_id": "S0438",
+    "description": "Skill in functioning effectively in a dynamic, fast-paced environment"
+  },
+  {
+    "_id": "S0439",
+    "description": "Skill in identifying external partners"
+  },
+  {
+    "_id": "S0440",
+    "description": "Skill in identifying target vulnerabilities"
+  },
+  {
+    "_id": "S0441",
+    "description": "Skill in describing target vulnerabilities"
+  },
+  {
+    "_id": "S0442",
+    "description": "Skill in collecting network data"
+  },
+  {
+    "_id": "S0443",
+    "description": "Skill in mitigating cognitive biases"
+  },
+  {
+    "_id": "S0444",
+    "description": "Skill in mitigating deception in reporting and analysis"
+  },
+  {
+    "_id": "S0446",
+    "description": "Skill in mimicking threat actors"
+  },
+  {
+    "_id": "S0447",
+    "description": "Skill in aligning privacy and cybersecurity objectives"
+  },
+  {
+    "_id": "S0448",
+    "description": "Skill in creating automated security control systems"
+  },
+  {
+    "_id": "S0449",
+    "description": "Skill in maintaining automated security control systems"
+  },
+  {
+    "_id": "S0450",
+    "description": "Skill in authoring privacy disclosure statements"
+  },
+  {
+    "_id": "S0451",
+    "description": "Skill in deploying continuous monitoring technologies"
+  },
+  {
+    "_id": "S0452",
+    "description": "Skill in creating a risk management program"
+  },
+  {
+    "_id": "S0453",
+    "description": "Skill in creating a risk management strategy"
+  },
+  {
+    "_id": "S0454",
+    "description": "Skill in creating an internal information sharing program"
+  },
+  {
+    "_id": "S0455",
+    "description": "Skill in integrating authorizations with requirements"
+  },
+  {
+    "_id": "S0456",
+    "description": "Skill in integrating security plans and authorizations"
+  },
+  {
+    "_id": "S0457",
+    "description": "Skill in determining system authorization status"
+  },
+  {
+    "_id": "S0458",
+    "description": "Skill in coordinating efforts between stakeholders"
+  },
+  {
+    "_id": "S0459",
+    "description": "Skill in creating security assessment reports"
+  },
+  {
+    "_id": "S0460",
+    "description": "Skill in verifying contractor compliance with contracts"
+  },
+  {
+    "_id": "S0461",
+    "description": "Skill in integrating security requirements and contracts"
+  },
+  {
+    "_id": "S0462",
+    "description": "Skill in integrating information security requirements in the acquisitions process"
+  },
+  {
+    "_id": "S0463",
+    "description": "Skill in implementing software quality control processes"
+  },
+  {
+    "_id": "S0464",
+    "description": "Skill in applying stakeholder management within a system development life cycle"
+  },
+  {
+    "_id": "S0465",
+    "description": "Skill in identifying critical infrastructure systems"
+  },
+  {
+    "_id": "S0466",
+    "description": "Skill in identifying systems designed without security considerations"
+  },
+  {
+    "_id": "S0467",
+    "description": "Skill in conducting an education needs assessment"
+  },
+  {
+    "_id": "S0468",
+    "description": "Skill in conducting a training needs assessment"
+  },
+  {
+    "_id": "S0469",
+    "description": "Skill in navigating the dark web"
+  },
+  {
+    "_id": "S0470",
+    "description": "Skill in using the TOR network"
+  },
+  {
+    "_id": "S0471",
+    "description": "Skill in examining digital media"
+  },
+  {
+    "_id": "S0472",
+    "description": "Skill in developing virtual machines"
+  },
+  {
+    "_id": "S0473",
+    "description": "Skill in maintaining virtual machines"
+  },
+  {
+    "_id": "S0474",
+    "description": "Skill in finding system files"
+  },
+  {
+    "_id": "S0475",
+    "description": "Skill in recognizing digital forensics data"
+  },
+  {
+    "_id": "S0476",
+    "description": "Skill in identifying filename extension abuse"
+  },
+  {
+    "_id": "S0477",
+    "description": "Skill in identifying anomalous activity"
+  },
+  {
+    "_id": "S0478",
+    "description": "Skill in providing customer support"
+  },
+  {
+    "_id": "S0479",
+    "description": "Skill in evaluating supplier trustworthiness"
+  },
+  {
+    "_id": "S0480",
+    "description": "Skill in evaluating product trustworthiness"
+  },
+  {
+    "_id": "S0481",
+    "description": "Skill in identifying forensic digital footprints"
+  },
+  {
+    "_id": "S0482",
+    "description": "Skill in performing forensic data analysis"
+  },
+  {
+    "_id": "S0483",
+    "description": "Skill in identifying software communications vulnerabilities"
+  },
+  {
+    "_id": "S0484",
+    "description": "Skill in developing user credential management systems"
+  },
+  {
+    "_id": "S0485",
+    "description": "Skill in implementing user credential management systems"
+  },
+  {
+    "_id": "S0486",
+    "description": "Skill in implementing enterprise key escrow systems"
+  },
+  {
+    "_id": "S0487",
+    "description": "Skill in operating IT systems"
+  },
+  {
+    "_id": "S0488",
+    "description": "Skill in maintaining IT systems"
+  },
+  {
+    "_id": "S0489",
+    "description": "Skill in implementing countermeasures"
+  },
+  {
+    "_id": "S0490",
+    "description": "Skill in recreating network topologies"
+  },
+  {
+    "_id": "S0491",
+    "description": "Skill in processing digital forensic data"
+  },
+  {
+    "_id": "S0492",
+    "description": "Skill in performing threat environment analysis"
+  },
+  {
+    "_id": "S0493",
+    "description": "Skill in determining intelligence support requirements"
+  },
+  {
+    "_id": "S0494",
+    "description": "Skill in performing operational environment analysis"
+  },
+  {
+    "_id": "S0495",
+    "description": "Skill in determining asset availability, capabilities, and limitations"
+  },
+  {
+    "_id": "S0496",
+    "description": "Skill in assessing intelligence collection tasking"
+  },
+  {
+    "_id": "S0497",
+    "description": "Skill in developing client organization profiles"
+  },
+  {
+    "_id": "S0498",
+    "description": "Skill in managing an intelligence collection plan"
+  },
+  {
+    "_id": "S0499",
+    "description": "Skill in performing intelligence collection analysis"
+  },
+  {
+    "_id": "S0500",
+    "description": "Skill in creating intelligence collection strategies"
+  },
+  {
+    "_id": "S0501",
+    "description": "Skill in developing crisis action plans"
+  },
+  {
+    "_id": "S0502",
+    "description": "Skill in evaluating intelligence collection products"
+  },
+  {
+    "_id": "S0503",
+    "description": "Skill in selecting targets"
+  },
+  {
+    "_id": "S0504",
+    "description": "Skill in identifying vulnerabilities"
+  },
+  {
+    "_id": "S0505",
+    "description": "Skill in performing intrusion data analysis"
+  },
+  {
+    "_id": "S0506",
+    "description": "Skill in identifying customer information needs"
+  },
+  {
+    "_id": "S0507",
+    "description": "Skill in collecting terminal or environment data"
+  },
+  {
+    "_id": "S0508",
+    "description": "Skill in managing enterprise-wide information"
+  },
+  {
+    "_id": "S0509",
+    "description": "Skill in evaluating security products"
+  },
+  {
+    "_id": "S0511",
+    "description": "Skill in establishing priorities"
+  },
+  {
+    "_id": "S0512",
+    "description": "Skill in extracting metadata"
+  },
+  {
+    "_id": "S0513",
+    "description": "Skill in determining intelligence employment requirements"
+  },
+  {
+    "_id": "S0514",
+    "description": "Skill in preparing operational environments"
+  },
+  {
+    "_id": "S0515",
+    "description": "Skill in identifying partner capabilities"
+  },
+  {
+    "_id": "S0516",
+    "description": "Skill in performing threat emulation tactics"
+  },
+  {
+    "_id": "S0517",
+    "description": "Skill in anticipating threats"
+  },
+  {
+    "_id": "S0518",
+    "description": "Skill in assessing threat actors"
+  },
+  {
+    "_id": "S0519",
+    "description": "Skill in detecting exploitation activities"
+  },
+  {
+    "_id": "S0520",
+    "description": "Skill in determining intelligence collection asset posture and availability"
+  },
+  {
+    "_id": "S0521",
+    "description": "Skill in integrating information"
+  },
+  {
+    "_id": "S0522",
+    "description": "Skill in summarizing information"
+  },
+  {
+    "_id": "S0523",
+    "description": "Skill in constructing networks"
+  },
+  {
+    "_id": "S0524",
+    "description": "Skill in implementing network security"
+  },
+  {
+    "_id": "S0525",
+    "description": "Skill in managing operations"
+  },
+  {
+    "_id": "S0526",
+    "description": "Skill in initiating planning activities"
+  },
+  {
+    "_id": "S0527",
+    "description": "Skill in developing crisis action timelines"
+  },
+  {
+    "_id": "S0528",
+    "description": "Skill in identifying priority information"
+  },
+  {
+    "_id": "S0529",
+    "description": "Skill in identifying production exploitation needs"
+  },
+  {
+    "_id": "S0530",
+    "description": "Skill in conducting research"
+  },
+  {
+    "_id": "S0531",
+    "description": "Skill in assessing security hardware and software"
+  },
+  {
+    "_id": "S0532",
+    "description": "Skill in analyzing software configurations"
+  },
+  {
+    "_id": "S0533",
+    "description": "Skill in developing target communication profiles"
+  },
+  {
+    "_id": "S0534",
+    "description": "Skill in developing target lists"
+  },
+  {
+    "_id": "S0535",
+    "description": "Skill in performing threat factor analysis"
+  },
+  {
+    "_id": "S0536",
+    "description": "Skill in applying target templates"
+  },
+  {
+    "_id": "S0537",
+    "description": "Skill in designing wireless communications systems"
+  },
+  {
+    "_id": "S0538",
+    "description": "Skill in managing sensors"
+  },
+  {
+    "_id": "S0539",
+    "description": "Skill in developing transcripts"
+  },
+  {
+    "_id": "S0540",
+    "description": "Skill in identifying network threats"
+  },
+  {
+    "_id": "S0541",
+    "description": "Skill in providing software updates"
+  },
+  {
+    "_id": "S0542",
+    "description": "Skill in developing access control lists"
+  },
+  {
+    "_id": "S0543",
+    "description": "Skill in scanning for vulnerabilities"
+  },
+  {
+    "_id": "S0544",
+    "description": "Skill in recognizing vulnerabilities"
+  },
+  {
+    "_id": "S0545",
+    "description": "Skill in designing data storage solutions"
+  },
+  {
+    "_id": "S0546",
+    "description": "Skill in implementing data storage solutions"
+  },
+  {
+    "_id": "S0547",
+    "description": "Skill in identifying malware"
+  },
+  {
+    "_id": "S0548",
+    "description": "Skill in capturing malware"
+  },
+  {
+    "_id": "S0549",
+    "description": "Skill in containing malware"
+  },
+  {
+    "_id": "S0550",
+    "description": "Skill in reporting malware"
+  },
+  {
+    "_id": "S0551",
+    "description": "Skill in applying information technologies into proposed solutions"
+  },
+  {
+    "_id": "S0552",
+    "description": "Skill in applying host access controls"
+  },
+  {
+    "_id": "S0553",
+    "description": "Skill in applying network access controls"
+  },
+  {
+    "_id": "S0554",
+    "description": "Skill in performing systems analysis"
+  },
+  {
+    "_id": "S0555",
+    "description": "Skill in performing capabilities analysis"
+  },
+  {
+    "_id": "S0556",
+    "description": "Skill in performing requirements analysis"
+  },
+  {
+    "_id": "S0557",
+    "description": "Skill in creating knowledge maps"
+  },
+  {
+    "_id": "S0558",
+    "description": "Skill in developing algorithms"
+  },
+  {
+    "_id": "S0559",
+    "description": "Skill in performing data structure analysis"
+  },
+  {
+    "_id": "S0560",
+    "description": "Skill in debugging software"
+  },
+  {
+    "_id": "S0561",
+    "description": "Skill in configuring software"
+  },
+  {
+    "_id": "S0562",
+    "description": "Skill in creating mathematical models"
+  },
+  {
+    "_id": "S0563",
+    "description": "Skill in creating statistical models"
+  },
+  {
+    "_id": "S0564",
+    "description": "Skill in creating system security policies"
+  },
+  {
+    "_id": "S0565",
+    "description": "Skill in implementing input validation"
+  },
+  {
+    "_id": "S0566",
+    "description": "Skill in developing signatures"
+  },
+  {
+    "_id": "S0567",
+    "description": "Skill in deploying signatures"
+  },
+  {
+    "_id": "S0568",
+    "description": "Skill in designing data analysis structures"
+  },
+  {
+    "_id": "S0569",
+    "description": "Skill in designing security controls"
+  },
+  {
+    "_id": "S0570",
+    "description": "Skill in designing the integration of hardware solutions"
+  },
+  {
+    "_id": "S0571",
+    "description": "Skill in designing the integration of software solutions"
+  },
+  {
+    "_id": "S0572",
+    "description": "Skill in detecting host- and network-based intrusions"
+  },
+  {
+    "_id": "S0573",
+    "description": "Skill in developing testing scenarios"
+  },
+  {
+    "_id": "S0574",
+    "description": "Skill in developing security system controls"
+  },
+  {
+    "_id": "S0575",
+    "description": "Skill in developing network infrastructure contingency and recovery plans"
+  },
+  {
+    "_id": "S0576",
+    "description": "Skill in testing network infrastructure contingency and recovery plans"
+  },
+  {
+    "_id": "S0577",
+    "description": "Skill in troubleshooting computer networks"
+  },
+  {
+    "_id": "S0578",
+    "description": "Skill in evaluating security designs"
+  },
+  {
+    "_id": "S0579",
+    "description": "Skill in preparing reports"
+  },
+  {
+    "_id": "S0580",
+    "description": "Skill in monitoring system performance"
+  },
+  {
+    "_id": "S0581",
+    "description": "Skill in configuring systems for performance enhancement"
+  },
+  {
+    "_id": "S0582",
+    "description": "Skill in troubleshooting system performance"
+  },
+  {
+    "_id": "S0583",
+    "description": "Skill in implementing established network security practices"
+  },
+  {
+    "_id": "S0584",
+    "description": "Skill in configuring network devices"
+  },
+  {
+    "_id": "S0585",
+    "description": "Skill in installing network devices"
+  },
+  {
+    "_id": "S0586",
+    "description": "Skill in administering databases"
+  },
+  {
+    "_id": "S0587",
+    "description": "Skill in maintaining directory services"
+  },
+  {
+    "_id": "S0588",
+    "description": "Skill in performing threat modeling"
+  },
+  {
+    "_id": "S0589",
+    "description": "Skill in preserving digital evidence integrity"
+  },
+  {
+    "_id": "S0590",
+    "description": "Skill in building use cases"
+  },
+  {
+    "_id": "S0591",
+    "description": "Skill in performing social engineering"
+  },
+  {
+    "_id": "S0592",
+    "description": "Skill in tuning network sensors"
+  },
+  {
+    "_id": "S0593",
+    "description": "Skill in handling incidents"
+  },
+  {
+    "_id": "S0594",
+    "description": "Skill in repairing hardware"
+  },
+  {
+    "_id": "S0595",
+    "description": "Skill in repairing system peripherals"
+  },
+  {
+    "_id": "S0596",
+    "description": "Skill in encrypting network communications"
+  },
+  {
+    "_id": "S0597",
+    "description": "Skill in writing code in a currently supported programming language"
+  },
+  {
+    "_id": "S0598",
+    "description": "Skill in creating test plans"
+  },
+  {
+    "_id": "S0599",
+    "description": "Skill in performing memory dump analysis"
+  },
+  {
+    "_id": "S0600",
+    "description": "Skill in collecting relevant data from a variety of sources"
+  },
+  {
+    "_id": "S0601",
+    "description": "Skill in developing curricula"
+  },
+  {
+    "_id": "S0602",
+    "description": "Skill in teaching training programs"
+  },
+  {
+    "_id": "S0603",
+    "description": "Skill in identifying forensics data in diverse media"
+  },
+  {
+    "_id": "S0604",
+    "description": "Skill in extracting forensics data in diverse media"
+  },
+  {
+    "_id": "S0605",
+    "description": "Skill in storing digital evidence"
+  },
+  {
+    "_id": "S0606",
+    "description": "Skill in manipulating operating system components"
+  },
+  {
+    "_id": "S0607",
+    "description": "Skill in collecting digital evidence"
+  },
+  {
+    "_id": "S0608",
+    "description": "Skill in processing digital evidence"
+  },
+  {
+    "_id": "S0609",
+    "description": "Skill in transporting digital evidence"
+  },
+  {
+    "_id": "S0610",
+    "description": "Skill in communicating effectively"
+  },
+  {
+    "_id": "S0611",
+    "description": "Skill in disassembling Personal Computers (PCs)"
+  },
+  {
+    "_id": "S0612",
+    "description": "Skill in performing digital forensics analysis"
+  },
+  {
+    "_id": "S0613",
+    "description": "Skill in configuring software-based computer protection tools"
+  },
+  {
+    "_id": "S0614",
+    "description": "Skill in categorizing types of vulnerabilities"
+  },
+  {
+    "_id": "S0615",
+    "description": "Skill in protecting a network against malware"
+  },
+  {
+    "_id": "S0616",
+    "description": "Skill in applying black-box software testing"
+  },
+  {
+    "_id": "S0617",
+    "description": "Skill in interpreting signatures"
+  },
+  {
+    "_id": "S0618",
+    "description": "Skill in configuring network protection components"
+  },
+  {
+    "_id": "S0619",
+    "description": "Skill in auditing technical systems"
+  },
+  {
+    "_id": "S0620",
+    "description": "Skill in evaluating the trustworthiness of a supply chain"
+  },
+  {
+    "_id": "S0621",
+    "description": "Skill in performing binary analysis"
+  },
+  {
+    "_id": "S0622",
+    "description": "Skill in implementing one-way hash functions"
+  },
+  {
+    "_id": "S0623",
+    "description": "Skill in performing source code analysis"
+  },
+  {
+    "_id": "S0624",
+    "description": "Skill in performing volatile data analysis"
+  },
+  {
+    "_id": "S0625",
+    "description": "Skill in interpreting debugger results"
+  },
+  {
+    "_id": "S0626",
+    "description": "Skill in identifying common encoding techniques"
+  },
+  {
+    "_id": "S0627",
+    "description": "Skill in reading signatures"
+  },
+  {
+    "_id": "S0628",
+    "description": "Skill in developing learning activities"
+  },
+  {
+    "_id": "S0629",
+    "description": "Skill in applying technologies for instructional purposes"
+  },
+  {
+    "_id": "S0630",
+    "description": "Skill in conducting Test Readiness Reviews (TRR)"
+  },
+  {
+    "_id": "S0631",
+    "description": "Skill in performing data preprocessing"
+  },
+  {
+    "_id": "S0632",
+    "description": "Skill in designing Test and Evaluation Strategies (TES)"
+  },
+  {
+    "_id": "S0633",
+    "description": "Skill in developing position qualification requirements"
+  },
+  {
+    "_id": "S0634",
+    "description": "Skill in identifying Test and Evaluation Strategies (TES) infrastructure requirements"
+  },
+  {
+    "_id": "S0635",
+    "description": "Skill in managing test assets"
+  },
+  {
+    "_id": "S0636",
+    "description": "Skill in performing format conversions"
+  },
+  {
+    "_id": "S0637",
+    "description": "Skill in designing multi-level security solutions"
+  },
+  {
+    "_id": "S0638",
+    "description": "Skill in designing cross-domain solutions"
+  },
+  {
+    "_id": "S0639",
+    "description": "Skill in providing test and evaluation resource estimates"
+  },
+  {
+    "_id": "S0640",
+    "description": "Skill in performing regression analysis"
+  },
+  {
+    "_id": "S0641",
+    "description": "Skill in reviewing logs"
+  },
+  {
+    "_id": "S0642",
+    "description": "Skill in identifying evidence of past intrusions"
+  },
+  {
+    "_id": "S0643",
+    "description": "Skill in applying hardening techniques"
+  },
+  {
+    "_id": "S0644",
+    "description": "Skill in performing transformation analytics"
+  },
+  {
+    "_id": "S0645",
+    "description": "Skill in troubleshooting cyber defense infrastructure anomalies"
+  },
+  {
+    "_id": "S0646",
+    "description": "Skill in applying descriptive statistics"
+  },
+  {
+    "_id": "S0647",
+    "description": "Skill in managing a workforce"
+  },
+  {
+    "_id": "S0648",
+    "description": "Skill in detecting anomalies"
+  },
+  {
+    "_id": "S0649",
+    "description": "Skill in removing outliers"
+  },
+  {
+    "_id": "S0650",
+    "description": "Skill in writing scripts"
+  },
+  {
+    "_id": "S0651",
+    "description": "Skill in performing malware analysis"
+  },
+  {
+    "_id": "S0652",
+    "description": "Skill in performing bit-level analysis"
+  },
+  {
+    "_id": "S0653",
+    "description": "Skill in creating digital evidence copies"
+  },
+  {
+    "_id": "S0654",
+    "description": "Skill in conducting system reviews"
+  },
+  {
+    "_id": "S0655",
+    "description": "Skill in designing secure test plans"
+  },
+  {
+    "_id": "S0656",
+    "description": "Skill in assessing application vulnerabilities"
+  },
+  {
+    "_id": "S0657",
+    "description": "Skill in implementing Public Key Infrastructure (PKI) encryption"
+  },
+  {
+    "_id": "S0658",
+    "description": "Skill in implementing digital signatures"
+  },
+  {
+    "_id": "S0659",
+    "description": "Skill in applying security models"
+  },
+  {
+    "_id": "S0660",
+    "description": "Skill in performing systems engineering"
+  },
+  {
+    "_id": "S0661",
+    "description": "Skill in troubleshooting client-level problems"
+  },
+  {
+    "_id": "S0662",
+    "description": "Skill in managing servers"
+  },
+  {
+    "_id": "S0663",
+    "description": "Skill in managing workstations"
+  },
+  {
+    "_id": "S0664",
+    "description": "Skill in applying policies that meet system security objectives"
+  },
+  {
+    "_id": "S0665",
+    "description": "Skill in creating policies"
+  },
+  {
+    "_id": "S0666",
+    "description": "Skill in defining performance objectives"
+  },
+  {
+    "_id": "S0667",
+    "description": "Skill in assessing security controls"
+  },
+  {
+    "_id": "S0668",
+    "description": "Skill in designing technology processes and solutions"
+  },
+  {
+    "_id": "S0669",
+    "description": "Skill in integrating technology processes and solutions"
+  },
+  {
+    "_id": "S0670",
+    "description": "Skill in implementing error handling in applications"
+  },
+  {
+    "_id": "S0671",
+    "description": "Skill in implementing network infrastructure contingency and recovery plans"
+  },
+  {
+    "_id": "S0672",
+    "description": "Skill in troubleshooting failed system components"
+  },
+  {
+    "_id": "S0673",
+    "description": "Skill in translating operational requirements into security controls"
+  },
+  {
+    "_id": "S0674",
+    "description": "Skill in installing system and component upgrades"
+  },
+  {
+    "_id": "S0675",
+    "description": "Skill in optimizing system performance"
+  },
+  {
+    "_id": "S0677",
+    "description": "Skill in recovering failed systems"
+  },
+  {
+    "_id": "S0678",
+    "description": "Skill in administering operating systems"
+  },
+  {
+    "_id": "S0679",
+    "description": "Skill in configuring network workstations and peripherals"
+  },
+  {
+    "_id": "S0680",
+    "description": "Skill in validating network workstations and peripherals"
+  },
+  {
+    "_id": "S0681",
+    "description": "Skill in performing design modeling"
+  },
+  {
+    "_id": "S0682",
+    "description": "Skill in applying subnet techniques"
+  },
+  {
+    "_id": "S0683",
+    "description": "Skill in implementing network segregation"
+  },
+  {
+    "_id": "S0685",
+    "description": "Skill in configuring computer protection components"
+  },
+  {
+    "_id": "S0686",
+    "description": "Skill in performing risk assessments"
+  },
+  {
+    "_id": "S0687",
+    "description": "Skill in performing administrative planning activities"
+  },
+  {
+    "_id": "S0688",
+    "description": "Skill in performing network data analysis"
+  },
+  {
+    "_id": "S0689",
+    "description": "Skill in performing language processing tool analysis"
+  },
+  {
+    "_id": "S0690",
+    "description": "Skill in performing midpoint collection data analysis"
+  },
+  {
+    "_id": "S0692",
+    "description": "Skill in developing target assessments"
+  },
+  {
+    "_id": "S0693",
+    "description": "Skill in assessing effects generated during and after cyber operations"
+  },
+  {
+    "_id": "S0694",
+    "description": "Skill in auditing network devices"
+  },
+  {
+    "_id": "S0695",
+    "description": "Skill in performing Open Source Intelligence (OSINT) research"
+  },
+  {
+    "_id": "S0696",
+    "description": "Skill in conducting deep web research"
+  },
+  {
+    "_id": "S0697",
+    "description": "Skill in analyzing social networks"
+  },
+  {
+    "_id": "S0698",
+    "description": "Skill in creating intelligence collection requirements"
+  },
+  {
+    "_id": "S0699",
+    "description": "Skill in creating plans in support of remote operations"
+  },
+  {
+    "_id": "S0700",
+    "description": "Skill in mining data"
+  },
+  {
+    "_id": "S0701",
+    "description": "Skill in performing data mining analysis"
+  },
+  {
+    "_id": "S0702",
+    "description": "Skill in defining an operational environment"
+  },
+  {
+    "_id": "S0703",
+    "description": "Skill in depicting data on a network map"
+  },
+  {
+    "_id": "S0704",
+    "description": "Skill in performing target analysis"
+  },
+  {
+    "_id": "S0705",
+    "description": "Skill in installing patches"
+  },
+  {
+    "_id": "S0706",
+    "description": "Skill in identifying patch signatures"
+  },
+  {
+    "_id": "S0707",
+    "description": "Skill in developing comprehensive cyber operations assessment programs"
+  },
+  {
+    "_id": "S0708",
+    "description": "Skill in executing comprehensive cyber operations assessment programs"
+  },
+  {
+    "_id": "S0709",
+    "description": "Skill in developing analytics"
+  },
+  {
+    "_id": "S0710",
+    "description": "Skill in evaluating metadata"
+  },
+  {
+    "_id": "S0711",
+    "description": "Skill in interpreting metadata"
+  },
+  {
+    "_id": "S0712",
+    "description": "Skill in evaluating data source quality"
+  },
+  {
+    "_id": "S0713",
+    "description": "Skill in evaluating information quality"
+  },
+  {
+    "_id": "S0714",
+    "description": "Skill in performing fusion analysis"
+  },
+  {
+    "_id": "S0715",
+    "description": "Skill in generating operation plans"
+  },
+  {
+    "_id": "S0716",
+    "description": "Skill in identifying target communications networks"
+  },
+  {
+    "_id": "S0717",
+    "description": "Skill in identifying target network characteristics"
+  },
+  {
+    "_id": "S0718",
+    "description": "Skill in identifying cybersecurity threats"
+  },
+  {
+    "_id": "S0719",
+    "description": "Skill in identifying intelligence gaps"
+  },
+  {
+    "_id": "S0720",
+    "description": "Skill in identifying regional languages and dialects"
+  },
+  {
+    "_id": "S0721",
+    "description": "Skill in prioritizing information"
+  },
+  {
+    "_id": "S0722",
+    "description": "Skill in interpreting traceroute results"
+  },
+  {
+    "_id": "S0723",
+    "description": "Skill in interpreting vulnerability scanner results"
+  },
+  {
+    "_id": "S0724",
+    "description": "Skill in managing client relationships"
+  },
+  {
+    "_id": "S0725",
+    "description": "Skill in performing network visualization"
+  },
+  {
+    "_id": "S0726",
+    "description": "Skill in performing data normalization"
+  },
+  {
+    "_id": "S0727",
+    "description": "Skill in performing data fusion"
+  },
+  {
+    "_id": "S0728",
+    "description": "Skill in preparing briefings"
+  },
+  {
+    "_id": "S0729",
+    "description": "Skill in preparing plans"
+  },
+  {
+    "_id": "S0731",
+    "description": "Skill in producing after-action reports"
+  },
+  {
+    "_id": "S0732",
+    "description": "Skill in recognizing malicious network activity in traffic"
+  },
+  {
+    "_id": "S0733",
+    "description": "Skill in interpreting malicious network activity in traffic"
+  },
+  {
+    "_id": "S0734",
+    "description": "Skill in identifying technical information"
+  },
+  {
+    "_id": "S0735",
+    "description": "Skill in programming"
+  },
+  {
+    "_id": "S0736",
+    "description": "Skill in researching software vulnerabilities"
+  },
+  {
+    "_id": "S0737",
+    "description": "Skill in researching software exploits"
+  },
+  {
+    "_id": "S0738",
+    "description": "Skill in performing reverse engineering of software"
+  },
+  {
+    "_id": "S0739",
+    "description": "Skill in analyzing intelligence products"
+  },
+  {
+    "_id": "S0740",
+    "description": "Skill in creating target materials"
+  },
+  {
+    "_id": "S0741",
+    "description": "Skill in administering servers"
+  },
+  {
+    "_id": "S0743",
+    "description": "Skill in identifying network anomalies"
+  },
+  {
+    "_id": "S0744",
+    "description": "Skill in performing technical writing"
+  },
+  {
+    "_id": "S0745",
+    "description": "Skill in testing tools for implementation"
+  },
+  {
+    "_id": "S0746",
+    "description": "Skill in evaluating tools for implementation"
+  },
+  {
+    "_id": "S0747",
+    "description": "Skill in translating languages"
+  },
+  {
+    "_id": "S0748",
+    "description": "Skill in querying data"
+  },
+  {
+    "_id": "S0749",
+    "description": "Skill in determining relevant information"
+  },
+  {
+    "_id": "S0750",
+    "description": "Skill in applying geospatial resources"
+  },
+  {
+    "_id": "S0751",
+    "description": "Skill in conducting open-source searches"
+  },
+  {
+    "_id": "S0752",
+    "description": "Skill in evading network detection"
+  },
+  {
+    "_id": "S0753",
+    "description": "Skill in reconstructing target networks"
+  },
+  {
+    "_id": "S0754",
+    "description": "Skill in establishing persistence"
+  },
+  {
+    "_id": "S0755",
+    "description": "Skill in reconstructing a network"
+  },
+  {
+    "_id": "S0756",
+    "description": "Skill in incorporating feedback"
+  },
+  {
+    "_id": "S0757",
+    "description": "Skill in verifying the integrity of files"
+  },
+  {
+    "_id": "S0758",
+    "description": "Skill in performing wireless network analysis"
+  },
+  {
+    "_id": "S0759",
+    "description": "Skill in identifying requirements"
+  },
+  {
+    "_id": "S0760",
+    "description": "Skill in navigating databases"
+  },
+  {
+    "_id": "S0761",
+    "description": "Skill in performing strategic guidance analysis"
+  },
+  {
+    "_id": "S0762",
+    "description": "Skill in integrating organization objectives"
+  },
+  {
+    "_id": "S0763",
+    "description": "Skill in assessing cyber operations"
+  },
+  {
+    "_id": "S0764",
+    "description": "Skill in comparing indicators with requirements"
+  },
+  {
+    "_id": "S0765",
+    "description": "Skill in converting intelligence requirements into intelligence production tasks"
+  },
+  {
+    "_id": "S0766",
+    "description": "Skill in coordinating product development"
+  },
+  {
+    "_id": "S0767",
+    "description": "Skill in developing tailored intelligence products"
+  },
+  {
+    "_id": "S0768",
+    "description": "Skill in allocating resources"
+  },
+  {
+    "_id": "S0769",
+    "description": "Skill in defining progress indicators"
+  },
+  {
+    "_id": "S0770",
+    "description": "Skill in defining success indicators"
+  },
+  {
+    "_id": "S0771",
+    "description": "Skill in creating planning documents"
+  },
+  {
+    "_id": "S0772",
+    "description": "Skill in maintaining planning documents"
+  },
+  {
+    "_id": "S0773",
+    "description": "Skill in tracking services"
+  },
+  {
+    "_id": "S0774",
+    "description": "Skill in evaluating feasibility of intelligence collection sources"
+  },
+  {
+    "_id": "S0775",
+    "description": "Skill in developing intelligence collection plans"
+  },
+  {
+    "_id": "S0776",
+    "description": "Skill in distinguishing between notional and actual resources"
+  },
+  {
+    "_id": "S0777",
+    "description": "Skill in developing collection strategies"
+  },
+  {
+    "_id": "S0778",
+    "description": "Skill in evaluating operational environments"
+  },
+  {
+    "_id": "S0779",
+    "description": "Skill in determining information requirements"
+  },
+  {
+    "_id": "S0780",
+    "description": "Skill in fulfilling information requests"
+  },
+  {
+    "_id": "S0781",
+    "description": "Skill in evaluating collection capabilities"
+  },
+  {
+    "_id": "S0782",
+    "description": "Skill in determining capability estimates"
+  },
+  {
+    "_id": "S0783",
+    "description": "Skill in creating decision support materials"
+  },
+  {
+    "_id": "S0784",
+    "description": "Skill in implementing established procedures"
+  },
+  {
+    "_id": "S0785",
+    "description": "Skill in interpreting planning guidance"
+  },
+  {
+    "_id": "S0786",
+    "description": "Skill in interpreting readiness reporting"
+  },
+  {
+    "_id": "S0787",
+    "description": "Skill in monitoring threat effects to partner capabilities"
+  },
+  {
+    "_id": "S0788",
+    "description": "Skill in orchestrating planning teams"
+  },
+  {
+    "_id": "S0789",
+    "description": "Skill in coordinating collection support"
+  },
+  {
+    "_id": "S0790",
+    "description": "Skill in monitoring status"
+  },
+  {
+    "_id": "S0791",
+    "description": "Skill in presenting to an audience"
+  },
+  {
+    "_id": "S0792",
+    "description": "Skill in resolving conflicting intelligence collection requirements"
+  },
+  {
+    "_id": "S0793",
+    "description": "Skill in analyzing performance specifications"
+  },
+  {
+    "_id": "S0794",
+    "description": "Skill in establishing timelines"
+  },
+  {
+    "_id": "S0795",
+    "description": "Skill in tracking intelligence collection requirements"
+  },
+  {
+    "_id": "S0796",
+    "description": "Skill in creating privacy policies"
+  },
+  {
+    "_id": "S0797",
+    "description": "Skill in negotiating vendor agreements"
+  },
+  {
+    "_id": "S0798",
+    "description": "Skill in evaluating vendor privacy practices"
+  },
+  {
+    "_id": "S0799",
+    "description": "Skill in anticipating new security threats"
+  },
+  {
+    "_id": "S0800",
+    "description": "Skill in analyzing organizational patterns and relationships"
+  },
+  {
+    "_id": "S0801",
+    "description": "Skill in assessing partner operations capabilities"
+  },
+  {
+    "_id": "S0802",
+    "description": "Skill in assessing partner intelligence processes"
+  },
+  {
+    "_id": "S0803",
+    "description": "Skill in performing partner analysis"
+  },
+  {
+    "_id": "S0804",
+    "description": "Skill in assessing an organization's threat environment"
+  },
+  {
+    "_id": "S0805",
+    "description": "Skill in designing incident responses"
+  },
+  {
+    "_id": "S0806",
+    "description": "Skill in performing incident responses"
+  },
+  {
+    "_id": "S0807",
+    "description": "Skill in solving problems"
+  },
+  {
+    "_id": "S0808",
+    "description": "Skill in assessing an organization\u2019s data assets"
+  },
+  {
+    "_id": "S0809",
+    "description": "Skill in utilizing cyber defense service provider information"
+  },
+  {
+    "_id": "S0810",
+    "description": "Skill in responding to threat reports"
+  },
+  {
+    "_id": "S0811",
+    "description": "Skill in managing intelligence collection requirements"
+  },
+  {
+    "_id": "S0812",
+    "description": "Skill in performing supply chain analysis"
+  },
+  {
+    "_id": "S0813",
+    "description": "Skill in identifying cybersecurity issues in external connections"
+  },
+  {
+    "_id": "S0814",
+    "description": "Skill in identifying privacy issues in partner interconnections"
+  },
+  {
+    "_id": "S0815",
+    "description": "Skill in troubleshooting network equipment"
+  },
+  {
+    "_id": "S0816",
+    "description": "Skill in developing curriculum standards"
+  },
+  {
+    "_id": "S0817",
+    "description": "Skill in building internal and external relationships"
+  },
+  {
+    "_id": "S0818",
+    "description": "Skill in building internal and external stakeholder relationships"
+  },
+  {
+    "_id": "S0819",
+    "description": "Skill in caching data"
+  },
+  {
+    "_id": "S0820",
+    "description": "Skill in cataloging data"
+  },
+  {
+    "_id": "S0821",
+    "description": "Skill in collaborating with internal and external stakeholders"
+  },
+  {
+    "_id": "S0822",
+    "description": "Skill in collaborating with stakeholders"
+  },
+  {
+    "_id": "S0824",
+    "description": "Skill in communicating with customers"
+  },
+  {
+    "_id": "S0825",
+    "description": "Skill in communicating with engineering staff"
+  },
+  {
+    "_id": "S0826",
+    "description": "Skill in communicating with external organizations"
+  },
+  {
+    "_id": "S0827",
+    "description": "Skill in communicating with internal and external stakeholders"
+  },
+  {
+    "_id": "S0828",
+    "description": "Skill in compiling data"
+  },
+  {
+    "_id": "S0829",
+    "description": "Skill in conducting customer interviews"
+  },
+  {
+    "_id": "S0830",
+    "description": "Skill in conducting feasability studies"
+  },
+  {
+    "_id": "S0831",
+    "description": "Skill in configuring hardware"
+  },
+  {
+    "_id": "S0832",
+    "description": "Skill in cooperating with internal and external stakeholders"
+  },
+  {
+    "_id": "S0833",
+    "description": "Skill in correlating incident data"
+  },
+  {
+    "_id": "S0834",
+    "description": "Skill in developing technical reports"
+  },
+  {
+    "_id": "S0835",
+    "description": "Skill in distributing data"
+  },
+  {
+    "_id": "S0836",
+    "description": "Skill in encrypting data"
+  },
+  {
+    "_id": "S0837",
+    "description": "Skill in executing computer scripts to automate tasks"
+  },
+  {
+    "_id": "S0838",
+    "description": "Skill in identifying anomalous activities"
+  },
+  {
+    "_id": "S0839",
+    "description": "Skill in identifying exploited system weaknesses"
+  },
+  {
+    "_id": "S0840",
+    "description": "Skill in identifying misuse activities"
+  },
+  {
+    "_id": "S0841",
+    "description": "Skill in identifying possible security violations"
+  },
+  {
+    "_id": "S0842",
+    "description": "Skill in interpeting test results"
+  },
+  {
+    "_id": "S0843",
+    "description": "Skill in maintaining data"
+  },
+  {
+    "_id": "S0844",
+    "description": "Skill in managing account access rights"
+  },
+  {
+    "_id": "S0845",
+    "description": "Skill in mapping networks"
+  },
+  {
+    "_id": "S0846",
+    "description": "Skill in monitoring system activity"
+  },
+  {
+    "_id": "S0847",
+    "description": "Skill in performing all-source intelligence analysis"
+  },
+  {
+    "_id": "S0848",
+    "description": "Skill in performing behavioral analysis"
+  },
+  {
+    "_id": "S0850",
+    "description": "Skill in performing cost/benefit analysis"
+  },
+  {
+    "_id": "S0851",
+    "description": "Skill in performing cultural analysis"
+  },
+  {
+    "_id": "S0852",
+    "description": "Skill in performing cyber defense trend analysis"
+  },
+  {
+    "_id": "S0853",
+    "description": "Skill in performing cybersecurity architecture analysis"
+  },
+  {
+    "_id": "S0854",
+    "description": "Skill in performing data analysis"
+  },
+  {
+    "_id": "S0855",
+    "description": "Skill in performing data requirement analysis"
+  },
+  {
+    "_id": "S0856",
+    "description": "Skill in performing digital evidence analysis"
+  },
+  {
+    "_id": "S0857",
+    "description": "Skill in performing dynamic analysis"
+  },
+  {
+    "_id": "S0858",
+    "description": "Skill in performing economic analysis"
+  },
+  {
+    "_id": "S0859",
+    "description": "Skill in performing event correlation"
+  },
+  {
+    "_id": "S0860",
+    "description": "Skill in performing file system forensic analysis"
+  },
+  {
+    "_id": "S0861",
+    "description": "Skill in performing gap analysis"
+  },
+  {
+    "_id": "S0862",
+    "description": "Skill in performing geospatial analysis"
+  },
+  {
+    "_id": "S0863",
+    "description": "Skill in performing incident analysis"
+  },
+  {
+    "_id": "S0864",
+    "description": "Skill in performing intercept related information (IRI) analysis"
+  },
+  {
+    "_id": "S0865",
+    "description": "Skill in performing language analysis"
+  },
+  {
+    "_id": "S0866",
+    "description": "Skill in performing log file analysis"
+  },
+  {
+    "_id": "S0867",
+    "description": "Skill in performing malicious activity analysis"
+  },
+  {
+    "_id": "S0868",
+    "description": "Skill in performing market analysis"
+  },
+  {
+    "_id": "S0869",
+    "description": "Skill in performing metadata analysis"
+  },
+  {
+    "_id": "S0870",
+    "description": "Skill in performing needs analysis"
+  },
+  {
+    "_id": "S0871",
+    "description": "Skill in performing network analysis"
+  },
+  {
+    "_id": "S0872",
+    "description": "Skill in performing network data flow analysis"
+  },
+  {
+    "_id": "S0873",
+    "description": "Skill in performing network trafffic analysis"
+  },
+  {
+    "_id": "S0874",
+    "description": "Skill in performing network traffic analysis"
+  },
+  {
+    "_id": "S0875",
+    "description": "Skill in performing network traffic packet analysis"
+  },
+  {
+    "_id": "S0876",
+    "description": "Skill in performing nodal analysis"
+  },
+  {
+    "_id": "S0877",
+    "description": "Skill in performing quantitative analysis"
+  },
+  {
+    "_id": "S0878",
+    "description": "Skill in performing risk analysis"
+  },
+  {
+    "_id": "S0879",
+    "description": "Skill in performing scientific analysis"
+  },
+  {
+    "_id": "S0880",
+    "description": "Skill in performing security architecture analysis"
+  },
+  {
+    "_id": "S0881",
+    "description": "Skill in performing social network analysis"
+  },
+  {
+    "_id": "S0882",
+    "description": "Skill in performing static analysis"
+  },
+  {
+    "_id": "S0883",
+    "description": "Skill in performing static code analysis"
+  },
+  {
+    "_id": "S0884",
+    "description": "Skill in performing static malware analysis"
+  },
+  {
+    "_id": "S0885",
+    "description": "Skill in performing system activity analysis"
+  },
+  {
+    "_id": "S0886",
+    "description": "Skill in performing system analysis"
+  },
+  {
+    "_id": "S0888",
+    "description": "Skill in performing target communications analysis"
+  },
+  {
+    "_id": "S0889",
+    "description": "Skill in performing test result analysis"
+  },
+  {
+    "_id": "S0890",
+    "description": "Skill in performing threat analysis"
+  },
+  {
+    "_id": "S0891",
+    "description": "Skill in performing trade-off analysis"
+  },
+  {
+    "_id": "S0892",
+    "description": "Skill in performing trend analysis"
+  },
+  {
+    "_id": "S0893",
+    "description": "Skill in performing user needs analysis"
+  },
+  {
+    "_id": "S0896",
+    "description": "Skill in recognizing behavioral patterns"
+  },
+  {
+    "_id": "S0897",
+    "description": "Skill in retrieving data"
+  },
+  {
+    "_id": "S0898",
+    "description": "Skill in testing hardware"
+  },
+  {
+    "_id": "S0899",
+    "description": "Skill in testing interfaces"
+  },
+  {
+    "_id": "S0900",
+    "description": "Skill in analyzing information from multiple sources"
+  },
+  {
+    "_id": "S0902",
+    "description": "Skill in building relationships remotely and in person"
+  },
+  {
+    "_id": "S0904",
+    "description": "Skill in correlating data from multiple tools"
+  },
+  {
+    "_id": "S0905",
+    "description": "Skill in determining what information may helpful to a specific audience"
+  },
+  {
+    "_id": "S0906",
+    "description": "Skill in identifying insider risk security gaps"
+  },
+  {
+    "_id": "S0907",
+    "description": "Skill in identifying insider threats"
+  },
+  {
+    "_id": "S0908",
+    "description": "Skill in determining the importance of assets"
+  },
+  {
+    "_id": "S0909",
+    "description": "Skill in integrating information from multiple sources"
+  },
+  {
+    "_id": "S0910",
+    "description": "Skill in performing cyberintelligence data analysis"
+  },
+  {
+    "_id": "S0911",
+    "description": "Skill in performing data queries"
+  },
+  {
+    "_id": "S0912",
+    "description": "Skill in performing human behavioral analysis"
+  },
+  {
+    "_id": "S0913",
+    "description": "Skill in performing link analysis"
+  },
+  {
+    "_id": "S0916",
+    "description": "Skill in recognizing recurring threat incidents"
+  }
+]

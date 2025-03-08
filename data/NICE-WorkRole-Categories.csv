@@ -1,0 +1,8 @@
+﻿category ID,categoryName,categoryDescription
+OG,OVERSIGHT and GOVERNANCE (OG),"Provides leadership, management, direction, and advocacy so the organization may effectively manage cybersecurity"
+DD,DESIGN and DEVELOPMENT (DD),"Conducts research, conceptualizes, designs, develops, and tests secure technology systems, including on perimeter and cloud"
+IO,IMPLEMENTATION and OPERATION (IO),"Provides implementation, administration, configuration, operation, and maintenance to ensure effective and efficient technology system performance and security."
+PD,PROTECTION and DEFENSE (PD),"Protects against, identifies, and analyzes risks to technology systems or networks. Includes investigation of cybersecurity events or crimes related to technology systems and networks."
+IN,INVESTIGATION (IN),"Conducts national cybersecurity and cybercrime investigations, including the collection, management, and analysis of digital evidence."
+CI,CYBERSPACE INTELLIGENCE (CI),"Collects, processes, analyzes, and disseminates information from all sources of intelligence on foreign actors' cyberspace programs, intentions, capabilities, research and development, and operational activities."
+CE,CYBERSPACE EFFECTS (CE),"Plans, supports, and executes cyberspace capabilities where the primary purpose is to externally defend or conduct force projection in or through cyberspace."
